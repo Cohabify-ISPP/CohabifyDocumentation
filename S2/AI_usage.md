@@ -1,6 +1,6 @@
 ![US Logo](images/logo_us.png)
 
-# Gestión de las IAs
+Gestión de las IAs
 ---
 
 ![Cohabify](images/Cohabify.png)
@@ -42,16 +42,16 @@
 
 ## Tabla de contenidos
 - [Gestión de las IAs](#gestión-de-las-ias)
-  - [Versión Cambios Autores](#versión-cambios-autores)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Resumen ejecutivo](#resumen-ejecutivo)
-    - [1. Inteligencias artificiales usadas](#1-inteligencias-artificiales-usadas)
-      - [1.1 ChatGPT](#11-chatgpt)
-      - [1.2 GitHub Copilot](#12-github-copilot)
-      - [1.3 Removebg](#13-removebg)
-      - [1.4 Pixelcut](#14-pixelcut)
-      - [1.5 Whisper](#15-whisper)
-    - [2. Normas en el uso de la IA](#2-normas-en-el-uso-de-la-ia)
+- [Versión Cambios Autores](#versión-cambios-autores)
+- [Tabla de contenidos](#tabla-de-contenidos)
+- [Resumen ejecutivo](#resumen-ejecutivo)
+  - [1. Inteligencias artificiales usadas](#1-inteligencias-artificiales-usadas)
+    - [1.1 ChatGPT](#11-chatgpt)
+    - [1.2 GitHub Copilot](#12-github-copilot)
+    - [1.3 Removebg](#13-removebg)
+    - [1.4 Pixelcut](#14-pixelcut)
+    - [1.5 Whisper](#15-whisper)
+  - [2. Normas en el uso de la IA](#2-normas-en-el-uso-de-la-ia)
 
 ## Resumen ejecutivo
 En este documento se detallarán los procedimientos que se usarán a lo largo de la realización del proyecto con respecto al uso de las Inteligencias Artificiales como ayuda para la producción de código. En el caso del proyecto Cohabify, se usarán las IAs de ChatGPT y GitHub Copilot siguiendo la política establecida en este documento. Además, se usarán otras IAs de forma puntual como Pixelcut o Removebg.
