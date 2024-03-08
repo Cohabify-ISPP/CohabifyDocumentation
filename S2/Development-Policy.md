@@ -1,6 +1,6 @@
 ![US Logo](images/logo_us.png)
 
-# Políticas de desarrollo
+Políticas de desarrollo
 ---
 
 
@@ -43,17 +43,17 @@
 
 ## Tabla de contenidos
 - [Políticas de desarrollo](#políticas-de-desarrollo)
-    - [Versión Cambios Autores](#versión-cambios-autores)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Resumen ejecutivo](#resumen-ejecutivo)
-  - [1. Políticas de desarrollo](#1-políticas-de-desarrollo)
-    - [1.1 Política de commits](#11-política-de-commits)
-      - [1.1.1 Normas de commits](#111-normas-de-commits)
-      - [1.1.2 Plantilla de commits](#112-plantilla-de-commits)
-  - [1.2 Política de branching](#12-política-de-branching)
-  - [1.3 Política de versionado](#13-política-de-versionado)
-  - [1.4 Política de issues](#14-política-de-issues)
-  - [1.5 Políticas de código](#15-políticas-de-código)
+  - [Versión Cambios Autores](#versión-cambios-autores)
+- [Tabla de contenidos](#tabla-de-contenidos)
+- [Resumen ejecutivo](#resumen-ejecutivo)
+- [1. Políticas de desarrollo](#1-políticas-de-desarrollo)
+  - [1.1 Política de commits](#11-política-de-commits)
+    - [1.1.1 Normas de commits](#111-normas-de-commits)
+    - [1.1.2 Plantilla de commits](#112-plantilla-de-commits)
+- [1.2 Política de branching](#12-política-de-branching)
+- [1.3 Política de versionado](#13-política-de-versionado)
+- [1.4 Política de issues](#14-política-de-issues)
+- [1.5 Políticas de código](#15-políticas-de-código)
 
 ## Resumen ejecutivo
 En el siguiente documento se detallan las políticas que serán utilizadas para mantener una homogeneidad en la gestión del repositorio y del código. Se estipula que los commits deben ser atómicos y siguiendo una plantilla, lo que mejora la legibilidad. En cuanto a la política de branching, se seguirá el estándar de gitflow, con ramas de feature, de develop o de release, entre otros. Las issues serán catalogadas por tipos, y se tomarán medidas según este. Las normas de código buscan reducir la complejidad y la deuda técnica de este, así como reducir el código spaghetti. Por último, el versionado de la aplicación será la definición de los estados estables de la aplicación, por lo que se utilizará el sistema vX.Y.Z.

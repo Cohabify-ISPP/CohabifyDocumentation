@@ -1,6 +1,6 @@
 ![US Logo](images/logo_us.png)
 
-# Lista y gestión de usuarios pilotos
+Lista y gestión de usuarios pilotos
 ---
 
 
@@ -45,8 +45,6 @@
 
 
 # Tabla de contenidos
-- [Lista y gestión de usuarios pilotos](#lista-y-gestión-de-usuarios-pilotos)
-    - [Versión Cambios Autores](#versión-cambios-autores)
 - [Tabla de contenidos](#tabla-de-contenidos)
 - [Resumen ejecutivo](#resumen-ejecutivo)
 - [1. Usuarios piloto](#1-usuarios-piloto)

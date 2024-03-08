@@ -1,6 +1,6 @@
 ![US Logo](images/logo_us.png)
 
-# Software Guidelines
+Software Guidelines
 ---
 
 
@@ -42,20 +42,18 @@
 
 ## Tabla de contenidos
 - [Software Guidelines](#software-guidelines)
-  - [Versión Cambios Autores](#versión-cambios-autores)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Resumen ejecutivo](#resumen-ejecutivo)
-  - [Manual de uso](#manual-de-uso)
-    - [CU Registro y Login](#cu-registro-y-login)
-      - [Inicio de sesión](#inicio-de-sesión)
-  - [1.1.2 Registro](#112-registro)
-  - [1.2 CU Listar viviendas](#12-cu-listar-viviendas)
-  - [1.3 CU Detalles de una vivienda](#13-cu-detalles-de-una-vivienda)
-  - [1.4 CU Listar inquilinos](#14-cu-listar-inquilinos)
-  - [1.5 CU Detalles de usuario](#15-cu-detalles-de-usuario)
-  - [2. Datos adicionales](#2-datos-adicionales)
-
-
+- [Versión Cambios Autores](#versión-cambios-autores)
+- [Tabla de contenidos](#tabla-de-contenidos)
+- [Resumen ejecutivo](#resumen-ejecutivo)
+- [Manual de uso](#manual-de-uso)
+  - [CU Registro y Login](#cu-registro-y-login)
+    - [Inicio de sesión](#inicio-de-sesión)
+- [1.1.2 Registro](#112-registro)
+- [1.2 CU Listar viviendas](#12-cu-listar-viviendas)
+- [1.3 CU Detalles de una vivienda](#13-cu-detalles-de-una-vivienda)
+- [1.4 CU Listar inquilinos](#14-cu-listar-inquilinos)
+- [1.5 CU Detalles de usuario](#15-cu-detalles-de-usuario)
+- [2. Datos adicionales](#2-datos-adicionales)
 
 ## Resumen ejecutivo
 A continuación, se mostrarán los casos de uso core de la aplicación, con muestras de las diferentes vistas y su correspondiente funcionamiento. Además, se aportan los enlaces al repositorio, página de despliegue, landing page y las credenciales para el inicio de sesión.

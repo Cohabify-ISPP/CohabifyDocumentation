@@ -1,6 +1,6 @@
 ![US Logo](images/logo_us.png)
 
-# Análisis de competidores
+Análisis de competidores
 ---
 
 
@@ -44,14 +44,14 @@
 
 ## Tabla de contenidos
 - [Análisis de competidores](#análisis-de-competidores)
-  - [Versión Cambios Autores](#versión-cambios-autores)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Resumen ejecutivo](#resumen-ejecutivo)
-    - [1. Uso de Semrush](#1-uso-de-semrush)
-      - [1.1 Identificación de competidores](#11-identificación-de-competidores)
-      - [1.2 Perfiles de competidores](#12-perfiles-de-competidores)
-      - [1.3 Palabras clave](#13-palabras-clave)
-    - [2. Análisis manual de competidores](#2-análisis-manual-de-competidores)
+- [Versión Cambios Autores](#versión-cambios-autores)
+- [Tabla de contenidos](#tabla-de-contenidos)
+- [Resumen ejecutivo](#resumen-ejecutivo)
+  - [1. Uso de Semrush](#1-uso-de-semrush)
+    - [1.1 Identificación de competidores](#11-identificación-de-competidores)
+    - [1.2 Perfiles de competidores](#12-perfiles-de-competidores)
+    - [1.3 Palabras clave](#13-palabras-clave)
+  - [2. Análisis manual de competidores](#2-análisis-manual-de-competidores)
 
 ## Resumen ejecutivo
 El presente documento pone de manifiesto el análisis de mercado realizado, donde se han estudiado múltiples competidores que podrían ser potenciales amenazas de éxito para nuestra aplicación. No obstante, tras un estudio exhaustivo de las empresas que ofrecen servicios similares a los nuestros, hemos encontrado un gran número de características faltantes que podrían ser explotadas para aportar valor a nuestra aplicación por encima de las demás, lo que nos ofrecería ventajas estratégicas contra la competencia.

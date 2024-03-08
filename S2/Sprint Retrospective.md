@@ -1,6 +1,6 @@
 ![US Logo](images/logo_us.png)
 
-# Sprint Retrospective
+Sprint Retrospective
 ---
 
 
@@ -43,20 +43,20 @@
 
 ## Tabla de contenidos
 - [Sprint Retrospective](#sprint-retrospective)
-    - [Versión Cambios Autores](#versión-cambios-autores)
-  - [Tabla de contenidos](#tabla-de-contenidos)
-  - [Resumen ejecutivo](#resumen-ejecutivo)
-  - [1. Retrospectiva](#1-retrospectiva)
-    - [1.1 Semana 1](#11-semana-1)
-    - [1.1.1 Aspectos positivos](#111-aspectos-positivos)
-    - [1.1.2 Aspectos a mejorar](#112-aspectos-a-mejorar)
-    - [1.1.3 Acciones correctivas](#113-acciones-correctivas)
-    - [1.2 Semana 2](#12-semana-2)
-    - [1.2.1 Aspectos positivos](#121-aspectos-positivos)
-    - [1.2.2 Aspectos a mejorar](#122-aspectos-a-mejorar)
-    - [1.2.2 Aspectos a mejorar](#122-aspectos-a-mejorar-1)
-    - [1.2.3 Acciones correctivas](#123-acciones-correctivas)
-  - [2.1 Conclusiones Sprint 1](#21-conclusiones-sprint-1)
+  - [Versión Cambios Autores](#versión-cambios-autores)
+- [Tabla de contenidos](#tabla-de-contenidos)
+- [Resumen ejecutivo](#resumen-ejecutivo)
+- [1. Retrospectiva](#1-retrospectiva)
+  - [1.1 Semana 1](#11-semana-1)
+  - [1.1.1 Aspectos positivos](#111-aspectos-positivos)
+  - [1.1.2 Aspectos a mejorar](#112-aspectos-a-mejorar)
+  - [1.1.3 Acciones correctivas](#113-acciones-correctivas)
+  - [1.2 Semana 2](#12-semana-2)
+  - [1.2.1 Aspectos positivos](#121-aspectos-positivos)
+  - [1.2.2 Aspectos a mejorar](#122-aspectos-a-mejorar)
+  - [1.2.2 Aspectos a mejorar](#122-aspectos-a-mejorar-1)
+  - [1.2.3 Acciones correctivas](#123-acciones-correctivas)
+- [2.1 Conclusiones Sprint 1](#21-conclusiones-sprint-1)
 
 ## Resumen ejecutivo
 En el presente documento, se reunirán todos los aspectos tratados durante las diferentes reuniones de retrospectiva realizadas a lo largo de los sprints. El objetivo de la retrospectiva es tratar de resumir cómo se ha trabajado, qué es lo que se ha hecho bien, que se ha hecho mal, y cómo mejorar aquello que se ha hecho mal. Se separará el análisis del sprint en 2 semanas, ya que hemos tenido 2 retrospectivas.

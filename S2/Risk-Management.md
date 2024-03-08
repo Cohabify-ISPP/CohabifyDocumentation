@@ -1,6 +1,6 @@
 ![US Logo](images/logo_us.png)
 
-# Análisis de Riesgos
+Análisis de Riesgos
 ---
 
 
@@ -43,16 +43,16 @@
 
 ## Tabla de Contenidos
 - [Análisis de Riesgos](#análisis-de-riesgos)
-  - [Versión Cambios Autores](#versión-cambios-autores)
-  - [Tabla de Contenidos](#tabla-de-contenidos)
-  - [Resumen ejecutivo](#resumen-ejecutivo)
-  - [1.1 Identificación](#11-identificación)
-  - [1.2 Análisis y Priorización](#12-análisis-y-priorización)
-  - [1.3 Evasión y Mitigación](#13-evasión-y-mitigación)
-  - [1.4 Monitorización](#14-monitorización)
-  - [1.5 Resultado](#15-resultado)
-    - [1.5.1 Clasificación de impacto y probabilidad](#151-clasificación-de-impacto-y-probabilidad)
-    - [1.5.2 Riesgos y planes de contingencia](#152-riesgos-y-planes-de-contingencia)
+- [Versión Cambios Autores](#versión-cambios-autores)
+- [Tabla de Contenidos](#tabla-de-contenidos)
+- [Resumen ejecutivo](#resumen-ejecutivo)
+- [1.1 Identificación](#11-identificación)
+- [1.2 Análisis y Priorización](#12-análisis-y-priorización)
+- [1.3 Evasión y Mitigación](#13-evasión-y-mitigación)
+- [1.4 Monitorización](#14-monitorización)
+- [1.5 Resultado](#15-resultado)
+  - [1.5.1 Clasificación de impacto y probabilidad](#151-clasificación-de-impacto-y-probabilidad)
+  - [1.5.2 Riesgos y planes de contingencia](#152-riesgos-y-planes-de-contingencia)
 
 ## Resumen ejecutivo
 Este documento detalla cómo se han analizado y evaluado los riesgos en el proyecto de Cohabify.

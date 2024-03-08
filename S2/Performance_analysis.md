@@ -1,6 +1,6 @@
 ![US Logo](images/logo_us.png)
 
-# Análisis de rendimiento
+Análisis de rendimiento
 ---
 
 
