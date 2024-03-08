@@ -1,38 +1,51 @@
+![US Logo](images/logo_us.png)
+
 # Lista y gestión de usuarios pilotos
+---
 
-## Lista de usuarios pilotos
-- Arriaza Arriaza, Daniel
-- Barrera García, Ismael
-- Calero López, Marina
-- Galeano de Paz, Guillermo
-- Gonzalez Castillero, Rafael
-- Márquez Sierra, María
-- Márquez Soldán, María
-- Morato Navarro, Juan Carlos
-- Morato Navarro, Olegario
-- Robles Russo, Eduardo
-- Roldán García, Miguel Ángel
-- Romero González, Juan
-- Urquijo Martínez, Álvaro
 
-## Grupo 4 Entregable S1
-- Repositorio: [https://github.com/Cohabify/Cohabify](https://github.com/Cohabify/Cohabify)
+![Cohabify](images/Cohabify.png)
+
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=2>Arriaza Arriaza, Daniel <p></p> Barrera García, Ismael <p></p> Calero López, Marina <p></p> Galeano de Paz, Guillermo <p></p> González Castillero, Rafael <p></p> Márquez Sierra, María <p></p> Márquez Soldán, María
+            </td>
+            <td rowspan=2>Morato Navarro, Juan Carlos <p></p> Morato Navarro, Olegario <p></p> Robles Russo, Eduardo <p></p> Roldán García, Miguel Ángel <p></p> Romero García, Juan <p></p> Urquijo Martínez, Álvaro <p></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+  <tr>
+    <th>Grupo</th>
+    <th>4</th>
+    <th>Entregable</th>
+    <th>S2</th>
+  </tr>
+  <tr>
+    <td>Repositorio</td>
+    <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
+  </tr>
+  <tr>
+    <td>Base de conocimiento común</td>
+    <td colspan="3"><a href="https://bgcc.vercel.app/">https://bgcc.vercel.app/</a></td>
+  </tr>
+</table>
+
 
 ### Versión Cambios Autores
-- V1.0: Creación del documento - 
-- V1.1: Añadido versionado Rafael González Castillero
-- V1.2: Añadido gestión de grupos en 2.3 Comunicación
+| Versión | Cambios | Autores |
+| --- | --- | --- |
+| V1.0 | Creación del documento | - |
+| V1.1 | Añadido versionado | Rafael González Castillero |
+| V1.2 | Añadido gestión de grupos en 2.3 Comunicación | Olegario Morato Navarro |
+| V1.3 | Añadida planificación de usuarios pilotos 2.6 Planificación de usuarios pilotos | Olegario Morato Navarro / Juan Carlos Morato Navarro |
 
-Olegario Morato Navarro
-
-- V1.3: Añadida planificación de usuarios pilotos 2.6 Planificación de usuarios pilotos
-
-Olegario Morato Navarro / Juan Carlos Morato Navarro
 
 # Tabla de contenidos
 - [Lista y gestión de usuarios pilotos](#lista-y-gestión-de-usuarios-pilotos)
-  - [Lista de usuarios pilotos](#lista-de-usuarios-pilotos)
-  - [Grupo 4 Entregable S1](#grupo-4-entregable-s1)
     - [Versión Cambios Autores](#versión-cambios-autores)
 - [Tabla de contenidos](#tabla-de-contenidos)
 - [Resumen ejecutivo](#resumen-ejecutivo)

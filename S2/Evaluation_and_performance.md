@@ -1,39 +1,86 @@
+![US Logo](images/logo_us.png)
+
 # Evaluación de rendimiento individual
+---
 
-- Arriaza Arriaza, Daniel
-- Barrera García, Ismael
-- Calero López, Marina
-- Galeano de Paz, Guillermo
-- Gonzalez Castillero, Rafael
-- Márquez Sierra, María
-- Márquez Soldán, María
-- Morato Navarro, Juan Carlos
-- Morato Navarro, Olegario
-- Robles Russo, Eduardo
-- Roldán García, Miguel Ángel
-- Romero González, Juan
-- Urquijo Martínez, Álvaro
 
-## Grupo 4 Entregable S1
-Repositorio: https://github.com/Cohabify/Cohabify
+![Cohabify](images/Cohabify.png)
 
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=2>Arriaza Arriaza, Daniel <p></p> Barrera García, Ismael <p></p> Calero López, Marina <p></p> Galeano de Paz, Guillermo <p></p> González Castillero, Rafael <p></p> Márquez Sierra, María <p></p> Márquez Soldán, María
+            </td>
+            <td rowspan=2>Morato Navarro, Juan Carlos <p></p> Morato Navarro, Olegario <p></p> Robles Russo, Eduardo <p></p> Roldán García, Miguel Ángel <p></p> Romero García, Juan <p></p> Urquijo Martínez, Álvaro <p></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+  <tr>
+    <th>Grupo</th>
+    <th>4</th>
+    <th>Entregable</th>
+    <th>S2</th>
+  </tr>
+  <tr>
+    <td>Repositorio</td>
+    <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
+  </tr>
+  <tr>
+    <td>Base de conocimiento común</td>
+    <td colspan="3"><a href="https://bgcc.vercel.app/">https://bgcc.vercel.app/</a></td>
+  </tr>
+</table>
+
+## Versión Cambios Autores
 Versión | Cambios | Autores
 --- | --- | ---
 V1.0 | Creación del documento | -
 V2.0 | Añadidas notas de S1 | Ismael Barrera García
 
 ## Tabla de contenidos
-1. Resumen ejecutivo
-2. Resumen de la contribución individual
-    1. Puntuaciones
-    2. Cálculo
-3. Detalles de contribución individual
-    1. Devising a Project (DP)
-    2. Sprint 1 (#S1)
-    3. Sprint 2 (#S2)
-    4. Sprint 3 (#S3)
-    5. Preparing Project Launch (#PPL)
-    6. World Project Launch (#WPL)
+- [Evaluación de rendimiento individual](#evaluación-de-rendimiento-individual)
+  - [Versión Cambios Autores](#versión-cambios-autores)
+  - [Tabla de contenidos](#tabla-de-contenidos)
+  - [Resumen ejecutivo](#resumen-ejecutivo)
+  - [Resumen de la contribución individual](#resumen-de-la-contribución-individual)
+    - [Puntuaciones](#puntuaciones)
+    - [Cálculo](#cálculo)
+  - [2.1 Devising a Project (DP)](#21-devising-a-project-dp)
+    - [Arriaza Arriaza, Daniel](#arriaza-arriaza-daniel)
+    - [Barrera García, Ismael](#barrera-garcía-ismael)
+    - [Calero López, Marina](#calero-lópez-marina)
+    - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo)
+    - [Gonzalez Castillero, Rafael](#gonzalez-castillero-rafael)
+    - [Márquez Sierra, María](#márquez-sierra-maría)
+    - [Márquez Soldán, María](#márquez-soldán-maría)
+    - [Morato Navarro, Juan Carlos](#morato-navarro-juan-carlos)
+    - [Morato Navarro, Olegario](#morato-navarro-olegario)
+    - [Robles Russo, Eduardo](#robles-russo-eduardo)
+    - [Roldán García, Miguel Ángel](#roldán-garcía-miguel-ángel)
+    - [Romero González, Juan](#romero-gonzález-juan)
+    - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro)
+  - [2.2 Sprint 1 (#S1)](#22-sprint-1-s1)
+    - [Arriaza Arriaza, Daniel](#arriaza-arriaza-daniel-1)
+    - [Barrera García, Ismael](#barrera-garcía-ismael-1)
+    - [Calero López, Marina](#calero-lópez-marina-1)
+    - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-1)
+    - [Gonzalez Castillero, Rafael](#gonzalez-castillero-rafael-1)
+    - [Márquez Sierra, María](#márquez-sierra-maría-1)
+    - [Márquez Soldán, María](#márquez-soldán-maría-1)
+    - [Morato Navarro, Juan Carlos](#morato-navarro-juan-carlos-1)
+    - [Morato Navarro, Olegario](#morato-navarro-olegario-1)
+    - [Robles Russo, Eduardo](#robles-russo-eduardo-1)
+    - [Roldán García, Miguel Ángel](#roldán-garcía-miguel-ángel-1)
+    - [Romero González, Juan](#romero-gonzález-juan-1)
+    - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-1)
+  - [2.3 Sprint 2 (#S2)](#23-sprint-2-s2)
+  - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
+  - [2.5 Preparing Project Launch (#PPL)](#25-preparing-project-launch-ppl)
+  - [2.6 World Project Launch (#WPL)](#26-world-project-launch-wpl)
+
 
 ## Resumen ejecutivo
 En el presente documento se recoge la contribución individual de cada miembro del equipo durante las diferentes etapas del desarrollo de Cohabify y la asignatura ISPP. Se recoge tanto la nota general de los entregables como las tareas específicas realizadas por cada persona.
