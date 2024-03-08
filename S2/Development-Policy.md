@@ -40,6 +40,7 @@ Políticas de desarrollo
 | --- | --- | --- |
 | V1.0 | Creación del documento | - |
 | V1.1 | Añadido versionado | Rafael González Castillero |
+| V2.0 | Actualización para funcionalidad de Governify y BlueJ | María Márquez Sierra |
 
 ## Tabla de contenidos
 - [Políticas de desarrollo](#políticas-de-desarrollo)
@@ -52,8 +53,8 @@ Políticas de desarrollo
     - [1.1.2 Plantilla de commits](#112-plantilla-de-commits)
 - [1.2 Política de branching](#12-política-de-branching)
 - [1.3 Política de versionado](#13-política-de-versionado)
-- [1.4 Política de issues](#14-política-de-issues)
-- [1.5 Políticas de código](#15-políticas-de-código)
+- [1.4 Políticas de código](#14-políticas-de-código)
+- [1.4 Políticas de BlueJ](#15-políticas-de-bluej)
 
 ## Resumen ejecutivo
 En el siguiente documento se detallan las políticas que serán utilizadas para mantener una homogeneidad en la gestión del repositorio y del código. Se estipula que los commits deben ser atómicos y siguiendo una plantilla, lo que mejora la legibilidad. En cuanto a la política de branching, se seguirá el estándar de gitflow, con ramas de feature, de develop o de release, entre otros. Las issues serán catalogadas por tipos, y se tomarán medidas según este. Las normas de código buscan reducir la complejidad y la deuda técnica de este, así como reducir el código spaghetti. Por último, el versionado de la aplicación será la definición de los estados estables de la aplicación, por lo que se utilizará el sistema vX.Y.Z.
@@ -104,24 +105,7 @@ El número de versiones se divide en tres partes: X, Y y Z.
 - El número Y representa la versión secundaria o menor, que se incrementa con cada nueva funcionalidad agregada o mejora que no rompe la compatibilidad con versiones anteriores.
 - El número Z corresponde a la versión de corrección o revisión, que se incrementa con cada corrección de errores o parches que no alteran la funcionalidad existente.
 
-## 1.4 Política de issues
-Una incidencia se define como cualquier evento o situación que afecta al desarrollo, implementación o funcionamiento del software, requiriendo atención para su resolución. En nuestro proyecto de búsqueda de compañeros de piso, identificamos tres tipos de incidencias:
-1. Tipo Incremento: Estas incidencias representan los diferentes incrementos funcionales planteados durante el desarrollo del proyecto.
-2. Tipo Conflicto: Se detectan al fusionar ramas durante una solicitud de extracción (pull request). Si se encuentran conflictos durante este proceso, se crea una incidencia y se espera que el revisor y el desarrollador de la funcionalidad resuelvan estos conflictos (por ejemplo, "Conflicto-nombre_de_la_rama").
-3. Tipo Error: Estas incidencias no están relacionadas con el código en sí, sino con aspectos del proyecto. Por lo general, estas incidencias tienen pasos específicos para su resolución, que deben ser documentados en la propia incidencia (por ejemplo, "Error-nombre_descriptivo").
-4. Tipo Bug: Se detectan después de fusionar cambios en la rama principal y se refieren a problemas específicos en el código (por ejemplo, "Bug-XXXXX").
-
-Cada incidencia se clasifica según su prioridad (baja, media o alta) en función de la urgencia de su resolución.
-
-En cuanto al método de resolución de incidencias, cada una pasa por tres estados: Detectada, En Resolución y Cerrada. Utilizamos GitHub Project para gestionar estas incidencias, con cada columna representando un estado y las issues representando las incidencias. Cada incidencia se asigna a un responsable y se le asignan tareas para el tipo de incidencia y su prioridad.
-
-Los pasos para resolver cada tipo de incidencia son los siguientes:
-- Incremento: Se analizan los módulos afectados, se crean las incidencias correspondientes, se trabajan las funcionalidades y se cierran al fusionar los cambios en la rama principal.
-- Conflicto: Se detecta el conflicto, se crea la incidencia, se resuelven los conflictos y se cierra la incidencia.
-- Error: Se detecta el error, se crea la incidencia con los pasos para solucionarlo, y se mantiene abierta hasta que se solucione.
-- Bug: Se detecta el bug, se crea la incidencia, se crea una rama para solucionarlo, se trabaja en la solución y se cierra la incidencia al fusionar los cambios en la rama principal.
-
-## 1.5 Políticas de código
+## 1.4 Políticas de código
 Con respecto a la realización de código, seguiremos estas pautas con el objetivo de conseguir claridad y eficiencia a la hora de desarrollar nuestra aplicación:
 - Nombres claros y descriptivos: Los nombres que usaremos para variables, funciones y clases serán significativos y describirán su uso. Evitaremos abreviaturas complejas y nombres poco explicativos que puedan crear confusión a la hora de la lectura.
 - Funciones y métodos pequeños y específicos: A la hora de crear funciones, estas serán cortas y se centrarán en una tarea específica en la medida de lo posible para conseguir una mayor legibilidad del código, además de facilitar el trabajo de entendimiento del mismo por parte del resto de compañeros del equipo. En el caso de tener funciones demasiado largas, se valorará el dividirlas en otras más cortas.
@@ -131,3 +115,32 @@ Con respecto a la realización de código, seguiremos estas pautas con el objeti
     - Mantendremos el espaciado de forma consistente.
 - Evita la duplicación de código (DRY): Trataremos de mantener el código repetido al mínimo posible. Encapsularemos la mayor parte lógica repetida en funciones, clases o módulos reutilizables para facilitar el trabajo de desarrollo.
 - Refactorización constante: En el caso de encontrarnos con un posible elemento refactorizable en el código, este se valorará con el objetivo de analizar si su refactorización producirá un cambio significativo en la limpieza del código.
+
+## 1.5 Políticas de BlueJ
+
+- Estos procedimientos detallan las acciones necesarias para garantizar el correcto funcionamiento del repositorio en colaboración con las herramientas BlueJ y Governify. Sigue estas pautas para asegurar una integración fluida y eficiente en el desarrollo del proyecto.
+
+### CREAR UNA RAMA:
+
+1. Mover la tarea de 'TODO' a la columna 'In Progress'.
+2. Crear una nueva rama desde DEVELOP con el siguiente formato: `Feat/XXX-Creacion-Anuncio-Piso` (siendo XXX el número que aparece como #XXX en la issue creada).
+
+---
+
+### MOVER DE 'In-Progress' A 'In Review':
+
+1. Mover la tarea de 'In-Progress' a 'In-Review'.
+2. Crear la pull request con el siguiente formato: `Creación anuncio piso /XXX` (siendo XXX el número que aparece como #XXX en la issue de dicha PR; es importante que el nombre sea el mismo que el de la issue).
+
+Cabe destacar que la PR debe ser creada por la persona asignada a la tarea de dicha PR.
+
+---
+
+### MOVER DE 'In-Review' A 'DONE':
+
+1. Aceptar la PR y hacer un merge.
+2. Una vez aprobada la PR, moverla de la columna 'In-Review' a 'DONE'.
+
+- Cabe destacar que la persona que aprueba y hace merge de la PR debe ser distinta a la persona asignada, y los commits de la pull request también deben ser realizados por una persona que no haya colaborado en ningún momento en la PR.
+
+
