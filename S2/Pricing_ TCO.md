@@ -35,7 +35,8 @@ TCO y Pricing
 </table>
 
 
-**Versión Cambios Autores**
+
+#####  Versión Cambios Autores
 | Versión | Cambios | Autores |
 | --- | --- | --- |
 | V1.0 | Creación del documento | - |
@@ -45,19 +46,12 @@ TCO y Pricing
 | V1.4 | Corregir errata en aumento de costes de operación | Daniel Arriaza Arriaza |
 
 
-## Tabla de contenidos
-##### [Resumen ejecutivo](#resumen-ejecutivo)
-##### [Introducción](#introducción)
-##### [1. Total Cost of Ownership (TCO)](#1-total-cost-of-ownership-tco)
+##### Tabla de contenidos
 - [TCO y Pricing](#tco-y-pricing)
-- [Tabla de contenidos](#tabla-de-contenidos)
+      - [Versión Cambios Autores](#versión-cambios-autores)
+      - [Tabla de contenidos](#tabla-de-contenidos)
       - [Resumen ejecutivo](#resumen-ejecutivo)
       - [Introducción](#introducción)
-      - [1. Total Cost of Ownership (TCO)](#1-total-cost-of-ownership-tco)
-      - [2. Pricing de Cohabify](#2-pricing-de-cohabify)
-      - [3. Desvíos del número de usuarios estimados](#3-desvíos-del-número-de-usuarios-estimados)
-- [Resumen ejecutivo](#resumen-ejecutivo-1)
-- [Introducción](#introducción-1)
 - [Total Cost of Ownership (TCO)](#total-cost-of-ownership-tco)
   - [1. Costes de desarrollo](#1-costes-de-desarrollo)
     - [1.1 CAPEX desarrollo](#11-capex-desarrollo)
