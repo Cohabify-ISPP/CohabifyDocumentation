@@ -115,7 +115,7 @@ Para la comunicación con nuestros usuarios pilotos se usará el correo electró
 Para la formación de usuarios pilotos se realizará documentación y videos tutoriales explicando el papel que desempeñan y el uso de la aplicación ya que es un medio que bien trabajado puede hacer más sencillo el entendimiento de la aplicación y las tareas que se deben realizar. En ningún caso serán vídeos largos pues no se pretende hacer perder el tiempo a nuestros usuarios pilotos.
 
 ## 2.5 Recogida del feedback
-El feedback se recogerá mediante encuestas de Microsoft con preguntas que permitan a los usuarios describir su experiencia y reportar errores, ya sean técnicos o de diseño, con el objetivo de tener presente la opinión sincera de nuestros usuarios.
+El feedback se recogerá mediante encuestas de Microsoft con preguntas que permitan a los usuarios describir su experiencia y reportar errores, ya sean técnicos o de diseño, con el objetivo de tener presente la opinión sincera de nuestros usuarios. Las respuestas de los usuarios serán estudiadas y las peticiones de cambios o solución de errores serán priorizadas según el impacto que tengan sobre la aplicación. Posteriormente se crearán issues con el objetivo de solucionar los errores detectados por nuestros usuarios. 
 
 ## 2.6 Planificación de usuarios pilotos
 Los usuarios recibirán una nueva versión de la aplicación siempre cerca del final de cada sprint junto con un formulario para evaluar su feedback sobre las funcionalidades añadidas durante el desarrollo. Además, se les proporcionará el material necesario para comprender estas nuevas funcionalidades. La planificación para gestionar a nuestros usuarios pilotos durante las diferentes etapas de desarrollo son las siguientes:
