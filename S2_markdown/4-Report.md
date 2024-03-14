@@ -445,6 +445,17 @@ Dado que esta semana nuestro grupo no estaba encargado de aportar el feedback ge
 + La matriz RACI debe corresponder con el github.
 + Ver como medir las acciones de mejora para los problemas.
 
+### Semana 6: 12/03 (Retrospectiva)
+
++ Ajustar la linea ideal a lo real, no aplicarnos fines de semana/fiesta y usar nuestro calendario de horas
++ Usar una épica/milestone que reuna las issues de refactorización
++ Separar la nota de desarrollo y coordinación y medir el grado de satisfacción del grupo con respecto al GM. (Para que el bajo rendimiento de un miembro del grupo no le afecte).
++ Usar gráfica de control chart para ver la diferencia entre tareas que se entregan antes y más tarde, buscar que el control chart llegue lo más cercano a la media para mostrar la equidad entre las tareas.
++ Poner issues de control de calidad para saber si la planificación está bien definida
++ Realizar acuerdo con grupo de usuarios piloto para asegurar que ambas partes cumplen el trabajo en el tiempo que se requiere.
++ Mostrar perfiles de github y clockify.
++ Ver puntuaciones proporcionadas y tareas asignadas a cada individuo. 
+
 
 
 ## 4.3 Acciones de respuesta ante el feedback
