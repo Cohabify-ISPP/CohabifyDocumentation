@@ -46,7 +46,7 @@ Sprint Retrospective
   - [Versión Cambios Autores](#versión-cambios-autores)
 - [Tabla de contenidos](#tabla-de-contenidos)
 - [Resumen ejecutivo](#resumen-ejecutivo)
-- [1. Retrospectiva](#1-retrospectiva)
+- [1. Retrospectiva Sprint 1](#1-retrospectiva)
   - [1.1 Semana 1](#11-semana-1)
   - [1.1.1 Aspectos positivos](#111-aspectos-positivos)
   - [1.1.2 Aspectos a mejorar](#112-aspectos-a-mejorar)
@@ -54,14 +54,23 @@ Sprint Retrospective
   - [1.2 Semana 2](#12-semana-2)
   - [1.2.1 Aspectos positivos](#121-aspectos-positivos)
   - [1.2.2 Aspectos a mejorar](#122-aspectos-a-mejorar)
-  - [1.2.2 Aspectos a mejorar](#122-aspectos-a-mejorar-1)
   - [1.2.3 Acciones correctivas](#123-acciones-correctivas)
 - [2.1 Conclusiones Sprint 1](#21-conclusiones-sprint-1)
+- [3. Retrospectiva Sprint 2](#3-retrospectiva)
+  - [3.1 Semana 1](#31-semana-1)
+  - [3.1.1 Aspectos positivos](#311-aspectos-positivos)
+  - [3.1.2 Aspectos a mejorar](#312-aspectos-a-mejorar)
+  - [3.1.3 Acciones correctivas](#313-acciones-correctivas)
+  - [3.2 Semana 2](#32-semana-2)
+  - [3.2.1 Aspectos positivos](#321-aspectos-positivos)
+  - [3.2.2 Aspectos a mejorar](#322-aspectos-a-mejorar)
+  - [3.2.3 Acciones correctivas](#323-acciones-correctivas)
+- [4.1 Conclusiones Sprint 2](#41-conclusiones-sprint-1)
 
 ## Resumen ejecutivo
 En el presente documento, se reunirán todos los aspectos tratados durante las diferentes reuniones de retrospectiva realizadas a lo largo de los sprints. El objetivo de la retrospectiva es tratar de resumir cómo se ha trabajado, qué es lo que se ha hecho bien, que se ha hecho mal, y cómo mejorar aquello que se ha hecho mal. Se separará el análisis del sprint en 2 semanas, ya que hemos tenido 2 retrospectivas.
 
-## 1. Retrospectiva
+## 1. Retrospectiva Sprint 1
 
 ### 1.1 Semana 1
 Durante la primera semana se establecieron tareas relacionadas con la preparación del entorno y modelo de datos de la aplicación de Cohabify. Además se aprovechó para incluir tareas sencillas que permitieran al equipo adaptarse a las tecnologías que se usarían durante el resto del desarrollo. A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la primera sesión de retrospectiva a mitad del Sprint 1.
@@ -127,21 +136,6 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | No asignar backend y frontend a la misma persona | Esto ha causado conflictos al unir ambas tareas en el desarrollo |
 | Priorizar lo funcional | No parar el flujo de trabajo tratando de mejorar el aspecto de la aplicación y enfocarse primero en obtener la funcionalidad |
 
-### 1.2.2 Aspectos a mejorar
-
-| Aspectos negativos | Descripción |
-| --- | --- |
-| Se han dejado tareas para el fin de semana | Debido a la disponibilidad del equipo esta semana, se han dejado tareas para el fin de semana. |
-| Modelo de datos inestable | Se ha seguido modificando el modelo de datos para llegar a un consenso. |
-| Documentación | Se está descuidando la documentación y dejándose para el final. |
-| Tener una idea clara del producto core y sus componentes | Se debe tener una idea clara del producto para evitar confusiones sobre las decisiones de diseño y otros aspectos. |
-| Llevar a cabo un seguimiento del calendario Niko Niko | Es importante rellenar el calendario niko niko para poder solucionar problemas en el equipo. |
-| Procurar que todas las vistas tengan un estilo homogéneo | Es necesario seguir un estilo homogéneo y acorde con los mockups para mantener la calidad visual en el proyecto. |
-| Tareas que no se han definido claramente | Existen tareas confusas que han retrasado el flujo de trabajo del equipo. |
-| Cambios en aspectos importantes de la aplicación que no se han notificado | Esto ha causado problemas en aquellas tareas que tenían dependencias con las modificaciones. |
-| No asignar backend y frontend a la misma persona | Esto ha causado conflictos al unir ambas tareas en el desarrollo |
-| Priorizar lo funcional | No parar el flujo de trabajo tratando de mejorar el aspecto de la aplicación y enfocarse primero en obtener la funcionalidad |
-
 ### 1.2.3 Acciones correctivas
 
 | Acciones correctivas | Descripción |
@@ -156,4 +150,83 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | Seguir las pautas del team practices | El equipo se compromete a seguir las Team Practices para obtener buenas métricas en Governify. |
 
 ## 2.1 Conclusiones Sprint 1
+Tras este primer sprint, el equipo puede concluir que se han aprendido valiosas lecciones que se pondrán en práctica de cara al segundo sprint. Aunque el trabajo en líneas generales haya ido bien, se espera que, mediante las medidas acordadas, la eficiencia y calidad del trabajo obtenido del sprint 2 aumente con respecto a este sprint.
+
+## 3. Retrospectiva Sprint 2
+
+### 3.1 Semana 1
+Durante la primera semana se establecieron tareas relacionadas con la refactorización del código generado en el Sprint 1, así como con la finalización de tareas y funcionalidades pendientes del Sprint 1. El sprint de la semana 1 ha sido ejecutado de forma satisfactoria ya que se han acabado todas las tareas de la semana, en el tiempo esperado al tener una buena estimación y carga de trabajo equitativa.
+
+A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la última sesión de retrospectiva del Sprint 1.
+
+### 3.1.1 Aspectos positivos
+
+| Aspectos positivos | Descripción |
+| --- | --- |
+| Se han arreglado los problemas en el primer sprint | Se han arreglado los problemas del anterior sprint en cuanto a la organización se refiere. |
+| Ha mejorado la productividad del equipo | Al mejorarse la organización la produccción se ha visto aumentada. |
+| Se ha equilibrado la carga de trabajo adecuadamente | Se ha mejorado el reparto de tareas para que todos tengan la misma carga de trabajo. |
+| Se han acabado las tareas previstas para la semana | Las tareas han sido finalizadas a tiempo correctamente. |
+| La cantidad de tareas para este sprint ha sido adecuada | Todos los miembros tenían un número correcto de tareas. |
+| Se han estimado las tareas correctamente | Las estimaciones de las tareas se han ajustado a la realidad. |
+
+### 3.1.2 Aspectos a mejorar
+
+| Aspectos negativos | Descripción |
+| --- | --- |
+| Faltan ediciones y eliminaciones | No se han tenido en cuenta las tareas de editar y eliminar anuncios |
+| Dashboard de dueños | Los dueños no tenían forma de ver sus anuncios de pisos |
+| Las métricas solo tienen en cuenta tareas de programación y de documentación | Es necesario tener en cuenta en las métricas las tareas administrativas y/o de ayuda. |
+
+### 3.1.3 Acciones correctivas
+
+| Acciones correctivas | Descripción |
+| --- | --- |
+| Perfeccionar las métricas para tener en cuenta a los Group Manager | Cambiar las métricas para añadir aquellos aspectos de los que se encarguen los Group Manager. |
+
+### 3.2 Semana 2
+
+A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la última sesión de retrospectiva del Sprint 1.
+
+### 3.2.1 Aspectos positivos
+
+| Aspectos positivos | Descripción |
+| --- | --- |
+|  |  |
+
+### 3.2.2 Aspectos a mejorar
+
+| Aspectos negativos | Descripción |
+| --- | --- |
+|  |  |
+
+### 3.2.3 Acciones correctivas
+
+| Acciones correctivas | Descripción |
+| --- | --- |
+|  |  |
+
+### 3.3 Semana 3
+
+A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la última sesión de retrospectiva del Sprint 1.
+
+### 3.3.1 Aspectos positivos
+
+| Aspectos positivos | Descripción |
+| --- | --- |
+|  |  |
+
+### 3.3.2 Aspectos a mejorar
+
+| Aspectos negativos | Descripción |
+| --- | --- |
+|  |  |
+
+### 3.3.3 Acciones correctivas
+
+| Acciones correctivas | Descripción |
+| --- | --- |
+|  |  |
+
+## 4.1 Conclusiones Sprint 2
 Tras este primer sprint, el equipo puede concluir que se han aprendido valiosas lecciones que se pondrán en práctica de cara al segundo sprint. Aunque el trabajo en líneas generales haya ido bien, se espera que, mediante las medidas acordadas, la eficiencia y calidad del trabajo obtenido del sprint 2 aumente con respecto a este sprint.
