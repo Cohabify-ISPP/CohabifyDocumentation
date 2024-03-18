@@ -186,29 +186,39 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 
 ### 3.2 Semana 2
 
-A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la última sesión de retrospectiva del Sprint 1.
+A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la segunda sesión de retrospectiva del Sprint 2.
 
 ### 3.2.1 Aspectos positivos
 
 | Aspectos positivos | Descripción |
 | --- | --- |
-|  |  |
+| El tiempo medio del equipo se ha mantenido cerca de las 10 horas evitando aumentar demasiado el reloj del equipo | Se ha procurado trabajar el tiempo correcto para evitar aumentar en sobremedida el reloj del equipo |
+| La mayoría de tareas se han completado antes del sábado | Casi todas las tareas han sido realizadas rápidamente y de forma correcta antes del sábado para poder tenerlas en cuenta en la presentación |
+| Replanificación efectiva para llegar a las 10 horas de la semana | Al haber pocas tareas esta semana, hay tareas de la semana 3 que se han movido a esta de forma satisfactoria |
+| Se ha podido empezar testing | El testing se ha empezado en la semana 2 en lugar de la semana 3 al tener pocas tareas para esta semana |
 
 ### 3.2.2 Aspectos a mejorar
 
 | Aspectos negativos | Descripción |
 | --- | --- |
-|  |  |
+| No hacer nada que no esté especificado en la tarea | Evitar hafcer más de lo necesario para evitar errores o sobrecostes |
+| Algunas tareas que no se han especificado en el tablero se han duplicado | Al haber algunas tareas faltantes en el tablero, hay tareas que se han hecho 2 veces por distintos miembros del equipo al no tener una asignación clara y visible para todos |
+| Algunas tareas del feedback no se han tenido en cuenta | La tarea de medición de las acciones de mejora no se ha tenido en cuenta |
+| Sobrecoste | Al haber un exceso de horas el coste se ha visto perjudicado |
+| Algunas descripciones de issues eran poco precisas | Al haber poco detalle en algunas tareas, la realización de estas ha sido un poco más complicado de lo esperado al no haber claridad en lo que había que hacer |
+| Se está usando poco el tablero de documentación | Se está descuidando el tablero de documentación y se debe de tener más actualizado |
 
 ### 3.2.3 Acciones correctivas
 
 | Acciones correctivas | Descripción |
 | --- | --- |
-|  |  |
+| Trabajar menos de 10 horas semanales para regular el presupuesto | Reducir horas para poder ajustarnos al presupuesto establecido |
+| Detallar mejor las descripciones de las tareas | Con el objetivo de tener las tareas más claras y poder llevarlas a cabo de forma más eficiente |
+| Realizar revisiones para asegurar que todas las tareas están en el tablero | Llevar a cabo revisiones del tablero para comprobar que todas las tareas se muestran correctamente y se pueda ver quien está asignado a esa tarea |
 
 ### 3.3 Semana 3
 
-A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la última sesión de retrospectiva del Sprint 1.
+A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la última sesión de retrospectiva del Sprint 2.
 
 ### 3.3.1 Aspectos positivos
 
