@@ -1,10 +1,10 @@
-![US Logo](S2_markdown/images/logo_us.png)
+![US Logo](images/logo_us.png)
 
 Política de Privacidad
 ---
 
 
-![Cohabify](S2_markdown/images/Cohabify.png)
+![Cohabify](images/Cohabify.png)
 
 <table>
     <tbody>
