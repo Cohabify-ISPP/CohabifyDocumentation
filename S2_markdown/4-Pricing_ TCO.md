@@ -44,6 +44,7 @@ TCO y Pricing
 | V1.2 | Estadísticas de alquiler y personas que comparten vivienda y estimaciones de usuarios. Dividir en CAPEX y OPEX. | Rafael González Castillero |
 | V1.3 | Visión sobre el aumento/reducción de usuarios en nuestra aplicación. | Rafael González Castillero |
 | V1.4 | Corregir errata en aumento de costes de operación | Daniel Arriaza Arriaza |
+| V2.0 | Añadir cálculos de TCO para 2 años | Daniel Arriaza Arriaza y Olegario Morato Navarro |
 
 
 ### Tabla de contenidos
@@ -224,15 +225,15 @@ Para obtener las coordenadas cartesianas a partir de la dirección introducida p
 
 ### 1.2.2.8 Tabla de costes de operación
 
-| Servicio        | Coste mensual | Estimación primer año |
-|-----------------|---------------|-----------------------|
-| Heroku          | 60€           | 720€                  |
-| Netlify         | 35€           | 420€                  |
-| MongoDB Atlas   | 62€           | 744€                  |
-| Twilio          | 194€          | 2328€                 |
-| GitHub          | 50€           | 600€                  |
-| Google Maps     | 70€           | 840€                  |
-| **Total**       | **471€**      | **5652€**             |
+| Servicio        | Coste mensual | Estimación primer año | Estimación segundo año |
+|-----------------|---------------|-----------------------|------------------------|
+| Heroku          | 60€           | 720€                  |1440€                   |
+| Netlify         | 35€           | 420€                  |840€                    |
+| MongoDB Atlas   | 62€           | 744€                  |1488€                   |
+| Twilio          | 194€          | 2328€                 |4656€                   |
+| GitHub          | 50€           | 600€                  |1200€                   |
+| Google Maps     | 70€           | 840€                  |1680€                   |
+| **Total**       | **471€**      | **5652€**             |**11304€**              |
 
 ### 2. Pricing de Cohabify
 
