@@ -224,19 +224,31 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 
 | Aspectos positivos | Descripción |
 | --- | --- |
-|  |  |
+| Que se estimen todas las tareas incluidas las de documentación | Al tener todas las tareas estimadas se han podido repartir con tiempo y de forma equitativa |
+| Que se revisen y se cierren las tareas en el tablero kanban | Al llevar un control del estado de las tareas en el tablero, se han evitado problemas encontrados en anteriores semanas, como la duplicación de tareas |
 
 ### 3.3.2 Aspectos a mejorar
 
 | Aspectos negativos | Descripción |
 | --- | --- |
-|  |  |
+| No llegar al final del sprint con muchos errores y la aplicación sin funcionar | Los errores estaban en incidencias y se tendrían que haber solucionado antes del despliegue, aun así se han ido arreglando los fallos encontrados en el despliegue |
+| Muchas incidencias y poca gente disponible para arreglarlas | Al encontrarnos en semana santa en lo días próximos al despliegue, había poca disponibilidad para arreglar las incidencias |
+| No dejar mucho trabajo para semanas en las que no hay disponibilidad | Se hizo un reparto del trabajo y se comunicó que cada miembro era libre de realizar el trabajo en la semana anterior a semana santa o durante la semana santa si lo veía oportuno |
+| El encargado del despliegue hizo muchas tareas de incidencias en el mismo día | La idea era tener todas las incidencias resueltas el día anterior al despliegue, al no cumplirse el encargado del despliegue ha tenido más carga de trabajo de lo normal |
+| Que el equipo esté pendiente a los canales de comunicación de su grupo y generales | Todos los miembros del equipo deben estar pendientes de los canales de comunicación |
+| La cantidad de puntos de historia realizada en esta última semana por cada persona no es muy equitativa | Hay miembros que tienen bastantes más puntos de historia que otros |
+| La resoluciónn de incidencias el día del despliegue retrasa el mismo y puede generar más problemas | Al hacer la resolución de incidencias el día del despliegue, y trabajar bajo presión no se han resuelto con la efectividad esperada |
+| Intentar no romper la funcionalidad del resto de miembros del grupo | Tener cuidado con que partes del código se modifican y ser consciente de si afecta a la funcionalidad implementada por otro miembro del equipo |
+| No alarmarse los últimos días, arreglar lo que se pueda | Al aproximarse los días de despliegue no entrar en pánico e intentar solucionar bien los problemas que sean posibles |
 
 ### 3.3.3 Acciones correctivas
 
 | Acciones correctivas | Descripción |
 | --- | --- |
-|  |  |
+| Para semana de feria hacer un calendario de disponibilidad por si hay incidencias urgentes que solucionar | Tener en cuenta la disponibilidad de cada miembro para trabajar la semana de feria y así hacer un reparto de tareas equitativo |
+| Arreglar incidencias al menos un día antes del despliegue | Para evitar los problemas encontrados durante este despliegue, el equipo debe asegurarse de solucionar las incidencias con un día de margen de cara al despliegue |
+| Comprobar el estado de develop periódicamente, puede hacerse bien el merge, pero no funcionar | Comprobar que develop está en el estado esperado de forma recurrente puede ayudar a identificar problemas con antelación |
+| Mirar bien las failure conditions de forma periódica, antes de la reunión de planificación | Tener en cuenta posibles cambios en las failure conditions de cara a la reunión de planificación para el reparto y estimación de tareas |
 
 ## 4.1 Conclusiones Sprint 2
-Tras este primer sprint, el equipo puede concluir que se han aprendido valiosas lecciones que se pondrán en práctica de cara al segundo sprint. Aunque el trabajo en líneas generales haya ido bien, se espera que, mediante las medidas acordadas, la eficiencia y calidad del trabajo obtenido del sprint 2 aumente con respecto a este sprint.
+Tras este segundo sprint, el equipo puede concluir que se han aprendido valiosas lecciones que se pondrán en práctica de cara al tercer sprint. Aunque el trabajo en líneas generales haya ido bien, el equipo espera que, de ahora en adelante se arregluen las incidencias con cierto margen de cara al sprint, y llevar un mejor ritmo de trabajo para no tener trabajo acumulado al final de cada semana del sprint, así mismo, el equipo quiere seguir trabajando en llevar a cabo una correcta estimación de las tareas para un posterior reparto equitativo de las mismas.
