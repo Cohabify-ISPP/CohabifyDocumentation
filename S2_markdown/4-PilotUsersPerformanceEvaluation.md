@@ -37,9 +37,8 @@
 [Resumen ejecutivo	3](#_heading=h.3znysh7)
 
 [**1. Evaluación de rendimiento	3**](#_heading=h.2et92p0)
-
 [Grupo: 10 (Tarde)	3](#_heading=h.tyjcwt)
-# <a name="_heading=h.1fob9te"></a>**
+
 ## <a name="_heading=h.3znysh7"></a>***Resumen ejecutivo***
 
 En el siguiente documento se recoge una figura a modo de formulario con motivo de dar una evaluación de rendimiento a los usuarios piloto del grupo 10 de ISPP. La forma de evaluar dicho grupo será con una nota numérica de 1 a 10 cada factor recogido en la siguiente figura.
