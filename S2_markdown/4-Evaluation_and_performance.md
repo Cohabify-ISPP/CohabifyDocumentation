@@ -79,6 +79,7 @@ V2.0 | Añadidas notas de S1 | Ismael Barrera García
 - [2.3 Sprint 2 (#S2)](#23-sprint-2-s2)
   - [Arriaza Arriaza, Daniel](#arriaza-arriaza-daniel-2)
   - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-2)
+  - [Gonzalez Castillero, Rafael](#gonzalez-castillero-rafael-2)
   - [Morato Navarro, Olegario](#morato-navarro-olegario-1)
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
 - [2.5 Preparing Project Launch (#PPL)](#25-preparing-project-launch-ppl)
@@ -211,7 +212,9 @@ Las contribuciones en este sprint han sido principalmente hacer las presentacion
 ### Galeano de Paz, Guillermo
 En este spint, las contribuciones han sido: añadir campos nuevos al JWT, comprobando que funcione; revisar el modelo de usuario, eliminando campos innecesario y haciendo correcciones; crear testing de publicar anuncios de usuario, tanto servicios como controlador; hacer los filtros de los listados de frontend funcionales; hacer las barras de búsqueda de los listados funcionales; crear testing de todo el controlador de usuario; crear testing de todo el servicio de usuario; arreglar los filtros ya que a finales del sprint se rompieron; crear la validación de la suscripción de usuario mediante la fecha de expiración de la suscripción; grabar la demo de la aplicación para la presentación del 02/04; crear el documento de reviewers guide con Eduardo Robles Russo; y por último pasar la presentación del 02/04 a markdown.
 
-- Gonzalez Castillero, Rafael
+### Gonzalez Castillero, Rafael
+Configuración de SonarCloud en el proyecto tanto de backend como frontend, creando y editando el workflow de github para que funcione correctamente, mejora y rediseño de la página de listado de viviendas, añadiendo barra de navegación, filtros que aparecen/desaparecen al pulsar un botón, hacer la navbar funcional en cuanto al usuario logeado y hacer de group manager durante la primera semana. Tras esto se dio de baja por ingreso en el hospital volviendo al proyecto el día 1 de abril.
+
 - Márquez Sierra, María
 - Márquez Soldán, María
 - Morato Navarro, Juan Carlos
