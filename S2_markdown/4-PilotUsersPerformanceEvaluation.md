@@ -1,7 +1,6 @@
 ﻿![US Logo](images/logo_us.png)
 
 <a name="_heading=h.gjdgxs"></a><a name="_heading=h.30j0zll"></a>Evaluación de rendimiento de usuarios piloto
-
 -----
 
 ![Cohabify](images/Cohabify.png)
