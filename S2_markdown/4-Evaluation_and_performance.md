@@ -77,6 +77,7 @@ V2.0 | Añadidas notas de S1 | Ismael Barrera García
   - [Romero González, Juan](#romero-gonzález-juan-1)
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-1)
 - [2.3 Sprint 2 (#S2)](#23-sprint-2-s2)
+  - [Arriaza Arriaza, Daniel](#arriaza-arriaza-daniel-2)
   - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-2)
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
 - [2.5 Preparing Project Launch (#PPL)](#25-preparing-project-launch-ppl)
@@ -200,7 +201,9 @@ La contribución durante este sprint en lo referente al código ha sido principa
 La contribución durante esta etapa con respecto al código ha sido la creación del modelo de datos de anuncios del usuario, así como pantallas de listado de los mismos. Con respecto a documentación, se encargó de actualizar el Commitment Agreement con nuevas cláusulas, asegurar el cumplimiento del mismo, y realizar el report de la base de conocimiento común.
 
 ## 2.3 Sprint 2 (#S2)
-- Arriaza Arriaza, Daniel
+### Arriaza Arriaza, Daniel
+Las contribuciones en este sprint han sido principalmente hacer las presentaciones de las tres semanas del entregable. Durante la primera semana, realizó la presentación y mejoró la pantalla de los detales de un anuncio de piso. Durante la segunda, realizó la presentación, y ayudó a vincular el repositorio de documentación a HackMD. Durante la última semana se encargó de grabar el anuncio, realizar la presentación y hacer el testing del servicio de autenticación (JwtService.java). Asimismo, redactó la Política de Privacidad, añadió el checkbox en el registro para aceptar el Acuerdo de Cliente antes de poder crear una cuenta en Cohabify, solucionó una incidencia para evitar que alguien pusiera un comentario en un anuncio sin haber iniciado sesión, revisó la versión desplegada de Cohabify, hizo el pilotaje del grupo 10 (Cocemfe) y actualizó el TCO a 24 meses vista.
+
 - Barrera García, Ismael
 - Calero López, Marina
 ### Galeano de Paz, Guillermo
