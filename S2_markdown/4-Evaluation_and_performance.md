@@ -240,7 +240,9 @@ Durante el sprint 2, mis contribuciones han sido: Crear los dos primeros story b
 ### Morato Navarro, Olegario
 Durante el sprint 2, las contribuciones han sido: grabar y editar demos para las presentaciones, grabar y editar anuncio de Cohabify, organizar el trabajo para el grupo G3, arreglar fallos durante el despliegue, recoger feedback de usuarios pilotos y evaluarlo. Además he creado la primera versión sin pasarela de pago de la pantalla de planes de precio y mejorado el aspecto visual de la pantalla de registro y he sido responsable de varias revisiones de tareas durante el sprint.
 
-- Robles Russo, Eduardo
+### Robles Russo, Eduardo
+Realice un pilotaje de COCEMFE, participe en una reunión de retrospectiva del Sprint 2, y cree un documento guía de revisión. Dedique tiempo a la formación, viendo varias píldoras teóricas sobre temas como el acuerdo con el cliente, las pruebas y la replanificación. En el ámbito del desarrollo, trabaje en la mejora del inicio de sesión con un modal, arreglaste bugs, cree un sistema de comentarios y realize pruebas para HouseController y HouseService. Además, pase todos los documentos a formato md y asistí a una clase el 19 de marzo.
+
 ### Roldán García, Miguel Ángel
 En el sprint 2, principalmente ha arreglado errores de la aplicación y ayudado a sus compañeros con sus tareas cuando ha sido necesario. En cuanto a incrementos funcionales ha establecido los límites de acceso y uso por los distintos planes de pricing de la aplicación. Ha preparado la versión release para el despliegue y posteriormente la ha desplegado.
 
