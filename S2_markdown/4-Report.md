@@ -427,7 +427,50 @@ El feedback dado a nuestro grupo en específico se ha implementado en su totalid
 # 4. S2
 ## 4.1 Feedback general
 
-Dado que esta semana nuestro grupo no estaba encargado de aportar el feedback general a la DB, procedemos a dejar este apartado intencionadamente en blanco.
+En este apartado se recogerá feedback aportado a todos los grupos o información util general aportada durante la semana, estará dividido en apartados.
+
+- Análisis de Competidores:
+  - Dejar claras las diferencias de nuestro producto con nuestros competidores.
+
+- Análisis de Costes:
+  - Hacer costes vs beneficios a 24 meses vista. (TCO a dos años).
+  - Para la semana del 02/04 se pide un resumen del TCO con Capex/Opex.
+
+- Análisis de Riesgo:
+  - Es necesario tener planes de contingencia por si algun miembro tuviera algún problema (En especial si se trata de un presentador que no pueda presentar).
+
+- Documentación:
+  - Reflejar en el Commitment Agreement las formulas usadas para la evaluación de miembros del equipo.
+
+- Inicio efectivo:
+  - Si se hace algun inicio que requiera sonido, asegurarse antes de la presentación que el volumen sea adecuado.
+
+- Presentación:
+  - En la demo se deben poner tanto datos como imagenes reales
+  - Ver como otras empresas enfocan el elevator pitch para aplicarlo en el nuestro.
+  - Hacer zoom en la demo para que se aprecie mejor.
+  - Resaltar información y cosas que aporten valor, no lo estético.
+  - Resaltar en el storyboard lo que nos diferencia de los competidores.
+  - Citar las fuentes usadas.
+  - Mostrar el impacto legal del proyecto (GDPR, licencias, aspectos legales, customer agreement).
+  - Realizar Storyboard para un rol distinto.
+
+- Proyecto en general:
+  - Se debe realizar una justificación si se quiere recortar el alcance.
+  - Se debería usar una API para comprobar que los correos sean válidos.
+  - Utilizar un calendario compartido.
+  - Hacer mejor uso de los conventional commits (Por ejemplo con changelogs automáticos).
+
+- Roles:
+  - Sería buena idea rotar los presentadores. Para que todos los miembros tengan la experiencia de presentar.
+
+- Uso de la IA:
+  - Mostrar las lecciones aprendidas con la IA o algo interesante relacionado con estas.
+  - Importancia en las alucinaciones (Cuantos prompt se hacen hasta obtener la respuesta que buscamos).
+
+- Usuarios Piloto:
+  - Mostrar que se esté de acuerdo con el customer agreement realizado.
+
 
 ## 4.2 Feedback recibido por nuestro grupo
 
