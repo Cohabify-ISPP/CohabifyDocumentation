@@ -516,21 +516,40 @@ Todo el feedback anotado se ha tenido en cuenta y se ha revisado usando una chec
 
 ### 4.3.1 Análisis de competidores
 
+No procede.
+
 ### 4.3.2 Análisis de costes
+
+En el TCO se ha añadido, en la tabla de costes de operación, una nueva columna con la estimación a 24 meses.
 
 ### 4.3.3 Análisis de riesgos
 
+No procede.
+
 ### 4.3.4 Documentación
+
+Se ha corregido la confusión entre Customer Agreement y Commitment Agreement, creando el Customer Agreement y el de Privacy Policy.
 
 ### 4.3.5 Inicio efectivo
 
+No procede.
+
 ### 4.3.6 Modelos de negocio
+
+No procede.
 
 ### 4.3.7 Roles
 
+No procede.
+
 ### 4.3.8 Uso de la IA
+
+Se ha añadido una página nueva en la wiki para los Prompts de Phind. Una IA que utiliza un modelo propio y además tiene la capacidad de realizar búsquedas en Internet para dar respuestas actualizadas
 
 ### 4.3.9 Usuarios piloto
 
+Hemos creado documentos de Customer Agreement y Commitment Agreement para controlar el pilotaje de nuestra aplicación de forma más precisa.
+
 ### 4.3.10 Feedback específico de grupo
 
+El feedback dado a nuestro grupo en específico se ha implementado en su totalidad dentro de las capacidades del grupo.
