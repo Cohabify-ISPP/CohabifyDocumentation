@@ -77,6 +77,7 @@ V2.0 | Añadidas notas de S1 | Ismael Barrera García
   - [Romero González, Juan](#romero-gonzález-juan-1)
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-1)
 - [2.3 Sprint 2 (#S2)](#23-sprint-2-s2)
+  - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-2)
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
 - [2.5 Preparing Project Launch (#PPL)](#25-preparing-project-launch-ppl)
 - [2.6 World Project Launch (#WPL)](#26-world-project-launch-wpl)
@@ -202,7 +203,8 @@ La contribución durante esta etapa con respecto al código ha sido la creación
 - Arriaza Arriaza, Daniel
 - Barrera García, Ismael
 - Calero López, Marina
-- Galeano de Paz, Guillermo
+### Galeano de Paz, Guillermo
+En este spint, las contribuciones han sido: añadir campos nuevos al JWT, comprobando que funcione; revisar el modelo de usuario, eliminando campos innecesario y haciendo correcciones; crear testing de publicar anuncios de usuario, tanto servicios como controlador; hacer los filtros de los listados de frontend funcionales; hacer las barras de búsqueda de los listados funcionales; crear testing de todo el controlador de usuario; crear testing de todo el servicio de usuario; arreglar los filtros ya que a finales del sprint se rompieron; crear la validación de la suscripción de usuario mediante la fecha de expiración de la suscripción; grabar la demo de la aplicación para la presentación del 02/04; crear el documento de reviewers guide con Eduardo Robles Russo; y por último pasar la presentación del 02/04 a markdown.
 - Gonzalez Castillero, Rafael
 - Márquez Sierra, María
 - Márquez Soldán, María
