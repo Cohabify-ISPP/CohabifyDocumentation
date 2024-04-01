@@ -78,10 +78,17 @@ V2.0 | Añadidas notas de S1 | Ismael Barrera García
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-1)
 - [2.3 Sprint 2 (#S2)](#23-sprint-2-s2)
   - [Arriaza Arriaza, Daniel](#arriaza-arriaza-daniel-2)
+  - [Barrera García, Ismael](#barrera-garcía-ismael-2)
+  - [Calero López, Marina](#calero-lópez-marina-2)
   - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-2)
   - [Gonzalez Castillero, Rafael](#gonzalez-castillero-rafael-2)
+  - [Márquez Sierra, María](#márquez-sierra-maría-2)
+  - [Márquez Soldán, María](#márquez-soldán-maría-2)
   - [Morato Navarro, Juan Carlos](#morato-navarro-juan-carlos-2)
   - [Morato Navarro, Olegario](#morato-navarro-olegario-2)
+  - [Robles Russo, Eduardo](#robles-russo-eduardo-2)
+  - [Roldán García, Miguel Ángel](#roldán-garcía-miguel-ángel-2)
+  - [Romero González, Juan](#romero-gonzález-juan-2)
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-2)
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
 - [2.5 Preparing Project Launch (#PPL)](#25-preparing-project-launch-ppl)
@@ -97,20 +104,22 @@ En el presente documento se recoge la contribución individual de cada miembro d
 
 Estudiante | #DP | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Peso
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Arriaza Arriaza, Daniel | 10 | 10 | - | - | - | - | - | -
-Barrera García, Ismael | 10 | 10 | - | - | - | - | - | -
-Calero López, Marina | 10 | 10 | - | - | - | - | - | -
-Galeano de Paz, Guillermo | 10 | 6 | - | - | - | - | - | -
-Gonzalez Castillero, Rafael | 10 | 10 | - | - | - | - | - | -
-Márquez Sierra, María | 10 | 10 | - | - | - | - | - | -
-Márquez Soldán, María | 10 | 10 | - | - | - | - | - | -
-Morato Navarro, Juan Carlos | 10 | 10 | - | - | - | - | - | -
-Morato Navarro, Olegario | 10 | 10 | - | - | - | - | - | -
-Robles Russo, Eduardo | 10 | 10 | - | - | - | - | - | -
-Roldán García, Miguel Ángel | 10 | 10 | - | - | - | - | - | -
-Romero González, Juan | 10 | 8 | - | - | - | - | - | -
-Urquijo Martínez, Álvaro | 10 | 9 | - | - | - | - | - | -
-Total | 130 | 123 | - | - | - | - | - | -
+Arriaza Arriaza, Daniel | 10 | 10 | 10 | - | - | - | - | -
+Barrera García, Ismael | 10 | 10 | 10 | - | - | - | - | -
+Calero López, Marina | 10 | 10 | 10 | - | - | - | - | -
+Galeano de Paz, Guillermo | 10 | 6 | 9 | - | - | - | - | -
+Gonzalez Castillero, Rafael | 10 | 10 | * | - | - | - | - | -
+Márquez Sierra, María | 10 | 10 | 10 | - | - | - | - | -
+Márquez Soldán, María | 10 | 10 | 10 | - | - | - | - | -
+Morato Navarro, Juan Carlos | 10 | 10 | 10 | - | - | - | - | -
+Morato Navarro, Olegario | 10 | 10 | 10 | - | - | - | - | -
+Robles Russo, Eduardo | 10 | 10 | 10 | - | - | - | - | -
+Roldán García, Miguel Ángel | 10 | 10 | 10 | - | - | - | - | -
+Romero González, Juan | 10 | 8 | 10 | - | - | - | - | -
+Urquijo Martínez, Álvaro | 10 | 9 | 10 | - | - | - | - | -
+Total | 130 | 123 | 119 | - | - | - | - | -
+
+*Este miembro no ha sido evaluado en este sprint por su ausencia debido a motivos médicos.
 
 Tabla con resumen de la evaluación del rendimiento individual del equipo.
 
@@ -209,7 +218,9 @@ La contribución durante esta etapa con respecto al código ha sido la creación
 Las contribuciones en este sprint han sido principalmente hacer las presentaciones de las tres semanas del entregable. Durante la primera semana, realizó la presentación y mejoró la pantalla de los detales de un anuncio de piso. Durante la segunda, realizó la presentación, y ayudó a vincular el repositorio de documentación a HackMD. Durante la última semana se encargó de grabar el anuncio, realizar la presentación y hacer el testing del servicio de autenticación (JwtService.java). Asimismo, redactó la Política de Privacidad, añadió el checkbox en el registro para aceptar el Acuerdo de Cliente antes de poder crear una cuenta en Cohabify, solucionó una incidencia para evitar que alguien pusiera un comentario en un anuncio sin haber iniciado sesión, revisó la versión desplegada de Cohabify, hizo el pilotaje del grupo 10 (Cocemfe) y actualizó el TCO a 24 meses vista.
 
 - Barrera García, Ismael
-- Calero López, Marina
+  
+### Calero López, Marina
+La contribución en este sprint en cuanto a la parte del código ha mejorado la vista de detalles de anuncio de un piso y ocultar los botones de comentar y borrar de las pantallas cuando eres un usuario no registrado. Por otro lado ha hecho junto a su compañero Juan Carlos la creación del primer storyboard asi como la realización del anuncio junto a sus compañeros Ismael, Juan Carlois, Olegario y Daniel. También ha sido la encargada de realizar la acrtualización del rendimiento del equipo asi como realizar y presentar la presentación junto a su compañero Daniel. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
   
 ### Galeano de Paz, Guillermo
 En este spint, las contribuciones han sido: añadir campos nuevos al JWT, comprobando que funcione; revisar el modelo de usuario, eliminando campos innecesario y haciendo correcciones; crear testing de publicar anuncios de usuario, tanto servicios como controlador; hacer los filtros de los listados de frontend funcionales; hacer las barras de búsqueda de los listados funcionales; crear testing de todo el controlador de usuario; crear testing de todo el servicio de usuario; arreglar los filtros ya que a finales del sprint se rompieron; crear la validación de la suscripción de usuario mediante la fecha de expiración de la suscripción; grabar la demo de la aplicación para la presentación del 02/04; crear el documento de reviewers guide con Eduardo Robles Russo; y por último pasar la presentación del 02/04 a markdown.
