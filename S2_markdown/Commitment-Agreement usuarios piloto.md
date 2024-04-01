@@ -67,8 +67,10 @@ Al firmar este documento, entiendo y acepto las responsabilidades que se me han 
 
 
 
-Ismael Barrera García - 17/03/2024                                 Olegario Morato Navarro - 17/03/2024
-![](images/Aspose.Words.cb4b4684-16f7-4731-86da-bd03434bf4af.001.png)![](images/Aspose.Words.cb4b4684-16f7-4731-86da-bd03434bf4af.002.png)
+Ismael Barrera García - 17/03/2024                                 
+![](images/Aspose.Words.cb4b4684-16f7-4731-86da-bd03434bf4af.002.png)
+Olegario Morato Navarro - 17/03/2024
+![](images/Aspose.Words.cb4b4684-16f7-4731-86da-bd03434bf4af.001.png)
 Juan Carlos Morato Navarro - 17/03/2024
 ![](images/Aspose.Words.cb4b4684-16f7-4731-86da-bd03434bf4af.003.png)
 
