@@ -246,7 +246,8 @@ Realice un pilotaje de COCEMFE, participe en una reunión de retrospectiva del S
 ### Roldán García, Miguel Ángel
 En el sprint 2, principalmente ha arreglado errores de la aplicación y ayudado a sus compañeros con sus tareas cuando ha sido necesario. En cuanto a incrementos funcionales ha establecido los límites de acceso y uso por los distintos planes de pricing de la aplicación. Ha preparado la versión release para el despliegue y posteriormente la ha desplegado.
 
-- Romero González, Juan
+### Romero González, Juan
+Durante el S2, las principales contribuciones han sido: la mejora y constante actualización de la gráfica Burn-Down; la redacción del documento de retrospectiva; la creación de tests para comprobar la correcta funcionalidad del controlador y servicio de la entidad Tag; la creación de una validación para contraseñas seguras; la elaboración de parte de la gráfica de evolución de costes; y también la participación como usuario piloto de la aplicación del grupo 10 de ISPP
 
 ### Urquijo Martínez, Álvaro
 Durante el sprint 2, las contribuciones principales han sido: actualizar la base de datos de conocimiento semanalmente, así como el documento de Report, realizar el CA para los usuarios piloto, comunicarse con los pilotos a la hora del despliegue, añadir funcionalidad a los anuncios de vivienda mediante la referencia catastral y crear la entidad de valoraciones de piso con toda su funcionalidad. También participó en el pilotaje del grupo 10 Cocemfe.
