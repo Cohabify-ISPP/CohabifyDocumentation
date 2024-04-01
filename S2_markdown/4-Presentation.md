@@ -66,6 +66,7 @@ Presentación de evaluación S2
 ![diapo29](images/PresentationS2/diapo29.png)
 ![diapo30](images/PresentationS2/diapo30.png)
 ![diapo31](images/PresentationS2/diapo31.png)
+![diapo32P](images/PresentationS2/diapo32Perdida.png)
 ![diapo32](images/PresentationS2/diapo32.png)
 ![diapo33](images/PresentationS2/diapo33.png)
 ![diapo34](images/PresentationS2/diapo34.png)
