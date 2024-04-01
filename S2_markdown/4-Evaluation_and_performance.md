@@ -206,13 +206,18 @@ Las contribuciones en este sprint han sido principalmente hacer las presentacion
 
 - Barrera García, Ismael
 - Calero López, Marina
+  
 ### Galeano de Paz, Guillermo
 En este spint, las contribuciones han sido: añadir campos nuevos al JWT, comprobando que funcione; revisar el modelo de usuario, eliminando campos innecesario y haciendo correcciones; crear testing de publicar anuncios de usuario, tanto servicios como controlador; hacer los filtros de los listados de frontend funcionales; hacer las barras de búsqueda de los listados funcionales; crear testing de todo el controlador de usuario; crear testing de todo el servicio de usuario; arreglar los filtros ya que a finales del sprint se rompieron; crear la validación de la suscripción de usuario mediante la fecha de expiración de la suscripción; grabar la demo de la aplicación para la presentación del 02/04; crear el documento de reviewers guide con Eduardo Robles Russo; y por último pasar la presentación del 02/04 a markdown.
+
 - Gonzalez Castillero, Rafael
 - Márquez Sierra, María
 - Márquez Soldán, María
 - Morato Navarro, Juan Carlos
-- Morato Navarro, Olegario
+  
+### Morato Navarro, Olegario
+Durante el sprint 2, las contribuciones han sido: grabar y editar demos para las presentaciones, grabar y editar anuncio de Cohabify, organizar el trabajo para el grupo G3, arreglar fallos durante el despliegue, recoger feedback de usuarios pilotos y evaluarlo. Además he creado la primera versión sin pasarela de pago de la pantalla de planes de precio y mejorado el aspecto visual de la pantalla de registro.
+
 - Robles Russo, Eduardo
 - Roldán García, Miguel Ángel
 - Romero González, Juan
