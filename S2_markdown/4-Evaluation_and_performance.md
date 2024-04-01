@@ -80,7 +80,8 @@ V2.0 | Añadidas notas de S1 | Ismael Barrera García
   - [Arriaza Arriaza, Daniel](#arriaza-arriaza-daniel-2)
   - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-2)
   - [Gonzalez Castillero, Rafael](#gonzalez-castillero-rafael-2)
-  - [Morato Navarro, Olegario](#morato-navarro-olegario-1)
+  - [Morato Navarro, Juan Carlos](#morato-navarro-juan-carlos-2)
+  - [Morato Navarro, Olegario](#morato-navarro-olegario-2)
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
 - [2.5 Preparing Project Launch (#PPL)](#25-preparing-project-launch-ppl)
 - [2.6 World Project Launch (#WPL)](#26-world-project-launch-wpl)
@@ -217,7 +218,8 @@ Configuración de SonarCloud en el proyecto tanto de backend como frontend, crea
 
 - Márquez Sierra, María
 - Márquez Soldán, María
-- Morato Navarro, Juan Carlos
+### Morato Navarro, Juan Carlos
+Durante el sprint 2, mis contribuciones han sido: Crear los dos primeros story boards para los anuncios, grabar el primer anuncio de Cohabify, actuar como GM del grupo 2 en ausencia de Rafael González Castillero por temas de salud. También he arreglado problemas con fotos y el número de catastro en la publicación de viviendas. También he actuado como usuario piloto para el grupo 10 de ISPP.
   
 ### Morato Navarro, Olegario
 Durante el sprint 2, las contribuciones han sido: grabar y editar demos para las presentaciones, grabar y editar anuncio de Cohabify, organizar el trabajo para el grupo G3, arreglar fallos durante el despliegue, recoger feedback de usuarios pilotos y evaluarlo. Además he creado la primera versión sin pasarela de pago de la pantalla de planes de precio y mejorado el aspecto visual de la pantalla de registro y he sido responsable de varias revisiones de tareas durante el sprint.
