@@ -229,7 +229,11 @@ En este spint, las contribuciones han sido: añadir campos nuevos al JWT, compro
 Configuración de SonarCloud en el proyecto tanto de backend como frontend, creando y editando el workflow de github para que funcione correctamente, mejora y rediseño de la página de listado de viviendas, añadiendo barra de navegación, filtros que aparecen/desaparecen al pulsar un botón, hacer la navbar funcional en cuanto al usuario logeado y hacer de group manager durante la primera semana. Tras esto se dio de baja por ingreso en el hospital volviendo al proyecto el día 1 de abril.
 
 - Márquez Sierra, María
-- Márquez Soldán, María
+
+### Márquez Soldán, María
+Las contribuciones durante este sprint han sido: creación de panel de administración de anuncios junto al cambio de la navbar, implementación de los detalles de usuario y mejorar la interfaz, implementación de los likes de anuncios de usuarios y pisos, implementación de oauth con Google y arreglar las incidencias de funcionamiento asociadas al mismo. Respecto a incidencias, se han resuelto las siguientes: problemas al editar usuario, autolikes, cambiar tipo de token/imports sobrantes para oauth y gestionar el jwt expirado. 
+Finalmente, se ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
+
 ### Morato Navarro, Juan Carlos
 Durante el sprint 2, mis contribuciones han sido: Crear los dos primeros story boards para los anuncios, grabar el primer anuncio de Cohabify, actuar como GM del grupo 2 en ausencia de Rafael González Castillero por temas de salud. También he arreglado problemas con fotos y el número de catastro en la publicación de viviendas. También he actuado como usuario piloto para el grupo 10 de ISPP.
   
