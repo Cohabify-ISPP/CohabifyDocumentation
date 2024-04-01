@@ -215,8 +215,9 @@ La contribución durante esta etapa con respecto al código ha sido la creación
 ### Arriaza Arriaza, Daniel
 Las contribuciones en este sprint han sido principalmente hacer las presentaciones de las tres semanas del entregable. Durante la primera semana, realizó la presentación y mejoró la pantalla de los detales de un anuncio de piso. Durante la segunda, realizó la presentación, y ayudó a vincular el repositorio de documentación a HackMD. Durante la última semana se encargó de grabar el anuncio, realizar la presentación y hacer el testing del servicio de autenticación (JwtService.java). Asimismo, redactó la Política de Privacidad, añadió el checkbox en el registro para aceptar el Acuerdo de Cliente antes de poder crear una cuenta en Cohabify, solucionó una incidencia para evitar que alguien pusiera un comentario en un anuncio sin haber iniciado sesión, revisó la versión desplegada de Cohabify, hizo el pilotaje del grupo 10 (Cocemfe) y actualizó el TCO a 24 meses vista.
 
-- Barrera García, Ismael
-  
+### Barrera García, Ismael
+La contribución en esta etapa ha sido tener el rol de Group Manager, gestionando el reparto de tareas y la organización del subgrupo. En cuanto a código,  ha participado en la creación de panel de administración de anuncios junto al cambio de la navbar, implementación de los detalles de usuario y mejorar la interfaz, implementación de los likes de anuncios de usuarios y pisos, implementación de oauth con Google. Se ha ayudado a solucionar varias incidencias del despliegue.
+
 ### Calero López, Marina
 La contribución en este sprint en cuanto a la parte del código ha mejorado la vista de detalles de anuncio de un piso y ocultar los botones de comentar y borrar de las pantallas cuando eres un usuario no registrado. Por otro lado ha hecho junto a su compañero Juan Carlos la creación del primer storyboard asi como la realización del anuncio junto a sus compañeros Ismael, Juan Carlois, Olegario y Daniel. También ha sido la encargada de realizar la acrtualización del rendimiento del equipo asi como realizar y presentar la presentación junto a su compañero Daniel. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
   
@@ -226,7 +227,7 @@ En este spint, las contribuciones han sido: añadir campos nuevos al JWT, compro
 ### Gonzalez Castillero, Rafael
 Configuración de SonarCloud en el proyecto tanto de backend como frontend, creando y editando el workflow de github para que funcione correctamente, mejora y rediseño de la página de listado de viviendas, añadiendo barra de navegación, filtros que aparecen/desaparecen al pulsar un botón, hacer la navbar funcional en cuanto al usuario logeado y hacer de group manager durante la primera semana. Tras esto se dio de baja por ingreso en el hospital volviendo al proyecto el día 1 de abril.
 
-- Márquez Sierra, María
+### Márquez Sierra, María
 
 ### Márquez Soldán, María
 Las contribuciones durante este sprint han sido: creación de panel de administración de anuncios junto al cambio de la navbar, implementación de los detalles de usuario y mejorar la interfaz, implementación de los likes de anuncios de usuarios y pisos, implementación de oauth con Google y arreglar las incidencias de funcionamiento asociadas al mismo. Respecto a incidencias, se han resuelto las siguientes: problemas al editar usuario, autolikes, cambiar tipo de token/imports sobrantes para oauth y gestionar el jwt expirado. 
