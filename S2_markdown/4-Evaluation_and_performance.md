@@ -79,6 +79,7 @@ V2.0 | Añadidas notas de S1 | Ismael Barrera García
 - [2.3 Sprint 2 (#S2)](#23-sprint-2-s2)
   - [Arriaza Arriaza, Daniel](#arriaza-arriaza-daniel-2)
   - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-2)
+  - [Morato Navarro, Olegario](#morato-navarro-olegario-1)
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
 - [2.5 Preparing Project Launch (#PPL)](#25-preparing-project-launch-ppl)
 - [2.6 World Project Launch (#WPL)](#26-world-project-launch-wpl)
