@@ -82,6 +82,7 @@ V2.0 | Añadidas notas de S1 | Ismael Barrera García
   - [Gonzalez Castillero, Rafael](#gonzalez-castillero-rafael-2)
   - [Morato Navarro, Juan Carlos](#morato-navarro-juan-carlos-2)
   - [Morato Navarro, Olegario](#morato-navarro-olegario-2)
+  - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-2)
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
 - [2.5 Preparing Project Launch (#PPL)](#25-preparing-project-launch-ppl)
 - [2.6 World Project Launch (#WPL)](#26-world-project-launch-wpl)
@@ -227,7 +228,9 @@ Durante el sprint 2, las contribuciones han sido: grabar y editar demos para las
 - Robles Russo, Eduardo
 - Roldán García, Miguel Ángel
 - Romero González, Juan
-- Urquijo Martínez, Álvaro
+
+### Urquijo Martínez, Álvaro
+Durante el sprint 2, las contribuciones principales han sido: actualizar la base de datos de conocimiento semanalmente, así como el documento de Report, realizar el CA para los usuarios piloto, comunicarse con los pilotos a la hora del despliegue, añadir funcionalidad a los anuncios de vivienda mediante la referencia catastral y crear la entidad de valoraciones de piso con toda su funcionalidad. También participó en el pilotaje del grupo 10 Cocemfe.
 
 ## 2.4 Sprint 3 (#S3)
 - Arriaza Arriaza, Daniel
