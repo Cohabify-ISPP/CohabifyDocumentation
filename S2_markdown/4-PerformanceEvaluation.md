@@ -37,6 +37,7 @@ Versión | Cambios | Autores
 --- | --- | ---
 V1.0 | Creación del documento | -
 V2.0 | Añadidas notas de S1 | Ismael Barrera García
+V3.0 | Añadidas notas de S2 | Marina Calero López
 
 ## Tabla de contenidos
 - [Evaluación de rendimiento individual](#evaluación-de-rendimiento-individual)
