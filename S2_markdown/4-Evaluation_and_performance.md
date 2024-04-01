@@ -216,7 +216,7 @@ En este spint, las contribuciones han sido: añadir campos nuevos al JWT, compro
 - Morato Navarro, Juan Carlos
   
 ### Morato Navarro, Olegario
-Durante el sprint 2, las contribuciones han sido: grabar y editar demos para las presentaciones, grabar y editar anuncio de Cohabify, organizar el trabajo para el grupo G3, arreglar fallos durante el despliegue, recoger feedback de usuarios pilotos y evaluarlo. Además he creado la primera versión sin pasarela de pago de la pantalla de planes de precio y mejorado el aspecto visual de la pantalla de registro.
+Durante el sprint 2, las contribuciones han sido: grabar y editar demos para las presentaciones, grabar y editar anuncio de Cohabify, organizar el trabajo para el grupo G3, arreglar fallos durante el despliegue, recoger feedback de usuarios pilotos y evaluarlo. Además he creado la primera versión sin pasarela de pago de la pantalla de planes de precio y mejorado el aspecto visual de la pantalla de registro y he sido responsable de varias revisiones de tareas durante el sprint.
 
 - Robles Russo, Eduardo
 - Roldán García, Miguel Ángel
