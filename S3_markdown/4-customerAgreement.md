@@ -40,8 +40,9 @@ Acuerdo con el Cliente
 |V2.0 | Actualización con pricing | Álvaro Urquijo Martínez |
 
 ## Tabla de contenidos
-- [Acuerdo con el Cliente](#acuerdo-con-el-cliente)
 - [Tabla de contenidos](#tabla-de-contenidos)
+- [Tabla de revisiones](#tabla-de-revisiones)
+- [Acuerdo con el Cliente](#acuerdo-con-el-cliente)
 - [1. Aceptación de términos](#1-aceptación-de-términos)
 - [2. Descripción del servicio](#2-descripción-del-servicio)
 - [3. Uso del servicio](#3-uso-del-servicio)
@@ -52,9 +53,15 @@ Acuerdo con el Cliente
 - [8. Propiedad Intelectual](#8-propiedad-intelectual)
 - [9.  Terminación](#9-terminación)
 - [10. Limitación de Responsabilidad](#10-limitación-de-responsabilidad)
-- [11. Cambios en el Acuerdo](#11-cambios-en-el-acuerdo)
+- [11. Validez y revisión del acuerdo](#11-validez-y-revisión-del-acuerdo)
 - [12. Ley Aplicable](#12-ley-aplicable)
 - [13. Información de Contacto](#13-información-de-contacto)
+
+## Tabla de revisiones
+
+| Última revisión/vigor | Próxima revisión | Periodo de revisión |
+| --- | --- | --- |
+| 01/09/2024 | 01/09/2025 | Anual |
 
 
 ## Acuerdo con el Cliente
@@ -80,7 +87,7 @@ Usted es responsable de todas las actividades realizadas por su cuenta.
 Para acceder a este servicio, es posible que se le pida que cree una cuenta. Usted acepta proporcionar información precisa y completa y mantener esta información actualizada.
 
 ### 5. Política de Privacidad
-Su privacidad es importante para nosotros. Nuestra [Política de Privacidad](https://github.com/Cohabify/CohabifyDocumentation/blob/S2/S2_markdown/4_Privacy_Policy.md), explica cómo recopilamos, usamos y protegemos su información personal.
+Su privacidad es importante para nosotros. Nuestra [Política de Privacidad](https://github.com/Cohabify/CohabifyDocumentation/blob/S2/S2_markdown/4-PrivacyPolicy.md), explica cómo recopilamos, usamos y protegemos su información personal.
 
 ### 6. Pagos
 Si el servicio requiere pago, usted acepta pagar todas las tarifas aplicables según se describe en el sitio web del Servicio o dentro del Servicio. Todas las tarifas son no reembolsables, excepto según se disponga expresamente en este Acuerdo.
@@ -104,8 +111,13 @@ Este Acuerdo puede ser terminado por cualquiera de las partes si la otra parte i
 ### 10. Limitación de Responsabilidad
 Cohabify no aceptará responsabilidad por cualquier mal uso de la aplicación por parte de los usuarios. Los usuarios son responsables del correcto uso del servicio.
 
-### 11. Cambios en el Acuerdo
-En caso de cualquier cambio en este Acuerdo, los usuarios serán notificados con 7 días de antelación a los cambios y se les dará la opción de aceptarlos. En caso de no estar de acuerdo con alguno de los cambios, usted podrá optar por dejar de utilizar nuestra aplicación.
+### 11. Validez y revisión del Acuerdo
+
+El presente acuerdo es válido a partir de la fecha de entrada en vigor aquí descrita y es válido hasta nuevo aviso. Este Acuerdo debe revisarse como mínimo una vez por año fiscal; la fecha de revisión será la misma que la fecha de entrada en vigor. Mientras no se realice una revisión, el Acuerdo seguirá siendo válido.
+
+El Cohabify (“Propietario del documento”) es responsable de facilitar revisiones periódicas de este documento. El contenido de este documento puede modificarse según sea necesario, siempre que se obtenga un acuerdo mutuo de las partes interesadas principales y se comunique a todas las partes afectadas. El propietario del documento incorporará todas las revisiones posteriores y obtendrá acuerdos/aprobaciones mutuas según sea necesario.
+
+En caso de cualquier cambio en este Acuerdo, los usuarios serán notificados con 7 días de antelación a los cambios y se les dará la opción de aceptarlos. En caso de no estar de acuerdo con alguno de los cambios, usted podrá optar por dejar de utilizar nuestros servicios.
 
 ### 12. Ley Aplicable
 Este Acuerdo estará regido por las leyes de España, excepto si infringe los derechos del consumidor en su lugar de residencia.
