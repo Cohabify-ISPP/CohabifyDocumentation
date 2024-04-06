@@ -9,7 +9,7 @@ Acuerdo con el Cliente
 <table>
     <tbody>
         <tr>
-            <td rowspan=2><p></p> Urquijo Martínez, Álvaro (creador)<p></p><p></p> Morato Navarro, Olegario (revisor)<p></p>
+            <td rowspan=2><p></p> Urquijo Martínez, Álvaro (creador)<p></p><p></p> Morato Navarro, Olegario (revisor)<p></p><p></p> Márquez Sierra, María (revisora)<p></p>
             </td>
         </tr>
     </tbody>
