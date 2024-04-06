@@ -1,5 +1,3 @@
-ISPP
-
 ![US Logo](images/logo_us.png)
 
 Plan de Marketing
