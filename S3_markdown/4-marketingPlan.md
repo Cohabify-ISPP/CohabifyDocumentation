@@ -10,6 +10,7 @@ Plan de Marketing
     <tbody>
         <tr>
             <td rowspan=2>Márquez Sierra, María (editor)<p></p>
+            Urquijo Martínez, Álvaro (revisor)
             </td>
         </tr>
     </tbody>
