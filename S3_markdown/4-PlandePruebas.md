@@ -32,12 +32,22 @@ Plan de Pruebas
   </tr>
 </table>
 
-
-
 ###  Versión Cambios Autores
 | Versión | Cambios | Autores |
 | --- | --- | --- |
 | V1.0 | Creación del documento | Eduardo Robles Russo |
+
+### Tabla de Contenidos
+
+- [Plan de Pruebas](#plan-de-pruebas)
+  - [Versión Cambios Autores](#versión-cambios-autores)
+  - [Tabla de Contenidos](#tabla-de-contenidos)
+  - [1. Alcance:](#1-alcance)
+  - [2. Estrategia de Pruebas:](#2-estrategia-de-pruebas)
+  - [3. Recursos necesarios:](#3-recursos-necesarios)
+  - [4. Casos de Prueba:](#4-casos-de-prueba)
+  - [5. Criterios de Aceptación:](#5-criterios-de-aceptación)
+
 
 **Plan de Pruebas**
 
@@ -82,7 +92,7 @@ Para garantizar la calidad y robustez del software, seguiremos esta estrategia:
    - Herramientas de prueba: Katalon Recorder, Selenium, JUnit 5, Gatling, entre otras.
    - Ambientes de prueba: entornos de desarrollo, preproducción y producción para pruebas de rendimiento.
 
-## 4. Casos de Prueba:
+### 4. Casos de Prueba:
 Los casos de prueba son escenarios específicos diseñados para verificar el correcto funcionamiento de un software. Aquí estan las diferentes tipos de pruebas y los escenarios que se presentan en nuestra aplicacion.
 
 - **Pruebas Unitarias**
