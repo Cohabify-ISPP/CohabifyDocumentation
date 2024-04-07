@@ -48,9 +48,6 @@ Plan de Pruebas
   - [4. Casos de Prueba:](#4-casos-de-prueba)
   - [5. Criterios de Aceptación:](#5-criterios-de-aceptación)
 
-
-**Plan de Pruebas**
-
 ### 1. Alcance:
    - Se probarán las funcionalidades descritas en los apuntes, incluyendo pruebas unitarias, de integración, de extremo a extremo, de aceptación y de rendimiento.
    - No se probarán aspectos fuera del alcance de la asignatura, como pruebas de seguridad avanzadas o pruebas de carga extremadamente pesadas.
