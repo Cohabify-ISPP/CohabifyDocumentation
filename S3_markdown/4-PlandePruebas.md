@@ -85,7 +85,7 @@ Para garantizar la calidad y robustez del software, seguiremos esta estrategia:
            - Ejecutaremos pruebas de carga y estrés para evaluar el rendimiento bajo diferentes condiciones.
 
 ### 3. Recursos necesarios:
-   - Equipo de desarrollo: ingenieros de software responsables de implementar las pruebas.
+   - Equipo de desarrollo: estudiantes de ingeniería de software responsables de implementar las pruebas.
    - Herramientas de prueba: Katalon Recorder, Selenium, JUnit 5, Gatling, entre otras.
    - Ambientes de prueba: entornos de desarrollo, preproducción y producción para pruebas de rendimiento.
 
