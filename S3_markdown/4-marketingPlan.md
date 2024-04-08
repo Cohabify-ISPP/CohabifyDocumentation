@@ -125,7 +125,7 @@ Cohabify enfrenta competencia tanto de plataformas inmobiliarias tradicionales c
 
 ## Objetivos de Marketing y KPIs:
 - **Objetivo 1:** Aumentar la adquisición de usuarios en un 30% dentro de los primeros seis meses.
-  - **KPIs:** Número de registros de nuevos usuarios, descargas de la aplicación y tráfico del sitio web.
+  - **KPIs:** Número de registros de nuevos usuarios.
 - **Objetivo 2:** Mejorar las tasas de participación y retención de usuarios en un 20% a través de iniciativas de construcción de comunidad.
   - **KPIs:** Duración promedio de sesión, frecuencia de uso de la aplicación y calificaciones de retroalimentación de los usuarios.
 - **Objetivo 3:** Establecer credibilidad a través de asociaciones estratégicas y cobertura mediática.
