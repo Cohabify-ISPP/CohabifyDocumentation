@@ -108,7 +108,7 @@ Arriba a la derecha, está el icono de compartir el cual al pulsarlo pondrá en 
 
 ![8](images/Guidelines/8.png)
 
-En esta pantalla se encuentra el listado de usuarios. Esta muestra la foto, el nombre de usuario, su foto de perfil y las etiquetas. Además, hay una barra de búsqueda y si pulsamos en el icono del final de la barra, podremos ver los filtros  de etiquetas así como otros filtros como el presupuesto o el maximo de inquilinos. Si pulsamos en las etiquetas, se filtrarán los usuarios con esas etiquetas, pudiendo elegir más de una.
+En esta pantalla se encuentra el listado de usuarios. Esta muestra la foto, el nombre de usuario, su foto de perfil y las etiquetas. Además, hay una barra de búsqueda y si pulsamos en el icono del final de la barra, podremos ver los filtros  de etiquetas así como otros filtros como el presupuesto o el máximo de inquilinos. Si pulsamos en las etiquetas, se filtrarán los usuarios con esas etiquetas, pudiendo elegir más de una.
 
 ## 1.5 CU Detalles de usuario
 
@@ -123,7 +123,7 @@ Por último, mencionar que también se contará con pisos en común, que son aqu
 ![11](images/Guidelines/11.png)
 
 En esta vista podemos crear un anuncio de búsqueda de piso o editarlo en el caso de que ya hubieramos creado uno anteriormente. 
-Desde aquí se puede indicar el presupuesto disponible, asi como datos de entrada y salida del piso, número máximo de inquilinos y una descripción.
+Desde aquí se puede indicar el presupuesto disponible, así como datos de entrada y salida del piso, número máximo de inquilinos y una descripción.
 
 ## 1.7 CU Planes de servicio
 
@@ -142,8 +142,8 @@ Todos los pagos por los servicios de Cohabify, se realizarán a través de la in
 
 ![14](images/Guidelines/14.png)
 
-En esta vista podemos crear un anuncio de vivienda, solo disponible para usuarios con el plan Propietario, en esta se deberán indicar datos como el titulo, numero de habitaciones y baños, imagenes, inquilinos, entre otras.
-También se puede indicar el numero del Catastro y se autorellenará la ubicacion y superficie de la vivienda. Un número de catastro válido para pruebas es: 9872023VH5797S0001WX
+En esta vista podemos crear un anuncio de vivienda, sólo disponible para usuarios con el plan Propietario, en esta se deberán indicar datos como el titulo, número de habitaciones y baños, imagenes, inquilinos, entre otras.
+También se puede indicar el numero del Catastro y se autorellenará la ubicación y superficie de la vivienda. Un número de catastro válido para pruebas es: 9872023VH5797S0001WX
 
 ## 1.10 CU Comentarios
 
