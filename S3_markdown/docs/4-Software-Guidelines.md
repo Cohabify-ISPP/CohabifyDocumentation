@@ -143,7 +143,7 @@ Todos los pagos por los servicios de Cohabify, se realizarán a través de la in
 ![14](images/Guidelines/14.png)
 
 En esta vista podemos crear un anuncio de vivienda, solo disponible para usuarios con el plan Propietario, en esta se deberán indicar datos como el titulo, numero de habitaciones y baños, imagenes, inquilinos, entre otras.
-También se puede indicar el numero del Catastro y se autorellenará la ubicacion y superficie de la vivienda.
+También se puede indicar el numero del Catastro y se autorellenará la ubicacion y superficie de la vivienda. Un número de catastro válido para pruebas es: 9872023VH5797S0001WX
 
 ## 1.10 CU Comentarios
 
