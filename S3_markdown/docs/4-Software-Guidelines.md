@@ -48,15 +48,17 @@ Software Guidelines
 - [1. Manual de uso](#1-manual-de-uso)
   - [1.1 CU Registro y Login](#11-cu-registro-y-login)
     - [1.1.1 Inicio de sesión](#111-inicio-de-sesión)
-    - [1.1.2 Registro](#112-registro)
+    - [1.1.2 Registro](#112-registroegistro)
   - [1.2 CU Listar viviendas](#12-cu-listar-viviendas)
   - [1.3 CU Detalles de una vivienda](#13-cu-detalles-de-una-vivienda)
   - [1.4 CU Listar inquilinos](#14-cu-listar-inquilinos)
   - [1.5 CU Detalles de usuario](#15-cu-detalles-de-usuario)
   - [1.6 CU Crear o editar anuncio publicado](#16-cu-crear-o-editar-anuncio-publicado)
   - [1.7 CU Planes de servicio](#17-cu-planes-de-servicio)
-  - [1.8 CU Crear anuncio de piso](#18-cu-crear-anuncio-de-piso)
-  - [1.9 CU Comentarios](#19-cu-comentarios)
+  - [1.8 CU Pasarela de pago](#18-cu-pasarela-de-pago)
+  - [1.9 CU Crear anuncio de piso](#19-cu-crear-anuncio-de-piso)
+  - [1.10 CU Comentarios](#110-cu-comentarios)
+  - [1.11 CU Chat](#111-cu-chat)
 
 - [2. Datos adicionales](#2-datos-adicionales)
 
@@ -159,4 +161,8 @@ Url Landing Page: `https://cohabify.github.io/`
 Url plataforma de despliegue: `https://cohabify.onrender.com`
 Url repositorio con el código: `https://github.com/Cohabify/Cohabify`
 
-Credenciales para inicio de sesión: admin, admin
+Credenciales para inicio de sesión: 
+- Nombre de usuario: manlovper90; Contraseña: manlovper90
+- Nombre de usuario: javgaragu90; Contraseña: javgaragu90
+
+Pedimos que no se modifiquen las credenciales de estos usuarios, muchas gracias.
