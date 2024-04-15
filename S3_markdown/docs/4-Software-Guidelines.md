@@ -9,8 +9,9 @@ Software Guidelines
 <table>
     <tbody>
         <tr>
-            <td rowspan=2></p> González Castillero, Rafael (editor) <p>
-            Morato Navarro, Juan Carlos (revisor)<p></p> Urquijo Martínez, Álvaro (editor)<p></p>
+            <td rowspan=2><p> González Castillero, Rafael (editor) </p>
+            <p>Morato Navarro, Juan Carlos (revisor)</p><p> Urquijo Martínez, Álvaro (editor)</p>
+            <p>Miguel Ángel Roldán García (editor)</p>
             </td>
         </tr>
     </tbody>
@@ -21,7 +22,7 @@ Software Guidelines
     <th>Grupo</th>
     <th>4</th>
     <th>Entregable</th>
-    <th>S2</th>
+    <th>S3</th>
   </tr>
   <tr>
     <td>Repositorio</td>
@@ -39,6 +40,7 @@ Software Guidelines
 | --- | --- | --- |
 | V1.0 | Creación del documento | Rafael González Castillero |
 | V2.0 | Actualización del documento | Álvaro Urquijo Martínez |
+| V3.0 | Actualización del documento | Miguel Ángel Roldán García |
 
 ## Tabla de contenidos
 - [Software Guidelines](#software-guidelines)
