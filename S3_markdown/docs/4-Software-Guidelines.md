@@ -123,7 +123,7 @@ Por último, mencionar que también se contará con pisos en común, que son aqu
 ![11](images/Guidelines/11.png)
 
 En esta vista podemos crear un anuncio de búsqueda de piso o editarlo en el caso de que ya hubieramos creado uno anteriormente. 
-Deade aquí se puede indicar el presupuesto disponible, asi como datos de entrada y salida del piso, número máximo de inquilinos y una descripción.
+Desde aquí se puede indicar el presupuesto disponible, asi como datos de entrada y salida del piso, número máximo de inquilinos y una descripción.
 
 ## 1.7 CU Planes de servicio
 
