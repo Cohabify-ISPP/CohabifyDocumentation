@@ -42,6 +42,12 @@ Acuerdo con el Cliente
 - [Tabla de contenidos](#tabla-de-contenidos)
 - [1. Descripción general del acuerdo](#1-descripción-general-del-acuerdo)
 - [2. Metas y objetivos](#2-metas-y-objetivos)
+- [3. SLA respecto a los planes de pago](#3-sla-respecto-a-los-planes-de-pago)
+- [4. Métricas de rendimiento y objetivos](#4-métricas-de-rendimiento-y-objetivos)
+- [5. Proceso y herramientas de monitorización del los elementos del SLA](#5-proceso-y-herramientas-de-monitorización-del-los-elementos-del-sla)
+- [6. Suposiciones del servicio de Cohabify](#6-suposiciones-del-servicio-de-cohabify)
+- [7. Suposiciones del cliente](#7-suposiciones-del-cliente)
+- [8. Compensacion por incumplimiento](#8-compensacion-por-incumplimiento)
 
 ### 1. Descipción general del acuerdo
 
@@ -77,9 +83,7 @@ Cohabify se compromete a mantener una disponibilidad del 99.9% en el servicio we
 
 La disponibilidad del contacto con el soporte será del 100% en el horario de atención al cliente:
 
-- Lunes a viernes de 9:00 a 14:00 para usuarios con plan gratuito.
-
-- Lunes a sabado de 9:00 a 16:00 para usuarios con planes de pago.
+- Lunes a viernes de 10:00 a 14:00
 
 Cualquier solicitud fuera de este horario será atendida en el siguiente horario de atención al cliente.
 
@@ -91,9 +95,8 @@ Cohabify se compromete a responder a las solicitudes de soporte en los plazos de
 | --- | --- |
 | Crítica | 1 hora |
 | Alta | 4 horas |
-| Media | 12 horas |
-| Baja | 24 horas |
-| Consulta | 48 horas |
+| Media | 28 horas |
+| Baja | 52 horas |
 
 El contacto con el soporte se realizará a través del correo electrónico cohabify.soporte@gmail.com
 
@@ -107,7 +110,6 @@ Cohabify se compromete a resolver los problemas en los plazos descritos.
 | Alta | 24 horas |
 | Media | 72 horas |
 | Baja | 1 semana |
-| Consulta | 2 semanas |
 
 #### 4.4. Resolución al primer contacto
 
