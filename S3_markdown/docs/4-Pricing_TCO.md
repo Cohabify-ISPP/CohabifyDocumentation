@@ -326,7 +326,7 @@ Los costes de operación que se describen en el punto 1.2 están estimados para 
 | Google Maps   | 15k peticiones  | 7k peticiones  | 70€            | 32€             | 38€    |
 | Twilio        | 4.2k usuarios/mes| 1.3k usuarios/mes | 194€         | 65€             | 129€   |
 | Netlify       | 2 gestores      | 1 gestor       | 35€            | 17,5€           | 17,5€  |
-| Partnerhero   | 10 horas        | 5 horas        | 100€           | 50€             | 50€    |
+| Partnerhero   | 10 horas        | 5 horas        | 94€           | 44€             | 50€    |
 | **Total ahorrado** | -           | -              | -     | -               | **248,5€**      |
 
 Con estos cambios, nos ahorraríamos 248,5€/mes. Por lo tanto, el coste de operación en este supuesto se puede calcular de la siguiente forma:
@@ -352,7 +352,7 @@ Los costes de operación que se describen en el punto 1.2 están estimados para 
 | Twilio        | 4.2k usuarios/mes| 8.4k usuarios/mes | 194€         | 388€            | 194€              |
 | Netlify       | 2 gestores      | 3 gestor       | 35€            | 52,5€           | 17,5€             |
 | Mongo         | 2M peticiones   | 5M peticiones  | 10€ + 4€       | 25€ + 10€       | 21€               |
-| Partnerhero   | 10 horas        | 20 horas       | 100€           | 200€            | 100€              |
+| Partnerhero   | 10 horas        | 20 horas       | 94€           | 194€            | 100€              |
 | **Total aumentado** | -          | -              |     | -               | **452,5€**       |
 
 Con estos cambios, aumentaríamos el coste mensual en 352,5€/mes. Por lo tanto, el gasto de operación en este supuesto se puede calcular de la siguiente forma:
