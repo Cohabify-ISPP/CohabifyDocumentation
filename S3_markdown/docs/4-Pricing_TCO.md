@@ -43,6 +43,9 @@ TCO y Pricing
 | V1.3 | Visión sobre el aumento/reducción de usuarios en nuestra aplicación. | Rafael González Castillero |
 | V1.4 | Corregir errata en aumento de costes de operación | Daniel Arriaza Arriaza |
 | V2.0 | Añadir cálculos de TCO para 2 años | Daniel Arriaza Arriaza y Olegario Morato Navarro |
+| V3.0 | Añadir costes atención al cliente y actualizar costes totales y beneficios | Rafael González Castillero |
+| V3.1 | Corregir errores de transcripción a markdown | Rafael González Castillero |
+| V3.2 | Modificar formulas en latex y añadir gastos de nuevos perfiles actualizando costes y beneficios | Rafael González Castillero |
 
 
 ### Tabla de contenidos
@@ -99,12 +102,12 @@ TCO y Pricing
 ## Resumen ejecutivo
 En este documento se realiza un análisis del TCO en el primer año de vida del proyecto con su respectivo coste de desarrollo estimado según los perfiles que necesitamos y las horas que se estiman para cada uno de estos.
 
-Se seleccionan distintos PaaS y API’s según los requisitos de nuestro producto y las tecnologías que usaremos, y se calcula que el coste de operación expresado mensualmente según la estimación realista de usuarios de nuestra aplicación. Un 3% de los españoles en 2022 han tenido la necesidad de alquilar una vivienda compartida, nuestro objetivo y estimación es obtener un tráfico del 0.7% mensual del total, es decir, alrededor de 10.000 usuarios/mes. Con estos datos podemos deducir que el coste mensual de operación asciende a un total de 473€ por lo que el coste de operación del primer año rondará los 5.676€.
-En base a estos datos se crea un plan de precios para Cohabify con el fin de recuperar la inversión del desarrollo en un plazo de entre un año a año y medio. Dentro de este plan existirán pagos por promoción de publicaciones, un plan para propietarios y un plan de usuarios normales. La monetización mensual de Cohabify tras estimar el porcentaje de usuarios que accede a cada plan es de 4.150€ y si restamos los gastos mensuales obtenemos un beneficio de 3.677€ por mes.
+Se seleccionan distintos PaaS y API’s según los requisitos de nuestro producto y las tecnologías que usaremos, y se calcula que el coste de operación expresado mensualmente según la estimación realista de usuarios de nuestra aplicación. Un 3% de los españoles en 2022 han tenido la necesidad de alquilar una vivienda compartida, nuestro objetivo y estimación es obtener un tráfico del 0.7% mensual del total, es decir, alrededor de 10.000 usuarios/mes. Con estos datos podemos deducir que el coste mensual de operación asciende a un total de 565€ por lo que el coste de operación del primer año rondará los 6.780€.
+En base a estos datos se crea un plan de precios para Cohabify con el fin de recuperar la inversión del desarrollo en un plazo de entre un año a año y medio. Dentro de este plan existirán pagos por promoción de publicaciones, un plan para propietarios y un plan de usuarios normales. La monetización mensual de Cohabify tras estimar el porcentaje de usuarios que accede a cada plan es de 4.150€ y si restamos los gastos mensuales obtenemos un beneficio de 3.585€ por mes.
 Finalmente podemos deducir que la inversión total del proyecto de Cohabify se podrá recuperar en un plazo de 14 meses siempre y cuando se cumplan nuestras estimaciones.
 
 ## Introducción
-La intención de este documento es describir el método de cálculo del Total Cost of Ownership (TCO) donde se desglosan los costos asociados con un activo a lo largo de su vida útil. En este contexto, se detallará exhaustivamente el TCO para el desarrollo y operación del proyecto, incluyendo horas de trabajo y gastos mensuales de plataformas como Heroku, Netlify, MongoDB Atlas y Twilio. La inversión se complementará con una estrategia de ingresos mediante servicios de pago. El análisis financiero proporcionará una visión clara de la rentabilidad mensual y proyecta un período de recuperación de la inversión. Este enfoque integral guía la toma de decisiones estratégicas y asegura una gestión financiera eficaz a lo largo del ciclo de vida del proyecto.
+La intención de este documento es describir el método de cálculo del Total Cost of Ownership (TCO) donde se desglosan los costos asociados con un activo a lo largo de su vida útil. En este contexto, se detallará exhaustivamente el TCO para el desarrollo y operación del proyecto, incluyendo horas de trabajo y gastos mensuales de plataformas como Heroku, Netlify, MongoDB Atlas, Twilio... La inversión se complementará con una estrategia de ingresos mediante servicios de pago. El análisis financiero proporcionará una visión clara de la rentabilidad mensual y proyecta un período de recuperación de la inversión. Este enfoque integral guía la toma de decisiones estratégicas y asegura una gestión financiera eficaz a lo largo del ciclo de vida del proyecto.
 
 ## 1. Total Cost of Ownership (TCO)
 
@@ -118,14 +121,16 @@ El coste por hora de trabajo base será de 23,85€/h. En la siguiente tabla se 
 | Perfil              | Horas (h) | Diferencia base | Total       |
 |---------------------|-----------|-----------------|-------------|
 | Group manager       | 150       | 56,18 %         | 5.587,50 €  |
-| Programador full stack | 1205    | -               | 28.739,25 € |
+| Programador full stack | 1105    | -               | 26.354,25 € |
 | Tester              | 300       | -0,71 %         | 7.104,00 €  |
 | Diseñador gráfico   | 150       | 12,91 %         | 4.039,50 €  |
 | Administrador de DB | 20        | 48,97 %         | 710,60 €    |
 | Analista de requisitos | 50     | 29,43 %         | 1.543,50 €  |
 | Secretario          | 75        | -58,23 %        | 747,00 €    |
-| **Cálculo total**   |           |                 | **48.471,35 €** |
-| **Contingencia (+5%)** |         |                 | **50.894,92 €** |
+| Encargado GDPR | 30          | 47 %               | 1.151,50 €    |
+| Community Manager   | 70        | -16,14        | 1.400 €  |
+| **Cálculo total**   |           |                 | **48.637,85 €** |
+| **Contingencia (+5%)** |         |                 | **51.069,74 €** |
 
 En este caso no se añaden otro tipo de costes ya que no se ha hecho ningún tipo de inversión en bienes físicos u amortizables, además todo el desarrollo se realiza de forma telemática con equipos adquiridos por los propios involucrados en el proyecto.
 
@@ -149,7 +154,9 @@ Podemos calcular el gasto mensual total y el total en los 4 meses de desarrollo 
 #### 1.1.3 Gastos totales desarrollo
 La inversión total necesaria para el proyecto durante el proceso de desarrollo se puede por tanto calcular de la siguiente forma:
 
-CAPEX desarrollo + OPEX desarrollo = 50.895 € + 336 € = 51.231 €
+```math
+\text{CAPEX desarrollo} + \text{OPEX desarrollo} = 51069.74 € + 336 € = 51405.74 €
+```
 
 ### 1.2 Costes de operación
 
@@ -183,7 +190,9 @@ Teniendo en cuenta los estudios analizados deducimos que una estimación realist
 
 Haciendo uso del método PERT para realizar la estimación de usuarios tras el análisis de los estudios anteriores podemos obtener que una buena estimación de los usuarios mensuales de Cohabify ronda el siguiente número:
 
-\[PERT = \frac{(3.600 + 4*10.000 + 20.000)}{6} = 10.600 usuarios\]
+```math
+PERT = \frac{(3.600 + 4*10.000 + 20.000)}{6} = 10.600
+```
 
 #### 1.2.2 OPEX operación
 
@@ -287,13 +296,18 @@ Basándonos en los datos estimados podemos obtener la siguiente tabla:
 
 Para calcular el beneficio mensual, restamos el Coste Total de Propiedad (TCO) mensual a los ingresos mensuales. En este caso, el TCO mensual es de 565€. El beneficio mensual sería de
 
+```math
 4150€ - 565€ = 3585€
+```
 
 ##### 2.2.4.3 Recuperación de la Inversión
 
 Finalmente, calculamos el tiempo que tardaremos en recuperar la inversión inicial del desarrollo. Para ello, dividimos la inversión inicial del desarrollo (51.231€) entre el beneficio mensual. Esto nos da un total de:
 
-51.231€ / 3585€/mes = 14 meses
+```math
+\frac{51405.74 \text{ euros}}{3585 \text{ euros/mes}} = 14 \text{ meses}
+
+```
 
 Es decir, en poco más de un año tendríamos la posibilidad de recuperar la totalidad de la inversión inicial. Este análisis nos proporciona una visión clara de la viabilidad financiera de nuestro proyecto y nos permite tomar decisiones informadas sobre la gestión de nuestro negocio.
 
@@ -331,11 +345,15 @@ Los costes de operación que se describen en el punto 1.2 están estimados para 
 
 Con estos cambios, nos ahorraríamos 248,5€/mes. Por lo tanto, el coste de operación en este supuesto se puede calcular de la siguiente forma:
 
-Coste mensual operación - Total ahorrado = 565€ - 248,5€ = 316,5€
+```math
+\text{Coste mensual operación} - \text{Total ahorrado} = 565€ - 248,5€ = 316,5€
+```
 
 #### 3.1.3 Cálculo de beneficio pesimista
 
-Ingresos pesimistas - Costes operación pesimista = 1.290€ - 316,5€ = 973,5€
+```math
+\text{Ingresos pesimistas} - \text{Costes operación pesimista} = 1.290€ - 316,5€ = 973,5€
+```
 
 ### 3.2 Aumento de usuarios
 
@@ -357,8 +375,12 @@ Los costes de operación que se describen en el punto 1.2 están estimados para 
 
 Con estos cambios, aumentaríamos el coste mensual en 352,5€/mes. Por lo tanto, el gasto de operación en este supuesto se puede calcular de la siguiente forma:
 
-Coste mensual operación + Coste aumentado = 565€ + 452,5€ = 1.017,5€
+```math
+\text{Coste mensual operación} + \text{Coste aumentado} = 565€ + 452,5€ = 1.017,5€
+```
 
 #### 3.2.3 Cálculo de beneficio optimista
 
-Ingresos optimistas - Costes operación optimistas = 10.450€ - 1.017,5€ = 9.432,5€
+```math
+\text{Ingresos optimistas} - \text{Costes operación optimistas} = 10.450€ - 1.017,5€ = 9.432,5€
+```
