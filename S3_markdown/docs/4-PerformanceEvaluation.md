@@ -329,7 +329,8 @@ En el Sprint 3, ha realizado tareas de programación como la verificación del c
 
 
 - Romero González, Juan
-- Urquijo Martínez, Álvaro
+### Urquijo Martínez, Álvaro
+En el sprint 3, ha realizado, con respecto a código, testing de Valoraciones de usuario, tanto en la parte de servicio como en el controlador, también ha creado la vista de confirmación de borrado de cuenta. Con respecto a documentación ha modificado varios documentos como el Customer Agreement, carpetas de anuncios y demos, report, así como añadir la entrada semanal a la BGC, también se ha encargado de redactar la autodefensa del Sprint 3.
 
 ## 2.5 Preparing Project Launch (#PPL)
 - Arriaza Arriaza, Daniel
