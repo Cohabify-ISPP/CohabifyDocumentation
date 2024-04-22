@@ -136,6 +136,7 @@ V4.0 | Añadidas notas de S3 y contribuciones | G4
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-2)
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
   - [Barrera García, Ismael](#barrera-garcía-ismael-3)
+  - [Calero López, Marina](#calero-lópez-marina-3)
   - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-3)
   - [Márquez Sierra, María](#márquez-sierra-maría-3)
   - [Márquez Soldán, María](#márquez-soldán-maría-3)
@@ -274,7 +275,7 @@ Las contribuciones en este sprint han sido principalmente hacer las presentacion
 La contribución en esta etapa ha sido tener el rol de Group Manager, gestionando el reparto de tareas y la organización del subgrupo. En cuanto a código,  ha participado en la creación de panel de administración de anuncios junto al cambio de la navbar, implementación de los detalles de usuario y mejorar la interfaz, implementación de los likes de anuncios de usuarios y pisos, implementación de oauth con Google. Se ha ayudado a solucionar varias incidencias del despliegue.
 
 ### Calero López, Marina
-La contribución en este sprint en cuanto a la parte del código ha mejorado la vista de detalles de anuncio de un piso y ocultar los botones de comentar y borrar de las pantallas cuando eres un usuario no registrado. Por otro lado ha hecho junto a su compañero Juan Carlos la creación del primer storyboard asi como la realización del anuncio junto a sus compañeros Ismael, Juan Carlois, Olegario y Daniel. También ha sido la encargada de realizar la acrtualización del rendimiento del equipo asi como realizar y presentar la presentación junto a su compañero Daniel. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
+La contribución en este sprint en cuanto a la parte del código ha mejorado la vista de detalles de anuncio de un piso y ocultar los botones de comentar y borrar de las pantallas cuando eres un usuario no registrado. Por otro lado ha hecho junto a su compañero Juan Carlos la creación del primer storyboard asi como la realización del anuncio junto a sus compañeros Ismael, Juan Carlos, Olegario y Daniel. También ha sido la encargada de realizar la actualización del rendimiento del equipo asi como realizar y presentar la presentación junto a su compañero Daniel. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
   
 ### Galeano de Paz, Guillermo
 En este spint, las contribuciones han sido: añadir campos nuevos al JWT, comprobando que funcione; revisar el modelo de usuario, eliminando campos innecesario y haciendo correcciones; crear testing de publicar anuncios de usuario, tanto servicios como controlador; hacer los filtros de los listados de frontend funcionales; hacer las barras de búsqueda de los listados funcionales; crear testing de todo el controlador de usuario; crear testing de todo el servicio de usuario; arreglar los filtros ya que a finales del sprint se rompieron; crear la validación de la suscripción de usuario mediante la fecha de expiración de la suscripción; grabar la demo de la aplicación para la presentación del 02/04; crear el documento de reviewers guide con Eduardo Robles Russo; y por último pasar la presentación del 02/04 a markdown.
@@ -313,8 +314,9 @@ Durante el sprint 2, las contribuciones principales han sido: actualizar la base
 ### Barrera García, Ismael
 La contribución en esta etapa ha sido tener el rol de Group Manager, gestionando el reparto de tareas y la organización del subgrupo en medio sprint. Además, se han arreglado prácticamente todos los problemas encontrados en el Sprint 2, además de algunos arreglos para que el Oauth funcione correctamente. Por otro lado, se han desarrollado pruebas de frontend con Selenium. Finalmente, se ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
 
-- Calero López, Marina
-- 
+### Calero López, Marina
+La contribución en este sprint en cuanto a la parte del código ha mejorado los estilos. Por otro lado ha hecho la realización del anuncio junto a su compañero Juan Carlos. También ha sido la encargada de realizar la actualización del rendimiento del equipo asi como realizar y presentar la presentación junto a su compañero Daniel. Así mismo revisó la tarea 262 implementar verificación de correo electrónico además de la tarea 290 crear pruebas de integración. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
+
 ### Galeano de Paz, Guillermo
 A lo largo del S3, primero implementó la conexión con la API de sms de twilio aunque al final se decidiera no incluirla. Después implementó la promoción de anuncios, seguido de crear el modelo de datos de chat y mensajes y las operaciones CRUD hasta nivel de servicio. Y por último, ha añadido los mapas de google maps a todas las vistas en las que era apropiada.
 
