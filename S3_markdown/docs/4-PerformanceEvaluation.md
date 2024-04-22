@@ -137,6 +137,7 @@ V4.0 | Añadidas notas de S3 y contribuciones | G4
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
   - [Barrera García, Ismael](#barrera-garcía-ismael-3)
   - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-3)
+  - [Gonzalez Castillero, Rafael](#gonzalez-castillero-rafael-3)
   - [Márquez Sierra, María](#márquez-sierra-maría-3)
   - [Márquez Soldán, María](#márquez-soldán-maría-3)
   - [Morato Navarro, Juan Carlos](#morato-navarro-juan-carlos-3)
@@ -318,7 +319,9 @@ La contribución en esta etapa ha sido tener el rol de Group Manager, gestionand
 ### Galeano de Paz, Guillermo
 A lo largo del S3, primero implementó la conexión con la API de sms de twilio aunque al final se decidiera no incluirla. Después implementó la promoción de anuncios, seguido de crear el modelo de datos de chat y mensajes y las operaciones CRUD hasta nivel de servicio. Y por último, ha añadido los mapas de google maps a todas las vistas en las que era apropiada.
 
-- Gonzalez Castillero, Rafael
+### Gonzalez Castillero, Rafael
+
+En el sprint 3 ha estado encargado de crear el documento de Service Level Agreement, modificar el documento de TCO y Pricing respecto a adición de roles y servicio de atención al cliente, actualizar configuración de SonarCloud, crear y editar el workflow de github para que funcione correctamente, revisar cumplimiento de Failure Condition y condiciones de fallo en el Reviewers Guideline e irformar de los cambios necesarios respecto a esto, probar y verificar el funcionamiento de las distintas partes de la aplicación desplegada y por último verificar que la presentación cumple con los requisitos especificados en el orden debido, aportando feedback para mejorarla. Finalmente, ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
 
 ### Márquez Sierra, María
 Durante el Sprint 3, ha implementado de la lógica de estadísticas de propietario, además de realizado la primera versión para el Plan de Marketing de la aplicación. También ha realizado la visualización de las estadísticas de propietario en las pantallas correspondientes, y ha elaborado testing para el AuthenticationController. Finalmente, ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
