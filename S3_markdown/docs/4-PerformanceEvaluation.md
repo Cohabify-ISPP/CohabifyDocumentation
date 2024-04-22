@@ -325,7 +325,8 @@ Durante el sprint 3 me he encargado de gestionar al subgrupo G3 como Group Manag
 - Robles Russo, Eduardo
 
 ### Roldán García, Miguel Ángel
-En el sprint 2, ha realizado tareas de programación como la verificación del correo electrónico, la implementación del chat de usuarios y arreglado tests unitarios que fallaban. También ha realizado el despliegue del S3 y el documento de software guidelines. Además ha realizado tareas de coordinación.
+En el Sprint 3, ha realizado tareas de programación como la verificación del correo electrónico, la implementación del chat de usuarios y arreglado tests unitarios que fallaban. También ha realizado el despliegue del S3 y el documento de software guidelines. Además ha realizado tareas de coordinación. Finalmente, ha hecho pilotaje del grupo 10 de ISPP - Cocemfe.
+
 
 - Romero González, Juan
 - Urquijo Martínez, Álvaro
