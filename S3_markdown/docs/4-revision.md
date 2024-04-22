@@ -9,7 +9,7 @@ Guía de Revision
 <table>
     <tbody>
         <tr>
-            <td rowspan=2> </p> Morato Navarro, Juan Carlos (editor)<p></p></p> Morato Navarro, Olegario (revisor)<p></p>
+            <td rowspan=2> <p> Morato Navarro, Juan Carlos (editor)</p><p>Morato Navarro, Olegario (revisor)</p><p>Barrera García, Ismael (revisor)</p>
             </td>
         </tr>
     </tbody>
@@ -27,6 +27,13 @@ Guía de Revision
     <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
   </tr>
 </table>
+
+### Tabla de versiones
+| Versión | Cambios | Autores |
+| --- | --- | --- |
+| V1.0 | Creación del documento | Guillermo Galeano de Paz, Eduardo Robles Russo|
+| V2.0 | Actualizado para S3 | Juan Carlos Morato Navarro |
+
 
 # Tabla de contenidos
 - [Tabla de contenidos](#tabla-de-contenidos)
@@ -100,15 +107,8 @@ Para todos los entregables donde se debe presentar el Software, se requiere incl
         ![Cohabify](images/Revision/24.png)
   
     <br></br>
-    <br></br> 
-    <br></br> 
-    <br></br> 
-    <br></br>  
-    <br></br>
-    <br></br>
-    <br></br>
 
-- Datos necesarios para realizar la revisión, tales como: usuarios, contraseñas, o ejemplos de conjuntos de datos de entrada si son complejos; en particular:
+### Datos necesarios para realizar la revisión, tales como: usuarios, contraseñas, o ejemplos de conjuntos de datos de entrada si son complejos; en particular:
 
 | Información | Detalles |
 |-------------|----------|

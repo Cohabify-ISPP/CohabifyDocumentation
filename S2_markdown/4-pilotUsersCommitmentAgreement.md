@@ -1,6 +1,6 @@
 ﻿![US Logo](images/logo_us.png)
 
-Título
+Acuerdo de compromiso con usuarios piloto
 ---
 
 
@@ -27,10 +27,6 @@ Título
   <tr>
     <td>Repositorio</td>
     <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
-  </tr>
-  <tr>
-    <td>Base de conocimiento común</td>
-    <td colspan="3"><a href="https://bgcc.vercel.app/">https://bgcc.vercel.app/</a></td>
   </tr>
 </table>
 
