@@ -33,7 +33,8 @@ Presentación de evaluación S2
 | Versión | Cambios | Autores |
 | --- | --- | --- |
 | V1.0 | Creación del documento | Guillermo Galeano de Paz |
-| V2.0 | Añadida presentación del S3 | Guillermo Galeano de Paz |
+| V2.0 | Añadida presentación del S2 | Guillermo Galeano de Paz |
+| V3.0 | Añadida presentación del S3 | Olegario Morato Navarro |
 
 ## Tabla de contenidos
 - [Presentación S2](#presentación-s2)
@@ -116,5 +117,5 @@ Presentación de evaluación S2
 
 ### Presentación S3
 
-La presentación en formato PDF puede ser encontrada [aquí](S3_markdown/docs/4-Presentación.pdf).
+La presentación en formato PDF puede ser encontrada [aquí](https://github.com/Cohabify/CohabifyDocumentation/tree/S3/S3_markdown/docs).
 
