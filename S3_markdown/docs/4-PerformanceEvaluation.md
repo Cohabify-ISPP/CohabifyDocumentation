@@ -41,7 +41,7 @@ Evaluación de rendimiento individual
             </td>
             </tr>
         <tr>
-            <td rowspan=2><p> Morato Navarro, Olegario (editor)</p>
+            <td rowspan=2><p> Morato Navarro, Olegario (editor/revisor)</p>
             </td>
             </tr>
         <tr>
@@ -135,12 +135,16 @@ V4.0 | Añadidas notas de S3 y contribuciones | G4
   - [Romero González, Juan](#romero-gonzález-juan-2)
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-2)
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
+  - [Arriaza Arriaza, Daniel](#arriaza-arriaza-daniel-3)
   - [Barrera García, Ismael](#barrera-garcía-ismael-3)
+  - [Calero López, Marina](#calero-lópez-marina-3)
   - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-3)
+  - [Gonzalez Castillero, Rafael](#gonzalez-castillero-rafael-3)
   - [Márquez Sierra, María](#márquez-sierra-maría-3)
   - [Márquez Soldán, María](#márquez-soldán-maría-3)
   - [Morato Navarro, Juan Carlos](#morato-navarro-juan-carlos-3)
   - [Morato Navarro, Olegario](#morato-navarro-olegario-3)
+  - [Robles Russo, Eduardo](#robles-russo-eduardo-3)
   - [Roldán García, Miguel Ángel](#roldán-garcía-miguel-ángel-3)
   - [Romero González, Juan](#romero-gonzález-juan-3)
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-3)
@@ -274,7 +278,7 @@ Las contribuciones en este sprint han sido principalmente hacer las presentacion
 La contribución en esta etapa ha sido tener el rol de Group Manager, gestionando el reparto de tareas y la organización del subgrupo. En cuanto a código,  ha participado en la creación de panel de administración de anuncios junto al cambio de la navbar, implementación de los detalles de usuario y mejorar la interfaz, implementación de los likes de anuncios de usuarios y pisos, implementación de oauth con Google. Se ha ayudado a solucionar varias incidencias del despliegue.
 
 ### Calero López, Marina
-La contribución en este sprint en cuanto a la parte del código ha mejorado la vista de detalles de anuncio de un piso y ocultar los botones de comentar y borrar de las pantallas cuando eres un usuario no registrado. Por otro lado ha hecho junto a su compañero Juan Carlos la creación del primer storyboard asi como la realización del anuncio junto a sus compañeros Ismael, Juan Carlois, Olegario y Daniel. También ha sido la encargada de realizar la acrtualización del rendimiento del equipo asi como realizar y presentar la presentación junto a su compañero Daniel. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
+La contribución en este sprint en cuanto a la parte del código ha mejorado la vista de detalles de anuncio de un piso y ocultar los botones de comentar y borrar de las pantallas cuando eres un usuario no registrado. Por otro lado ha hecho junto a su compañero Juan Carlos la creación del primer storyboard asi como la realización del anuncio junto a sus compañeros Ismael, Juan Carlos, Olegario y Daniel. También ha sido la encargada de realizar la actualización del rendimiento del equipo asi como realizar y presentar la presentación junto a su compañero Daniel. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
   
 ### Galeano de Paz, Guillermo
 En este spint, las contribuciones han sido: añadir campos nuevos al JWT, comprobando que funcione; revisar el modelo de usuario, eliminando campos innecesario y haciendo correcciones; crear testing de publicar anuncios de usuario, tanto servicios como controlador; hacer los filtros de los listados de frontend funcionales; hacer las barras de búsqueda de los listados funcionales; crear testing de todo el controlador de usuario; crear testing de todo el servicio de usuario; arreglar los filtros ya que a finales del sprint se rompieron; crear la validación de la suscripción de usuario mediante la fecha de expiración de la suscripción; grabar la demo de la aplicación para la presentación del 02/04; crear el documento de reviewers guide con Eduardo Robles Russo; y por último pasar la presentación del 02/04 a markdown.
@@ -308,17 +312,21 @@ Durante el S2, las principales contribuciones han sido: la mejora y constante ac
 Durante el sprint 2, las contribuciones principales han sido: actualizar la base de datos de conocimiento semanalmente, así como el documento de Report, realizar el CA para los usuarios piloto, comunicarse con los pilotos a la hora del despliegue, añadir funcionalidad a los anuncios de vivienda mediante la referencia catastral y crear la entidad de valoraciones de piso con toda su funcionalidad. También participó en el pilotaje del grupo 10 Cocemfe.
 
 ## 2.4 Sprint 3 (#S3)
-- Arriaza Arriaza, Daniel
+### Arriaza Arriaza, Daniel
+La contribución en esta etapa ha sido mejorar los estilos de la pantalla principal añadiendo un footer junto a Marina y mejorar los estilos del resto de la aplicación homogeneizando estilos y cambiando algunos estilos que tenían los colores por defecto. Asimismo, ha revisado tres issues, la 274, la 289 del repositorio principal y la 73 del repositorio de documentación. Asimismo, se ha encargado de hacer y ensayar las presentaciones de las dos semanas del sprint. Finalmente, hizo el pilotaje del grupo 10 (Cocemfe).
   
 ### Barrera García, Ismael
 La contribución en esta etapa ha sido tener el rol de Group Manager, gestionando el reparto de tareas y la organización del subgrupo en medio sprint. Además, se han arreglado prácticamente todos los problemas encontrados en el Sprint 2, además de algunos arreglos para que el Oauth funcione correctamente. Por otro lado, se han desarrollado pruebas de frontend con Selenium. Finalmente, se ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
 
-- Calero López, Marina
-- 
+### Calero López, Marina
+La contribución en este sprint en cuanto a la parte del código ha mejorado los estilos. Por otro lado ha hecho la realización del anuncio junto a su compañero Juan Carlos. También ha sido la encargada de realizar la actualización del rendimiento del equipo asi como realizar y presentar la presentación junto a su compañero Daniel. Así mismo revisó la tarea 262 implementar verificación de correo electrónico además de la tarea 290 crear pruebas de integración. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
+
 ### Galeano de Paz, Guillermo
 A lo largo del S3, primero implementó la conexión con la API de sms de twilio aunque al final se decidiera no incluirla. Después implementó la promoción de anuncios, seguido de crear el modelo de datos de chat y mensajes y las operaciones CRUD hasta nivel de servicio. Y por último, ha añadido los mapas de google maps a todas las vistas en las que era apropiada.
 
-- Gonzalez Castillero, Rafael
+### Gonzalez Castillero, Rafael
+
+En el sprint 3 ha estado encargado de crear el documento de Service Level Agreement, modificar el documento de TCO y Pricing respecto a adición de roles y servicio de atención al cliente, actualizar configuración de SonarCloud, crear y editar el workflow de github para que funcione correctamente, revisar cumplimiento de Failure Condition y condiciones de fallo en el Reviewers Guideline e irformar de los cambios necesarios respecto a esto, probar y verificar el funcionamiento de las distintas partes de la aplicación desplegada y por último verificar que la presentación cumple con los requisitos especificados en el orden debido, aportando feedback para mejorarla. Finalmente, ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
 
 ### Márquez Sierra, María
 Durante el Sprint 3, ha implementado de la lógica de estadísticas de propietario, además de realizado la primera versión para el Plan de Marketing de la aplicación. También ha realizado la visualización de las estadísticas de propietario en las pantallas correspondientes, y ha elaborado testing para el AuthenticationController. Finalmente, ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
@@ -330,9 +338,10 @@ En el Sprint 3, se ha encargado de solucionar todos los problemas encontrados en
 Durante el sprint 3, mis contribuciones han sido:  Grabar para los anuncios, actuar como GM del grupo 2. También he arreglado incidencias con varios campos de formulario.He actuado como usuario piloto para el grupo 10 de ISPP. He creado la pantalla (frontend) para el chat de la aplicación. Por último, he actualizado el documento "revision.md". 
 
 ### Morato Navarro, Olegario
-Durante el sprint 3 me he encargado de gestionar al subgrupo G3 como Group Manager. Además he implementado la pasarela de pago con stripe para poder pagar los planes, promociones y anuncios adicionales de viviendas. También he editado las demos y anuncios del proyecto, además de colaborar en la grabación de ambos. He recopilado el feedback de los usuarios pilotos y he colaborado en el documento de retrospectiva.
+Durante el sprint 3 me he encargado de gestionar al subgrupo G3 como Group Manager. Además he implementado la pasarela de pago con stripe para poder pagar los planes, promociones y anuncios adicionales de viviendas. También he editado las demos y anuncios del proyecto, además de colaborar en la grabación de ambos. He recopilado el feedback de los usuarios pilotos y he colaborado en el documento de retrospectiva. Finalmente, he sido usuario piloto del grupo 10 de ISPP (Cocemfe).
 
-- Robles Russo, Eduardo
+### Robles Russo, Eduardo
+Durante el sprint 3 me he encargado de crear el plan de pruebas. Además he implementado las prueba de integracion con la base de datos. También he puesto los datos de resultados de las pruebas realizadas por el grupo. Me he encargado de actualizar la landing page y he actualizado la wiki con prompts de copilot.
 
 ### Roldán García, Miguel Ángel
 En el Sprint 3, ha realizado tareas de programación como la verificación del correo electrónico, la implementación del chat de usuarios y arreglado tests unitarios que fallaban. También ha realizado el despliegue del S3 y el documento de software guidelines. Además ha realizado tareas de coordinación. Finalmente, ha hecho pilotaje del grupo 10 de ISPP - Cocemfe.
