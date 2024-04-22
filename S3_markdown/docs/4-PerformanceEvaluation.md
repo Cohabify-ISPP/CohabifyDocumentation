@@ -41,7 +41,7 @@ Evaluación de rendimiento individual
             </td>
             </tr>
         <tr>
-            <td rowspan=2><p> Morato Navarro, Olegario (editor)</p>
+            <td rowspan=2><p> Morato Navarro, Olegario (editor/revisor)</p>
             </td>
             </tr>
         <tr>
