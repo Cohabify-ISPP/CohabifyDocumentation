@@ -601,29 +601,40 @@ Todo el feedback anotado se ha tenido en cuenta y se ha revisado usando una chec
 
 ### 5.3.1 Análisis de competidores
 
+No procede.
 
 ### 5.3.2 Análisis de costes
 
+No procede.
 
 ### 5.3.3 Análisis de riesgos
 
+No procede.
 
 ### 5.3.4 Documentación
 
+Se ha añadido en md un documento de autodefensa.
 
 ### 5.3.5 Inicio efectivo
 
+No procede.
 
 ### 5.3.6 Modelos de negocio
 
+Se ha desarrollado un plan de marketing.
 
 ### 5.3.7 Roles
 
+No procede.
 
 ### 5.3.8 Uso de la IA
 
+No procede.
 
 ### 5.3.9 Usuarios piloto
 
+Se modificó la fecha de despligue a una semana antes del despliegue (en lugar de cuatro dias antes).
 
 ### 5.3.10 Feedback específico de grupo
+
+El feedback dado a nuestro grupo en específico se ha implementado en su totalidad dentro de las capacidades del grupo.
