@@ -47,12 +47,6 @@ Time Effort
 | Versión | Cambios | Autores |
 | --- | --- | --- |
 | V1.0 | Creación del documento | María Márquez Sierra |
-| V1.1 | Añadido versionado | Rafael González Castillero |
-| V1.2 | Estadísticas de alquiler y personas que comparten vivienda y estimaciones de usuarios. Dividir en CAPEX y OPEX. | Rafael González Castillero |
-| V1.3 | Visión sobre el aumento/reducción de usuarios en nuestra aplicación. | Rafael González Castillero |
-| V1.4 | Corregir errata en aumento de costes de operación | Daniel Arriaza Arriaza |
-| V2.0 | Añadir cálculos de TCO para 2 años | Daniel Arriaza Arriaza y Olegario Morato Navarro |
-
 
 ### 01/01/2024 - 31/12/2024 Total: 388:36:01
 
