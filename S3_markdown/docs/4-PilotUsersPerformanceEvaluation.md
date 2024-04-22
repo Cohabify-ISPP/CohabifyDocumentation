@@ -20,9 +20,18 @@
 
 
 
-|**Grupo**|4|**Entregable**|S3|
-| :-: | :-: | :-: | :-: |
-|**Repositorio**|<https://github.com/Cohabify/Cohabify> |||
+<table>
+  <tr>
+    <th>Grupo</th>
+    <th>4</th>
+    <th>Entregable</th>
+    <th>S3</th>
+  </tr>
+  <tr>
+    <td>Repositorio</td>
+    <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
+  </tr>
+</table>
 
 |**Versión**|**Cambios**|**Autores**|
 | :- | :- | :- |
