@@ -20,6 +20,10 @@ AutoDefensa Software Reviewer Guideline
             <td rowspan=2><p>Sierra Márquez, María (editor)</p> 
             </td>
         </tr>
+        <tr>
+            <td rowspan=2><p>Morato Navarro, Olegario (revisor)</p> 
+            </td>
+        </tr>
     </tbody>
 </table>
 
