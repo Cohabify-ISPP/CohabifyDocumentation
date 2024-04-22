@@ -8,7 +8,7 @@ Gestión de las IAs
 <table>
     <tbody>
         <tr>
-            <td rowspan=2><p>Arriaza Arriaza, Daniel (editor)</p><p>González Castillero, Rafael (editor)</p><p>Barrera García, Ismael (editor)</p><p>Morato Navarro, Olegario (revisor)</p> 
+            <td rowspan=2><p>Arriaza Arriaza, Daniel (editor)</p><p>González Castillero, Rafael (editor)</p><p>Barrera García, Ismael (editor)</p><p>Morato Navarro, Olegario (revisor)</p><p>Márquez Soldán, María (revisora)</p> 
             </td>
         </tr>
     </tbody>
@@ -33,8 +33,8 @@ Gestión de las IAs
 | V1.0 | Creación del documento | - |
 | V1.1 | Añadido versionado | Rafael González Castillero |
 | V2.0 | Añadidos Removebg, Pixelcut y Whisper | Daniel Arriaza Arriaza |
-| V3.0 | Añadido Phind y enlace a la wiki |Ismael Barrera García |
-| V4.0 | Añadido Microsoft Designer |Ismael Barrera García |
+| V3.0 | Añadido Phind y enlace a la wiki | Ismael Barrera García |
+| V4.0 | Añadido Microsoft Designer | Ismael Barrera García |
 
 ## Tabla de contenidos
 - [Gestión de las IAs](#gestión-de-las-ias)
