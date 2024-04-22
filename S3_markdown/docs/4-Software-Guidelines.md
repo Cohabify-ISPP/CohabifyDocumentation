@@ -10,7 +10,7 @@ Software Guidelines
     <tbody>
         <tr>
             <td rowspan=2><p> González Castillero, Rafael (editor) </p>
-            <p>Morato Navarro, Juan Carlos (revisor)</p><p> Urquijo Martínez, Álvaro (editor)</p>
+            <p>Morato Navarro, Juan Carlos (revisor)</p><p>Morato Navarro, Olegario (revisor)</p><p> Urquijo Martínez, Álvaro (editor)</p>
             <p>Miguel Ángel Roldán García (editor)</p>
             </td>
         </tr>
@@ -28,13 +28,9 @@ Software Guidelines
     <td>Repositorio</td>
     <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
   </tr>
-  <tr>
-    <td>Base de conocimiento común</td>
-    <td colspan="3"><a href="https://bgcc.vercel.app/">https://bgcc.vercel.app/</a></td>
-  </tr>
 </table>
 
-## Versión Cambios Autores
+## Tabla de versiones
 
 | Versión | Cambios | Autores |
 | --- | --- | --- |
