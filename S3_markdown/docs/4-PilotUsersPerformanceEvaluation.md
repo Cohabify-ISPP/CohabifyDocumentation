@@ -5,19 +5,14 @@
 
 ![Cohabify](images/Cohabify.png)
 
-
-
-
-
-
-
-
-
-
-|**Morato Navarro, Juan Carlos (editor)**|
-|**Morato Navarro, Olegario (editor)**|
-|**Barrera García, Ismael (revsor)**|
-
+<table>
+    <tbody>
+        <tr>
+            <td rowspan=2><p>Morato Navarro, Juan Carlos (editor)</p><p>Morato Navarro, Olegario (editor)</p><p>Barrera García, Ismael (revisor)</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 <table>
