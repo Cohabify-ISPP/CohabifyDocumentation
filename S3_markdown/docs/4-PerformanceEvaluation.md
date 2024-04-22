@@ -86,7 +86,7 @@ V4.0 | Añadidas notas de S3 y contribuciones | G4
 
 ## Tabla de contenidos
 - [Evaluación de rendimiento individual](#evaluación-de-rendimiento-individual)
-- [Versión Cambios Autores](#versión-cambios-autores)
+- [Tabla de versiones](#tabla-de-versiones)
 - [Tabla de contenidos](#tabla-de-contenidos)
 - [Resumen ejecutivo](#resumen-ejecutivo)
 - [Resumen de la contribución individual](#resumen-de-la-contribución-individual)
@@ -135,10 +135,15 @@ V4.0 | Añadidas notas de S3 y contribuciones | G4
   - [Romero González, Juan](#romero-gonzález-juan-2)
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-2)
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
+  - [Barrera García, Ismael](#barrera-garcía-ismael-3)
+  - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-3)
+  - [Márquez Sierra, María](#márquez-sierra-maría-3)
+  - [Márquez Soldán, María](#márquez-soldán-maría-3)
   - [Morato Navarro, Juan Carlos](#morato-navarro-juan-carlos-3)
   - [Morato Navarro, Olegario](#morato-navarro-olegario-3)
   - [Roldán García, Miguel Ángel](#roldán-garcía-miguel-ángel-3)
-  
+  - [Romero González, Juan](#romero-gonzález-juan-3)
+  - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-3)
 - [2.5 Preparing Project Launch (#PPL)](#25-preparing-project-launch-ppl)
 - [2.6 World Project Launch (#WPL)](#26-world-project-launch-wpl)
 
@@ -309,7 +314,10 @@ Durante el sprint 2, las contribuciones principales han sido: actualizar la base
 La contribución en esta etapa ha sido tener el rol de Group Manager, gestionando el reparto de tareas y la organización del subgrupo en medio sprint. Además, se han arreglado prácticamente todos los problemas encontrados en el Sprint 2, además de algunos arreglos para que el Oauth funcione correctamente. Por otro lado, se han desarrollado pruebas de frontend con Selenium. Finalmente, se ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
 
 - Calero López, Marina
-- Galeano de Paz, Guillermo
+- 
+### Galeano de Paz, Guillermo
+A lo largo del S3, primero implementó la conexión con la API de sms de twilio aunque al final se decidiera no incluirla. Después implementó la promoción de anuncios, seguido de crear el modelo de datos de chat y mensajes y las operaciones CRUD hasta nivel de servicio. Y por último, ha añadido los mapas de google maps a todas las vistas en las que era apropiada.
+
 - Gonzalez Castillero, Rafael
 
 ### Márquez Sierra, María
