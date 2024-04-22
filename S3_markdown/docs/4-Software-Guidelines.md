@@ -57,6 +57,7 @@ Software Guidelines
   - [1.9 CU Crear anuncio de piso](#19-cu-crear-anuncio-de-piso)
   - [1.10 CU Comentarios](#110-cu-comentarios)
   - [1.11 CU Chat](#111-cu-chat)
+  - [1.12 CU Promocionar anuncio](#112-cu-promocionar-anuncio)
 
 - [2. Datos adicionales](#2-datos-adicionales)
 
@@ -153,6 +154,17 @@ Tanto en la vista de detalles de usuario como en la de detalles de piso se puede
 ![15](images/Guidelines/15.png)
 
 La pantalla de chat nos mostrará un listado de nuestros chats a la izquierda. Haciendo click en cualquiera de ellos, se abrirá ese chat y podremos leer o enviar mensajes, haciendo uso de la interfaz en el lado derecho de la pantalla. Tanto en el listado como en el encabezado del chat, podremos ver las fotos de hasta 2 de los miembros del chat y los nombres de todos los participantes.
+
+## 1.12 CU Promocionar anuncio
+
+![Cohabify](images/Revision/9.png)
+![Cohabify](images/Revision/18.png)
+
+Para promocionar un anuncio, se debe pulsar en el botón de promocionar, mostrando una pantalla de pasarela de pago de Stripe. Pagándo 3 euros el anuncio quedará destacado arriba de la lista de búsqueda con cambios visuales.
+
+        
+        
+    
 
 ## 2. Datos adicionales
 Url Landing Page: `https://cohabify.github.io/`
