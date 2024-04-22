@@ -30,14 +30,9 @@ AutoDefensa
     <td>Repositorio</td>
     <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
   </tr>
-  <tr>
-    <td>Base de conocimiento común</td>
-    <td colspan="3"><a href="https://bgcc.vercel.app/">https://bgcc.vercel.app/</a></td>
-  </tr>
 </table>
 
-
-### Versión Cambios Autores
+## Tabla de versiones
 | Versión | Cambios | Autores |
 | --- | --- | --- |
 | V1.0 | Creación del documento y añadido S3 | Álvaro Urquijo Martínez |
