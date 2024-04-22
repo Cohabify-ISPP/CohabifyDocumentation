@@ -90,6 +90,10 @@ V3.0 | Añadidas notas de S2 | Marina Calero López
   - [Romero González, Juan](#romero-gonzález-juan-2)
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-2)
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
+  - [Morato Navarro, Juan Carlos](#morato-navarro-juan-carlos-3)
+  - [Morato Navarro, Olegario](#morato-navarro-olegario-3)
+  - [Roldán García, Miguel Ángel](#roldán-garcía-miguel-ángel-3)
+  
 - [2.5 Preparing Project Launch (#PPL)](#25-preparing-project-launch-ppl)
 - [2.6 World Project Launch (#WPL)](#26-world-project-launch-wpl)
 
@@ -261,11 +265,15 @@ Durante el sprint 2, las contribuciones principales han sido: actualizar la base
 - Gonzalez Castillero, Rafael
 - Márquez Sierra, María
 - Márquez Soldán, María
-- Morato Navarro, Juan Carlos
-- Morato Navarro, Olegario
-- Robles Russo, Eduardo
-- Roldán García, Miguel Ángel
+### Morato Navarro, Juan Carlos
+Durante el sprint 3, mis contribuciones han sido:  Grabar para los anuncios, actuar como GM del grupo 2. También he arreglado incidencias con varios campos de formulario.He actuado como usuario piloto para el grupo 10 de ISPP. He creado la pantalla (frontend) para el chat de la aplicación. Por último, he actualizado el documento "revision.md". 
 
+### Morato Navarro, Olegario
+Durante el sprint 3 me he encargado de gestionar al subgrupo G3 como Group Manager. Además he implementado la pasarela de pago con stripe para poder pagar los planes, promociones y anuncios adicionales de viviendas. También he editado las demos y anuncios del proyecto, además de colaborar en la grabación de ambos. He recopilado el feedback de los usuarios pilotos y he colaborado en el documento de retrospectiva.
+
+- Robles Russo, Eduardo
+
+### Roldán García, Miguel Ángel
 En el sprint 2, ha realizado tareas de programación como la verificación del correo electrónico, la implementación del chat de usuarios y arreglado tests unitarios que fallaban. También ha realizado el despliegue del S3 y el documento de software guidelines. Además ha realizado tareas de coordinación.
 
 - Romero González, Juan
