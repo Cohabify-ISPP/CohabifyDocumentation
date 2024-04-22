@@ -304,15 +304,17 @@ Durante el sprint 2, las contribuciones principales han sido: actualizar la base
 
 ## 2.4 Sprint 3 (#S3)
 - Arriaza Arriaza, Daniel
+  
 ### Barrera García, Ismael
-La contribución en esta etapa ha sido tener el rol de Group Manager, gestionando el reparto de tareas y la organización del subgrupo en medio sprint. Además, se han arreglado prácticamente todos los problemas encontrados en el Sprint 2, además de algunos arreglos para que el Oauth funcione correctamente. Por otro lado, se han desarrollado pruebas de frontend con Selenium.
+La contribución en esta etapa ha sido tener el rol de Group Manager, gestionando el reparto de tareas y la organización del subgrupo en medio sprint. Además, se han arreglado prácticamente todos los problemas encontrados en el Sprint 2, además de algunos arreglos para que el Oauth funcione correctamente. Por otro lado, se han desarrollado pruebas de frontend con Selenium. Finalmente, se ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
+
 - Calero López, Marina
 - Galeano de Paz, Guillermo
 - Gonzalez Castillero, Rafael
 - Márquez Sierra, María
   
 ### Márquez Soldán, María
-En el Sprint 3, se ha encargado de solucionar todos los problemas encontrados en el Sprint 2. Adicionalmente, ha realizado algunos pequeños ajustes en el Oauth. Por otro lado, se han desarrollado pruebas para verificar el login desde el frontend.
+En el Sprint 3, se ha encargado de solucionar todos los problemas encontrados en el Sprint 2. Adicionalmente, ha realizado algunos pequeños ajustes en el Oauth. Por otro lado, se han desarrollado pruebas para verificar el login desde el frontend. Finalmente, se ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
 
 ### Morato Navarro, Juan Carlos
 Durante el sprint 3, mis contribuciones han sido:  Grabar para los anuncios, actuar como GM del grupo 2. También he arreglado incidencias con varios campos de formulario.He actuado como usuario piloto para el grupo 10 de ISPP. He creado la pantalla (frontend) para el chat de la aplicación. Por último, he actualizado el documento "revision.md". 
