@@ -22,7 +22,7 @@ Acuerdo de compromiso con usuarios piloto
     <th>Grupo</th>
     <th>4</th>
     <th>Entregable</th>
-    <th>S3</th>
+    <th>S2</th>
   </tr>
   <tr>
     <td>Repositorio</td>
