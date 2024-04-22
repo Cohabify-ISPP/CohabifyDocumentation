@@ -33,6 +33,8 @@
   </tr>
 </table>
 
+## Tabla de versiones
+
 |**Versión**|**Cambios**|**Autores**|
 | :- | :- | :- |
 |V1.0|Creación del documento|Juan Carlos Morato Navarro, Olegario Morato Navarro|
