@@ -16,6 +16,10 @@ AutoDefensa
           <td rowspan=2><p>Ismael Barrera García (editor)</p> 
             </td>
         </tr>
+                <tr>
+            <td rowspan=2><p>Olegario Morato Navarro (revisor)</p> 
+            </td>
+        </tr>
     </tbody>
 </table>
 
