@@ -107,15 +107,8 @@ Para todos los entregables donde se debe presentar el Software, se requiere incl
         ![Cohabify](images/Revision/24.png)
   
     <br></br>
-    <br></br> 
-    <br></br> 
-    <br></br> 
-    <br></br>  
-    <br></br>
-    <br></br>
-    <br></br>
 
-- Datos necesarios para realizar la revisión, tales como: usuarios, contraseñas, o ejemplos de conjuntos de datos de entrada si son complejos; en particular:
+### Datos necesarios para realizar la revisión, tales como: usuarios, contraseñas, o ejemplos de conjuntos de datos de entrada si son complejos; en particular:
 
 | Información | Detalles |
 |-------------|----------|
