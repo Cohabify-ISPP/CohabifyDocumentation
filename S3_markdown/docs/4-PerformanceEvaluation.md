@@ -9,7 +9,55 @@ Evaluación de rendimiento individual
 <table>
     <tbody>
         <tr>
-            <td rowspan=2></p> Barrera García, Ismael (creador)<p>Morato Navarro, Juan Carlos (revisor)<p></p>
+            <td rowspan=2><p> Arriaza Arriaza, Daniel (editor)</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan=2><p> Barrera García, Ismael (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Calero López, Marina (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Galeano de Paz, Guillermo (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Gonzalez Castillero, Rafael (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Márquez Sierra, María (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Márquez Soldán, María (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Morato Navarro, Juan Carlos (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Morato Navarro, Olegario (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Robles Russo, Eduardo (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Roldán García, Miguel Ángel (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Romero González, Juan (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p>Urquijo Martínez, Álvaro (editor)</p>
             </td>
         </tr>
     </tbody>
@@ -36,8 +84,9 @@ Evaluación de rendimiento individual
 Versión | Cambios | Autores
 --- | --- | ---
 V1.0 | Creación del documento | -
-V2.0 | Añadidas notas de S1 | Ismael Barrera García
-V3.0 | Añadidas notas de S2 | Marina Calero López
+V2.0 | Añadidas notas de S1 y contribuciones | G4
+V3.0 | Añadidas notas de S2 y contribuciones | G4
+V4.0 | Añadidas notas de S3 y contribuciones | G4
 
 ## Tabla de contenidos
 - [Evaluación de rendimiento individual](#evaluación-de-rendimiento-individual)
