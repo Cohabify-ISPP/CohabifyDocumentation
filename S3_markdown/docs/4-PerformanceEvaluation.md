@@ -312,7 +312,7 @@ La contribución en esta etapa ha sido tener el rol de Group Manager, gestionand
 - Galeano de Paz, Guillermo
 - Gonzalez Castillero, Rafael
 
-### Márquez Sierra, María
+### Márquez Sierra, María
 Durante el Sprint 3, ha implementado de la lógica de estadísticas de propietario, además de realizado la primera versión para el Plan de Marketing de la aplicación. También ha realizado la visualización de las estadísticas de propietario en las pantallas correspondientes, y ha elaborado testing para el AuthenticationController. Finalmente, ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
   
 ### Márquez Soldán, María
