@@ -15,8 +15,8 @@
 
 
 |**Morato Navarro, Juan Carlos (editor)**|
-| :- |
 |**Morato Navarro, Olegario (editor)**|
+|**Barrera García, Ismael (revsor)**|
 
 
 
