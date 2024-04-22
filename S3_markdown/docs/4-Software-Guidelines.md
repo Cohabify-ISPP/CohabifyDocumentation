@@ -156,7 +156,7 @@ La pantalla de chat nos mostrará un listado de nuestros chats a la izquierda. H
 
 ## 2. Datos adicionales
 Url Landing Page: `https://cohabify.github.io/`
-Url plataforma de despliegue: `https://cohabify.onrender.com`
+Url plataforma de despliegue: `https://s3-cohabify.onrender.com/`
 Url repositorio con el código: `https://github.com/Cohabify/Cohabify`
 
 Credenciales para inicio de sesión: 
