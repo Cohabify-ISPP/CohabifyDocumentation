@@ -21,7 +21,7 @@ Compromiso de participación
     <th>Grupo</th>
     <th>4</th>
     <th>Entregable</th>
-    <th>S2</th>
+    <th>S3</th>
   </tr>
   <tr>
     <td>Repositorio</td>
