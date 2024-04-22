@@ -114,7 +114,7 @@ A continuación se muestra una tabla con el listado de Failure Conditions, un po
 |T-16) Software Demo not showing realistic data or information.|❓| Hay fotos pertenecientes a famosos, pero no consideramos que sean poco realistas.|
 
 ## Autodefensa S3
-A continuación se muestra una tabla con el listado de Failure Conditions, un porcentaje que representa el nivel al que hemos seguido la condición indicada (100% Significará que no hemos inclumplido la condición, a medida que disminuya el porcentaje indicará que la failure condition se ha incumplido en mayor o menor medida, siendo 0% un fallo total al cumplir la misma).
+A continuación se muestra una tabla con el listado de Failure Conditions, un porcentaje que representa el nivel al que hemos seguido la condición indicada (100% Significará que no hemos incumplido la condición, a medida que disminuya el porcentaje indicará que la failure condition se ha incumplido en mayor o menor medida, siendo 0% un fallo total al cumplir la misma).
 
 
 | Failure Condition | Porcentaje de completado | Razonamiento |
@@ -151,11 +151,11 @@ A continuación se muestra una tabla con el listado de Failure Conditions, un po
 | (T-16) Software Demo not showing realistic data or information. | 100% | Se han modificado datos que podían llevar a fallar esta condición y se ha verificado que la cumpla con certeza. |
 
 ## Docs
-1. Presentation (presentacion.md)
+1. Presentation (presentacion.pdf)
 2. Report of contributions to the common KB (report.md), including at least:o The specific content that the team has contributed, which should include, at least, thespecific feedback received and the annotations on the general feedback.o The consolidation actions that have been carried out. If none have been carried out,specify "No consolidation actions have been carried out".
 3. Report of user pilots (at least considering status, plan, feedback management, etc.) (pilots.md)
 4. Individual performance evaluation (PerformanceEvaluation.md) following the performanceevaluation template provided in EV.
-5. Time-effort report for each member and for the group (Time-Effort-report.md).
+5. Time-effort report for each member and for the group (Time-Effort-report.pdf).
 6. Report detailing the AI usage (AI-usage.md).
 7. Commitment Agreement (at least considering version, status, etc.) (commitmentAgreement.md).
 8. Pilot Users Commitment Agreement or Agreements (at least considering version, status, etc.)(pilotUsersCommitmentAgreement.md or several of them).
