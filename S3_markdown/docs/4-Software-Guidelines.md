@@ -58,6 +58,7 @@ Software Guidelines
   - [1.10 CU Comentarios](#110-cu-comentarios)
   - [1.11 CU Chat](#111-cu-chat)
   - [1.12 CU Promocionar anuncio](#112-cu-promocionar-anuncio)
+  - [1.13 CU Mapa](#113-cu-mapa)
 
 - [2. Datos adicionales](#2-datos-adicionales)
 
@@ -162,13 +163,16 @@ La pantalla de chat nos mostrará un listado de nuestros chats a la izquierda. H
 
 Para promocionar un anuncio, se debe pulsar en el botón de promocionar, mostrando una pantalla de pasarela de pago de Stripe. Pagándo 3 euros el anuncio quedará destacado arriba de la lista de búsqueda con cambios visuales.
 
-        
-        
-    
+## 1.13 CU Mapa        
+![Cohabify](images/Revision/25.png)
+![Cohabify](images/Revision/26.png)
+![Cohabify](images/Revision/27.png)        
+
+Se ha añadido una funcionalidad para ver la ubicación de los pisos en el mapa desde la página de inicio y desde la página de detalles de piso. También se ha añadido el mapa en el formulario de crear anuncios de viviendas para poder añadir una marca en el mapa y poder mostrarlo después a los demás usuarios.  
 
 ## 2. Datos adicionales
 Url Landing Page: `https://cohabify.github.io/`
-Url plataforma de despliegue: `https://s3-cohabify.onrender.com/`
+Url plataforma de despliegue: `https://s3-v2-cohabify.onrender.com/`
 Url repositorio con el código: `https://github.com/Cohabify/Cohabify`
 
 Credenciales para inicio de sesión: 

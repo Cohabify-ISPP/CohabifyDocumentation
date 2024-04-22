@@ -106,6 +106,15 @@ Para todos los entregables donde se debe presentar el Software, se requiere incl
         ![Cohabify](images/Revision/24.png)
   
     <br></br>
+    - **Mapa**: Se ha añadido una funcionalidad para ver la ubicación de los pisos en el mapa desde la página de inicio y desde la página de detalles de piso. También se ha añadido el mapa en el formulario de crear anuncios de viviendas para poder añadir una marca en el mapa y poder mostrarlo después a los demás usuarios.  
+     <br></br>
+
+        ![Cohabify](images/Revision/25.png)
+        ![Cohabify](images/Revision/26.png)
+        ![Cohabify](images/Revision/27.png) 
+     <br></br>      
+
+Se ha añadido una funcionalidad para ver la ubicación de los pisos en el mapa desde la página de inicio y desde la página de detalles de piso. También se ha añadido el mapa en el formulario de crear anuncios de viviendas para poder añadir una marca en el mapa y poder mostrarlo después a los demás usuarios.  
 
 ### Datos necesarios para realizar la revisión, tales como: usuarios, contraseñas, o ejemplos de conjuntos de datos de entrada si son complejos; en particular:
 
