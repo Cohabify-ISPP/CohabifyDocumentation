@@ -9,7 +9,8 @@ Sprint Retrospective
 <table>
     <tbody>
         <tr>
-            <td rowspan=2>Morato Navarro, Juan Carlos (editor) <p></p> Morato Navarro, Olegario (editor/revisor)<p></p> Romero González, Juan (editor) 
+            <td rowspan=2>Morato Navarro, Juan Carlos (editor) <p></p> Morato Navarro, Olegario (editor) <p></p> Romero González, Juan (editor) 
+                <p></p> María Márquez Soldán (editora/revisora)
             </td>
         </tr>
     </tbody>
@@ -34,6 +35,7 @@ Sprint Retrospective
 | --- | --- | --- |
 | V1.0 | Creación del documento y contenido | Juan Romero González |
 | V1.1 | Modificación completa de la estructura y contenido | Olegario Morato Navarro / Juan Carlos Morato Navarro |
+| V1.2 | Correcciones menores y revisión del documento | María Márquez Soldán |
 
 ## Tabla de contenidos
 - [Sprint Retrospective](#sprint-retrospective)
@@ -73,12 +75,12 @@ Sprint Retrospective
 
 
 ## Resumen ejecutivo
-En el presente documento, se reunirán todos los aspectos tratados durante las diferentes reuniones de retrospectiva realizadas a lo largo de los sprints. El objetivo de la retrospectiva es tratar de resumir cómo se ha trabajado, qué es lo que se ha hecho bien, que se ha hecho mal, y cómo mejorar aquello que se ha hecho mal. Se separará el análisis del sprint en 2 semanas, ya que hemos tenido 2 retrospectivas.
+En el presente documento, se reunirán todos los aspectos tratados durante las diferentes reuniones de retrospectiva realizadas a lo largo de los sprints. El objetivo de la retrospectiva es tratar de resumir cómo se ha trabajado, qué se ha hecho bien, qué se ha hecho mal, y cómo mejorar aquello que se ha hecho mal. Se separará el análisis de los sprints en cada semana de los mismos.
 
 ## 1. Retrospectiva Sprint 1
 
 ### 1.1 Semana 1
-Durante la primera semana se establecieron tareas relacionadas con la preparación del entorno y modelo de datos de la aplicación de Cohabify. Además se aprovechó para incluir tareas sencillas que permitieran al equipo adaptarse a las tecnologías que se usarían durante el resto del desarrollo. A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la primera sesión de retrospectiva a mitad del Sprint 1.
+Durante la primera semana se establecieron tareas relacionadas con la preparación del entorno y modelo de datos de la aplicación de Cohabify. Además, se aprovechó para incluir tareas sencillas que permitieran al equipo adaptarse a las tecnologías que se usarían durante el resto del desarrollo. A continuación, se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la primera sesión de retrospectiva a mitad del Sprint 1.
 
 ### 1.1.1 Aspectos positivos
 
@@ -262,7 +264,7 @@ Tras este segundo sprint, el equipo puede concluir que se han aprendido valiosas
 
 ### 5.1 Semana 1
 Durante la primera semana del Sprint 3, el foco principal ha sido la corrección de incidencias y mejoras generales de la aplicación, a partir del feedback de los usuarios piloto. Además, se ha implementado la pasarela de pago.
-A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la primera sesión de retrospectiva del Sprint 3.
+A continuación, se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la primera sesión de retrospectiva del Sprint 3.
 
 ### 5.1.1 Aspectos positivos
 
@@ -280,14 +282,14 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | Aspectos negativos | Descripción |
 | --- | --- |
 | Pull Requests sin revisar demasiado tiempo | Algunas pull requests han tardado en cerrarse un poco debido a no revisarse rápidamente |
-| Muchas pull requests en revisión acumuladas| Al tener una gran carga de trabajo esta semana, casi todas las tareas se han hecho el fin de semana y por lo tanto se han acumulado muchas pull requests sin cerrar |
+| Muchas pull requests en revisión acumuladas| Al tener una gran carga de trabajo esta semana, casi todas las tareas se han hecho el fin de semana y, por lo tanto, se han acumulado muchas pull requests sin cerrar |
 
 ### 5.1.3 Acciones correctivas
 
-Durante esta sesión re retrospectiva no se han propuesto acciones de mejora
+Durante esta sesión de retrospectiva no se han propuesto acciones de mejora.
 
 ### 5.1 Semana 2
-Durante la segunda semana del Sprint 3, el foco principal ha sido realizar testing para cubrir el plan de pruebas, completar funcionalidades como el mapa o la pasarela de pago. Además se ha continuado generando contenido para el marketing.
+Durante la segunda semana del Sprint 3, el foco principal ha sido realizar testing para cubrir el plan de pruebas, completar funcionalidades como el mapa o la pasarela de pago. Además, se ha continuado generando contenido para el marketing.
 
 ### 5.2.1 Aspectos positivos
 
@@ -315,4 +317,4 @@ Durante la segunda semana del Sprint 3, el foco principal ha sido realizar testi
 
 ## 6.1 Conclusiones Sprint 3
 
-Tras este sprint, el equipo considera que es necesario recortar el alcance en marketing para poder reducir el coste actual del proyecto. El tiempo invertido no se ha desaprovechado pues se han mejorado muchas partes de la aplicación y además se han completado todas las funcionalidades previstas. El objetivo del equipo ahora es mejorar los aspectos más negativos de la aplicación y actuar de manera inteligente en el marketing para evitar consumir más recursos de los necesarios.
+Tras este sprint, el equipo considera que es necesario recortar el alcance en marketing para poder reducir el coste actual del proyecto. El tiempo invertido no se ha desaprovechado pues se han mejorado muchas partes de la aplicación y además, se han completado todas las funcionalidades previstas. El objetivo del equipo ahora es mejorar los aspectos más negativos de la aplicación y actuar de manera inteligente en el marketing para evitar consumir más recursos de los necesarios.
