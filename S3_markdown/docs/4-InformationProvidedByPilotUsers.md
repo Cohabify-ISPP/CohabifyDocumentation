@@ -72,4 +72,4 @@ En este documento se recogerá toda la información proporcionada por los usuari
 
 ## 1. Respuestas de usuarios piloto en S3
 
-Los comentarios de los usuarios piloto en el sondeo realizado en el S3 podrán encontrarse [aqui](https://docs.google.com/spreadsheets/d/1z1EZIHl7eJzWmwBBX_ScUNQZg-XcckfW/edit?usp=sharing&ouid=108655059683716839594&rtpof=true&sd=true).
+Los comentarios de los usuarios piloto en el sondeo realizado en el S3 podrán encontrarse [aquí](https://docs.google.com/spreadsheets/d/1z1EZIHl7eJzWmwBBX_ScUNQZg-XcckfW/edit?usp=sharing&ouid=108655059683716839594&rtpof=true&sd=true).
