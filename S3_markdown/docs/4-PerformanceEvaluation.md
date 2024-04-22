@@ -338,10 +338,10 @@ En el Sprint 3, se ha encargado de solucionar todos los problemas encontrados en
 Durante el sprint 3, mis contribuciones han sido:  Grabar para los anuncios, actuar como GM del grupo 2. También he arreglado incidencias con varios campos de formulario.He actuado como usuario piloto para el grupo 10 de ISPP. He creado la pantalla (frontend) para el chat de la aplicación. Por último, he actualizado el documento "revision.md". 
 
 ### Morato Navarro, Olegario
-Durante el sprint 3 me he encargado de gestionar al subgrupo G3 como Group Manager. Además he implementado la pasarela de pago con stripe para poder pagar los planes, promociones y anuncios adicionales de viviendas. También he editado las demos y anuncios del proyecto, además de colaborar en la grabación de ambos. He recopilado el feedback de los usuarios pilotos y he colaborado en el documento de retrospectiva.
+Durante el sprint 3 me he encargado de gestionar al subgrupo G3 como Group Manager. Además he implementado la pasarela de pago con stripe para poder pagar los planes, promociones y anuncios adicionales de viviendas. También he editado las demos y anuncios del proyecto, además de colaborar en la grabación de ambos. He recopilado el feedback de los usuarios pilotos y he colaborado en el documento de retrospectiva. Finalmente, he sido usuario piloto del grupo 10 de ISPP (Cocemfe).
 
 ### Robles Russo, Eduardo
-Durante el sprint 3 me he encargado de creado de plan de pruebas. Además he implementado las prueba de integracion con la base de datos. También he puesto los datos de resultados de las pruebas realizadas por el grupo. Me he encargado actualizar la landing page y he actualizado la wiki con prompts de copilot.
+Durante el sprint 3 me he encargado de crear el plan de pruebas. Además he implementado las prueba de integracion con la base de datos. También he puesto los datos de resultados de las pruebas realizadas por el grupo. Me he encargado de actualizar la landing page y he actualizado la wiki con prompts de copilot.
 
 ### Roldán García, Miguel Ángel
 En el Sprint 3, ha realizado tareas de programación como la verificación del correo electrónico, la implementación del chat de usuarios y arreglado tests unitarios que fallaban. También ha realizado el despliegue del S3 y el documento de software guidelines. Además ha realizado tareas de coordinación. Finalmente, ha hecho pilotaje del grupo 10 de ISPP - Cocemfe.
