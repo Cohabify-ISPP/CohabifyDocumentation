@@ -26,19 +26,7 @@ Guía de Revision
     <td>Repositorio</td>
     <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
   </tr>
-  <tr>
-    <td>Base de conocimiento común</td>
-    <td colspan="3"><a href="https://bgcc.vercel.app/">https://bgcc.vercel.app/</a></td>
-  </tr>
 </table>
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-
 
 # Tabla de contenidos
 - [Tabla de contenidos](#tabla-de-contenidos)
