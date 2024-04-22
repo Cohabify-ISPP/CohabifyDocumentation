@@ -26,11 +26,13 @@ Commitment Agreement usuarios piloto
     <td>Repositorio</td>
     <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
   </tr>
-  <tr>
-    <td>Base de conocimiento común</td>
-    <td colspan="3"><a href="https://bgcc.vercel.app/">https://bgcc.vercel.app/</a></td>
-  </tr>
 </table>
+
+## Tabla de versiones
+| Versión | Cambios | Autores |
+| --- | --- | --- |
+| V1.0 | Creación del documento | Álvaro Urquijo Martínez|
+| V2.0 | Ajustado a S3 | Álvaro Urquijo Martínez|
 
 ## <a name="_heading=h.5utp3gpnccyr"></a>**Compromiso de Participación como Usuario Piloto de Cohabify para la Asignatura ISPP - Curso 2023-24**
 **Objetivo:**
