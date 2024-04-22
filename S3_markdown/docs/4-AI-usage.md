@@ -8,7 +8,7 @@ Gestión de las IAs
 <table>
     <tbody>
         <tr>
-            <td rowspan=2>Arriaza Arriaza, Daniel (editor) <p></p> González Castillero, Rafael (editor)<p></p> Morato Navarro, Olegario (revisor) 
+            <td rowspan=2><p>Arriaza Arriaza, Daniel (editor)</p><p>González Castillero, Rafael (editor)</p><p>Barrera García, Ismael (editor)</p><p>Morato Navarro, Olegario (revisor)</p> 
             </td>
         </tr>
     </tbody>
@@ -19,25 +19,23 @@ Gestión de las IAs
     <th>Grupo</th>
     <th>4</th>
     <th>Entregable</th>
-    <th>S2</th>
+    <th>S3</th>
   </tr>
   <tr>
     <td>Repositorio</td>
     <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
   </tr>
-  <tr>
-    <td>Base de conocimiento común</td>
-    <td colspan="3"><a href="https://bgcc.vercel.app/">https://bgcc.vercel.app/</a></td>
-  </tr>
 </table>
 
-## Tabla de versionado
+## Tabla de versiones
 | Versión | Cambios | Autores |
 | --- | --- | --- |
 | V1.0 | Creación del documento | - |
 | V1.1 | Añadido versionado | Rafael González Castillero |
 | V2.0 | Añadidos Removebg, Pixelcut y Whisper | Daniel Arriaza Arriaza |
 | V3.0 | Añadido Phind y enlace a la wiki |Ismael Barrera García |
+| V4.0 | Añadido Microsoft Designer |Ismael Barrera García |
+
 ## Tabla de contenidos
 - [Gestión de las IAs](#gestión-de-las-ias)
 - [Versión Cambios Autores](#versión-cambios-autores)
