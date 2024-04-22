@@ -9,7 +9,7 @@ Acuerdo con el Cliente
 <table>
     <tbody>
         <tr>
-            <td rowspan=2><p></p> González Castillero, Rafael (creador)<p>
+            <td rowspan=2><p></p> González Castillero, Rafael (editor)<p>
             </td>
         </tr>
     </tbody>
