@@ -116,6 +116,5 @@ Presentación de evaluación S2
 
 ### Presentación S3
 
-**Aviso: No contiene enlace funcional**
-La presentación en formato PDF puede ser encontrada [aquí]().
-**Aviso: No contiene enlace funcional**
+La presentación en formato PDF puede ser encontrada [aquí](S3_markdown/docs/4-Presentación.pdf).
+
