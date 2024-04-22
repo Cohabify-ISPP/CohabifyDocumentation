@@ -135,6 +135,7 @@ V4.0 | Añadidas notas de S3 y contribuciones | G4
   - [Romero González, Juan](#romero-gonzález-juan-2)
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-2)
 - [2.4 Sprint 3 (#S3)](#24-sprint-3-s3)
+  - [Arriaza Arriaza, Daniel](#arriaza-arriaza-daniel-3)
   - [Barrera García, Ismael](#barrera-garcía-ismael-3)
   - [Calero López, Marina](#calero-lópez-marina-3)
   - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-3)
@@ -310,7 +311,8 @@ Durante el S2, las principales contribuciones han sido: la mejora y constante ac
 Durante el sprint 2, las contribuciones principales han sido: actualizar la base de datos de conocimiento semanalmente, así como el documento de Report, realizar el CA para los usuarios piloto, comunicarse con los pilotos a la hora del despliegue, añadir funcionalidad a los anuncios de vivienda mediante la referencia catastral y crear la entidad de valoraciones de piso con toda su funcionalidad. También participó en el pilotaje del grupo 10 Cocemfe.
 
 ## 2.4 Sprint 3 (#S3)
-- Arriaza Arriaza, Daniel
+### Arriaza Arriaza, Daniel
+La contribución en esta etapa ha sido mejorar los estilos de la pantalla principal añadiendo un footer junto a Marina y mejorar los estilos del resto de la aplicación homogeneizando estilos y cambiando algunos estilos que tenían los colores por defecto. Asimismo, ha revisado tres issues, la 274, la 289 del repositorio principal y la 73 del repositorio de documentación. Asimismo, se ha encargado de hacer y ensayar las presentaciones de las dos semanas del sprint. Finalmente, hizo el pilotaje del grupo 10 (Cocemfe).
   
 ### Barrera García, Ismael
 La contribución en esta etapa ha sido tener el rol de Group Manager, gestionando el reparto de tareas y la organización del subgrupo en medio sprint. Además, se han arreglado prácticamente todos los problemas encontrados en el Sprint 2, además de algunos arreglos para que el Oauth funcione correctamente. Por otro lado, se han desarrollado pruebas de frontend con Selenium. Finalmente, se ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
