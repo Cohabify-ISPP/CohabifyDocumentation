@@ -328,7 +328,10 @@ Durante el sprint 3 me he encargado de gestionar al subgrupo G3 como Group Manag
 En el Sprint 3, ha realizado tareas de programación como la verificación del correo electrónico, la implementación del chat de usuarios y arreglado tests unitarios que fallaban. También ha realizado el despliegue del S3 y el documento de software guidelines. Además ha realizado tareas de coordinación. Finalmente, ha hecho pilotaje del grupo 10 de ISPP - Cocemfe.
 
 
-- Romero González, Juan
+### Romero González, Juan
+Durante el Sprint 3, las principales contribuciones han sido: la mejora y constante actualización de la gráfica Burn-Down; la redacción del documento de retrospectiva; la actualización del estado del CA para comprobar su correcto cumplimiento por parte de todos los miembros del grupo; la creación de un calendario con la disponibilidad de todos los integrantes del grupo para tener a disposición los horarios que cada miembro tiene disponibles; la actualización de datos de prueba, tanto correcciones y mejoras generales como aumento de número de tags; la creación y ejecución de pruebas de rendimiento utilizando JMeter para comprobar cómo responde la aplicación a múltiples peticiones simultáneas con distinto números de usuarios concurrentes durante un determinado tiempo; la actualización del documento de Time-Effort; y también la participación como usuario piloto de la aplicación del grupo 10 de ISPP.
+
+
 ### Urquijo Martínez, Álvaro
 En el sprint 3, ha realizado, con respecto a código, testing de Valoraciones de usuario, tanto en la parte de servicio como en el controlador, también ha creado la vista de confirmación de borrado de cuenta. Con respecto a documentación ha modificado varios documentos como el Customer Agreement, carpetas de anuncios y demos, report, así como añadir la entrada semanal a la BGC, también se ha encargado de redactar la autodefensa del Sprint 3.
 

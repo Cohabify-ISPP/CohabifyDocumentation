@@ -22,11 +22,15 @@ Acuerdo de compromiso con usuarios piloto
     <th>Grupo</th>
     <th>4</th>
     <th>Entregable</th>
-    <th>S3</th>
+    <th>S2</th>
   </tr>
   <tr>
     <td>Repositorio</td>
     <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
+  </tr>
+  <tr>
+    <td>Base de conocimiento común</td>
+    <td colspan="3"><a href="https://bgcc.vercel.app/">https://bgcc.vercel.app/</a></td>
   </tr>
 </table>
 
