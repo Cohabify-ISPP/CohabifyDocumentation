@@ -28,6 +28,13 @@ Guía de Revision
   </tr>
 </table>
 
+### Tabla de versiones
+| Versión | Cambios | Autores |
+| --- | --- | --- |
+| V1.0 | Creación del documento | Guillermo Galeano de Paz, Eduardo Robles Russo|
+| V2.0 | Actualizado para S3 | Juan Carlos Morato Navarro |
+
+
 # Tabla de contenidos
 - [Tabla de contenidos](#tabla-de-contenidos)
 - [Resumen ejecutivo](#resumen-ejecutivo)
