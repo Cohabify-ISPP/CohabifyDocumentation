@@ -265,6 +265,9 @@ Durante el sprint 2, las contribuciones principales han sido: actualizar la base
 - Morato Navarro, Olegario
 - Robles Russo, Eduardo
 - Roldán García, Miguel Ángel
+
+En el sprint 2, ha realizado tareas de programación como la verificación del correo electrónico, la implementación del chat de usuarios y arreglado tests unitarios que fallaban. También ha realizado el despliegue del S3 y el documento de software guidelines. Además ha realizado tareas de coordinación.
+
 - Romero González, Juan
 - Urquijo Martínez, Álvaro
 
