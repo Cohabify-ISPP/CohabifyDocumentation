@@ -28,6 +28,10 @@ Acuerdo de compromiso con usuarios piloto
     <td>Repositorio</td>
     <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
   </tr>
+  <tr>
+    <td>Base de conocimiento común</td>
+    <td colspan="3"><a href="https://bgcc.vercel.app/">https://bgcc.vercel.app/</a></td>
+  </tr>
 </table>
 
 ## <a name="_heading=h.5utp3gpnccyr"></a>**Compromiso de Participación como Usuario Piloto de Cohabify para la Asignatura ISPP - Curso 2023-24**
