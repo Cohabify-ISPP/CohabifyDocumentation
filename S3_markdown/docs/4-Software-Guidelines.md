@@ -10,7 +10,7 @@ Software Guidelines
     <tbody>
         <tr>
             <td rowspan=2><p> González Castillero, Rafael (editor) </p>
-            <p>Morato Navarro, Juan Carlos (revisor)</p><p> Urquijo Martínez, Álvaro (editor)</p>
+            <p>Morato Navarro, Juan Carlos (revisor)</p><p>Morato Navarro, Olegario (revisor)</p><p> Urquijo Martínez, Álvaro (editor)</p>
             <p>Miguel Ángel Roldán García (editor)</p>
             </td>
         </tr>
