@@ -144,6 +144,7 @@ V4.0 | Añadidas notas de S3 y contribuciones | G4
   - [Márquez Soldán, María](#márquez-soldán-maría-3)
   - [Morato Navarro, Juan Carlos](#morato-navarro-juan-carlos-3)
   - [Morato Navarro, Olegario](#morato-navarro-olegario-3)
+  - [Robles Russo, Eduardo](#robles-russo-eduardo-3)
   - [Roldán García, Miguel Ángel](#roldán-garcía-miguel-ángel-3)
   - [Romero González, Juan](#romero-gonzález-juan-3)
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-3)
@@ -339,7 +340,8 @@ Durante el sprint 3, mis contribuciones han sido:  Grabar para los anuncios, act
 ### Morato Navarro, Olegario
 Durante el sprint 3 me he encargado de gestionar al subgrupo G3 como Group Manager. Además he implementado la pasarela de pago con stripe para poder pagar los planes, promociones y anuncios adicionales de viviendas. También he editado las demos y anuncios del proyecto, además de colaborar en la grabación de ambos. He recopilado el feedback de los usuarios pilotos y he colaborado en el documento de retrospectiva.
 
-- Robles Russo, Eduardo
+### Robles Russo, Eduardo
+Durante el sprint 3 me he encargado de creado de plan de pruebas. Además he implementado las prueba de integracion con la base de datos. También he puesto los datos de resultados de las pruebas realizadas por el grupo. Me he encargado actualizar la landing page y he actualizado la wiki con prompts de copilot.
 
 ### Roldán García, Miguel Ángel
 En el Sprint 3, ha realizado tareas de programación como la verificación del correo electrónico, la implementación del chat de usuarios y arreglado tests unitarios que fallaban. También ha realizado el despliegue del S3 y el documento de software guidelines. Además ha realizado tareas de coordinación. Finalmente, ha hecho pilotaje del grupo 10 de ISPP - Cocemfe.
