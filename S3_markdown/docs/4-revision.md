@@ -14,7 +14,7 @@ Guía de Revision
         </tr>
     </tbody>
 </table>
-<br></br> 
+ 
 <table>
   <tr>
     <th>Grupo</th>
@@ -33,7 +33,6 @@ Guía de Revision
 | --- | --- | --- |
 | V1.0 | Creación del documento | Guillermo Galeano de Paz, Eduardo Robles Russo|
 | V2.0 | Actualizado para S3 | Juan Carlos Morato Navarro |
-
 
 # Tabla de contenidos
 - [Tabla de contenidos](#tabla-de-contenidos)
