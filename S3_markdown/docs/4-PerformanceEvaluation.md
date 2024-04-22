@@ -310,8 +310,10 @@ La contribución en esta etapa ha sido tener el rol de Group Manager, gestionand
 - Galeano de Paz, Guillermo
 - Gonzalez Castillero, Rafael
 - Márquez Sierra, María
+  
 ### Márquez Soldán, María
-En el sprint 3, se ha encargado de solucionar todos los problemas encontrados en el Sprint 2. También ha realizado algunos pequeños ajustes en el Oauth . Por otro lado, se han desarrollado pruebas para verificar el login desde el frontend.
+En el Sprint 3, se ha encargado de solucionar todos los problemas encontrados en el Sprint 2. Adicionalmente, ha realizado algunos pequeños ajustes en el Oauth. Por otro lado, se han desarrollado pruebas para verificar el login desde el frontend.
+
 ### Morato Navarro, Juan Carlos
 Durante el sprint 3, mis contribuciones han sido:  Grabar para los anuncios, actuar como GM del grupo 2. También he arreglado incidencias con varios campos de formulario.He actuado como usuario piloto para el grupo 10 de ISPP. He creado la pantalla (frontend) para el chat de la aplicación. Por último, he actualizado el documento "revision.md". 
 
