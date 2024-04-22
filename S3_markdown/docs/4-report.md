@@ -34,7 +34,7 @@ Report
 </table>
 
 
-### Versión Cambios Autores
+### Tabla de versiones
 | Versión | Cambios | Autores |
 | --- | --- | --- |
 | V1.0 | Creación del documento | Álvaro Urquijo Martínez |

@@ -9,7 +9,55 @@ Evaluación de rendimiento individual
 <table>
     <tbody>
         <tr>
-            <td rowspan=2></p> Barrera García, Ismael (creador)<p>Morato Navarro, Juan Carlos (revisor)<p></p>
+            <td rowspan=2><p> Arriaza Arriaza, Daniel (editor)</p>
+            </td>
+        </tr>
+        <tr>
+            <td rowspan=2><p> Barrera García, Ismael (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Calero López, Marina (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Galeano de Paz, Guillermo (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Gonzalez Castillero, Rafael (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Márquez Sierra, María (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Márquez Soldán, María (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Morato Navarro, Juan Carlos (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Morato Navarro, Olegario (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Robles Russo, Eduardo (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Roldán García, Miguel Ángel (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p> Romero González, Juan (editor)</p>
+            </td>
+            </tr>
+        <tr>
+            <td rowspan=2><p>Urquijo Martínez, Álvaro (editor)</p>
             </td>
         </tr>
     </tbody>
@@ -26,18 +74,15 @@ Evaluación de rendimiento individual
     <td>Repositorio</td>
     <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
   </tr>
-  <tr>
-    <td>Base de conocimiento común</td>
-    <td colspan="3"><a href="https://bgcc.vercel.app/">https://bgcc.vercel.app/</a></td>
-  </tr>
 </table>
 
-## Versión Cambios Autores
+## Tabla de versiones
 Versión | Cambios | Autores
 --- | --- | ---
 V1.0 | Creación del documento | -
-V2.0 | Añadidas notas de S1 | Ismael Barrera García
-V3.0 | Añadidas notas de S2 | Marina Calero López
+V2.0 | Añadidas notas de S1 y contribuciones | G4
+V3.0 | Añadidas notas de S2 y contribuciones | G4
+V4.0 | Añadidas notas de S3 y contribuciones | G4
 
 ## Tabla de contenidos
 - [Evaluación de rendimiento individual](#evaluación-de-rendimiento-individual)
@@ -259,12 +304,18 @@ Durante el sprint 2, las contribuciones principales han sido: actualizar la base
 
 ## 2.4 Sprint 3 (#S3)
 - Arriaza Arriaza, Daniel
-- Barrera García, Ismael
+  
+### Barrera García, Ismael
+La contribución en esta etapa ha sido tener el rol de Group Manager, gestionando el reparto de tareas y la organización del subgrupo en medio sprint. Además, se han arreglado prácticamente todos los problemas encontrados en el Sprint 2, además de algunos arreglos para que el Oauth funcione correctamente. Por otro lado, se han desarrollado pruebas de frontend con Selenium. Finalmente, se ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
+
 - Calero López, Marina
 - Galeano de Paz, Guillermo
 - Gonzalez Castillero, Rafael
 - Márquez Sierra, María
-- Márquez Soldán, María
+  
+### Márquez Soldán, María
+En el Sprint 3, se ha encargado de solucionar todos los problemas encontrados en el Sprint 2. Adicionalmente, ha realizado algunos pequeños ajustes en el Oauth. Por otro lado, se han desarrollado pruebas para verificar el login desde el frontend. Finalmente, se ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
+
 ### Morato Navarro, Juan Carlos
 Durante el sprint 3, mis contribuciones han sido:  Grabar para los anuncios, actuar como GM del grupo 2. También he arreglado incidencias con varios campos de formulario.He actuado como usuario piloto para el grupo 10 de ISPP. He creado la pantalla (frontend) para el chat de la aplicación. Por último, he actualizado el documento "revision.md". 
 
@@ -274,7 +325,8 @@ Durante el sprint 3 me he encargado de gestionar al subgrupo G3 como Group Manag
 - Robles Russo, Eduardo
 
 ### Roldán García, Miguel Ángel
-En el sprint 2, ha realizado tareas de programación como la verificación del correo electrónico, la implementación del chat de usuarios y arreglado tests unitarios que fallaban. También ha realizado el despliegue del S3 y el documento de software guidelines. Además ha realizado tareas de coordinación.
+En el Sprint 3, ha realizado tareas de programación como la verificación del correo electrónico, la implementación del chat de usuarios y arreglado tests unitarios que fallaban. También ha realizado el despliegue del S3 y el documento de software guidelines. Además ha realizado tareas de coordinación. Finalmente, ha hecho pilotaje del grupo 10 de ISPP - Cocemfe.
+
 
 - Romero González, Juan
 - Urquijo Martínez, Álvaro

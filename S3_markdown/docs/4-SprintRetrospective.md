@@ -9,7 +9,8 @@ Sprint Retrospective
 <table>
     <tbody>
         <tr>
-            <td rowspan=2>Morato Navarro, Juan Carlos (editor) <p></p> Morato Navarro, Olegario (editor/revisor)<p></p> Romero González, Juan (editor) 
+            <td rowspan=2>Morato Navarro, Juan Carlos (editor) <p></p> Morato Navarro, Olegario (editor) <p></p> Romero González, Juan (editor) 
+                <p></p> María Márquez Soldán (editora/revisora)
             </td>
         </tr>
     </tbody>
@@ -20,24 +21,21 @@ Sprint Retrospective
     <th>Grupo</th>
     <th>4</th>
     <th>Entregable</th>
-    <th>S2</th>
+    <th>S3</th>
   </tr>
   <tr>
     <td>Repositorio</td>
     <td colspan="3"><a href="https://github.com/Cohabify/Cohabify">https://github.com/Cohabify/Cohabify</a></td>
   </tr>
-  <tr>
-    <td>Base de conocimiento común</td>
-    <td colspan="3"><a href="https://bgcc.vercel.app/">https://bgcc.vercel.app/</a></td>
-  </tr>
 </table>
 
-### Versión Cambios Autores
+## Tabla de versiones
 
 | Versión | Cambios | Autores |
 | --- | --- | --- |
 | V1.0 | Creación del documento y contenido | Juan Romero González |
 | V1.1 | Modificación completa de la estructura y contenido | Olegario Morato Navarro / Juan Carlos Morato Navarro |
+| V1.2 | Correcciones menores y revisión del documento | María Márquez Soldán |
 
 ## Tabla de contenidos
 - [Sprint Retrospective](#sprint-retrospective)
@@ -65,19 +63,24 @@ Sprint Retrospective
   - [3.2.3 Acciones correctivas](#323-acciones-correctivas)
 - [4.1 Conclusiones Sprint 2](#41-conclusiones-sprint-1)
 - [5. Retrospectiva Sprint 3](#5-retrospectiva)
-  - [5.1 Semana 1](#31-semana-1)
-  - [5.1.1 Aspectos positivos](#311-aspectos-positivos)
-  - [5.1.2 Aspectos a mejorar](#312-aspectos-a-mejorar)
-  - [5.1.3 Acciones correctivas](#313-acciones-correctivas)
+  - [5.1 Semana 1](#51-semana-1)
+  - [5.1.1 Aspectos positivos](#511-aspectos-positivos)
+  - [5.1.2 Aspectos a mejorar](#512-aspectos-a-mejorar)
+  - [5.1.3 Acciones correctivas](#513-acciones-correctivas)
+  - [5.2 Semana 1](#52-semana-2)
+  - [5.2.1 Aspectos positivos](#521-aspectos-positivos)
+  - [5.2.2 Aspectos a mejorar](#522-aspectos-a-mejorar)
+  - [5.2.3 Acciones correctivas](#523-acciones-correctivas)
+- [6.1 Conclusiones Sprint 3](#61-conclusiones-sprint-3)
 
 
 ## Resumen ejecutivo
-En el presente documento, se reunirán todos los aspectos tratados durante las diferentes reuniones de retrospectiva realizadas a lo largo de los sprints. El objetivo de la retrospectiva es tratar de resumir cómo se ha trabajado, qué es lo que se ha hecho bien, que se ha hecho mal, y cómo mejorar aquello que se ha hecho mal. Se separará el análisis del sprint en 2 semanas, ya que hemos tenido 2 retrospectivas.
+En el presente documento, se reunirán todos los aspectos tratados durante las diferentes reuniones de retrospectiva realizadas a lo largo de los sprints. El objetivo de la retrospectiva es tratar de resumir cómo se ha trabajado, qué se ha hecho bien, qué se ha hecho mal, y cómo mejorar aquello que se ha hecho mal. Se separará el análisis de los sprints en cada semana de los mismos.
 
 ## 1. Retrospectiva Sprint 1
 
 ### 1.1 Semana 1
-Durante la primera semana se establecieron tareas relacionadas con la preparación del entorno y modelo de datos de la aplicación de Cohabify. Además se aprovechó para incluir tareas sencillas que permitieran al equipo adaptarse a las tecnologías que se usarían durante el resto del desarrollo. A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la primera sesión de retrospectiva a mitad del Sprint 1.
+Durante la primera semana se establecieron tareas relacionadas con la preparación del entorno y modelo de datos de la aplicación de Cohabify. Además, se aprovechó para incluir tareas sencillas que permitieran al equipo adaptarse a las tecnologías que se usarían durante el resto del desarrollo. A continuación, se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la primera sesión de retrospectiva a mitad del Sprint 1.
 
 ### 1.1.1 Aspectos positivos
 
@@ -261,7 +264,7 @@ Tras este segundo sprint, el equipo puede concluir que se han aprendido valiosas
 
 ### 5.1 Semana 1
 Durante la primera semana del Sprint 3, el foco principal ha sido la corrección de incidencias y mejoras generales de la aplicación, a partir del feedback de los usuarios piloto. Además, se ha implementado la pasarela de pago.
-A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la primera sesión de retrospectiva del Sprint 3.
+A continuación, se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la primera sesión de retrospectiva del Sprint 3.
 
 ### 5.1.1 Aspectos positivos
 
@@ -279,8 +282,39 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | Aspectos negativos | Descripción |
 | --- | --- |
 | Pull Requests sin revisar demasiado tiempo | Algunas pull requests han tardado en cerrarse un poco debido a no revisarse rápidamente |
-| Muchas pull requests en revisión acumuladas| Al tener una gran carga de trabajo esta semana, casi todas las tareas se han hecho el fin de semana y por lo tanto se han acumulado muchas pull requests sin cerrar |
+| Muchas pull requests en revisión acumuladas| Al tener una gran carga de trabajo esta semana, casi todas las tareas se han hecho el fin de semana y, por lo tanto, se han acumulado muchas pull requests sin cerrar |
 
 ### 5.1.3 Acciones correctivas
 
-Durante esta sesión re retrospectiva no se han propuesto acciones de mejora
+Durante esta sesión de retrospectiva no se han propuesto acciones de mejora.
+
+### 5.1 Semana 2
+Durante la segunda semana del Sprint 3, el foco principal ha sido realizar testing para cubrir el plan de pruebas, completar funcionalidades como el mapa o la pasarela de pago. Además, se ha continuado generando contenido para el marketing.
+
+### 5.2.1 Aspectos positivos
+
+| Aspectos positivos | Descripción |
+| --- | --- |
+| Se ha cumplido el alcance | El equipo ha podido completar el alcance del proyecto pese a que se pensaba reducirlo |
+| Se han implementado la gran mayoría de los test | Casi todos los test descritos en el plan de pruebas han sido completados |
+| Se ha podido desplegar a tiempo | El equipo logró desplegar cumpliendo con el CA acordado con el grupo 10 de ISPP |
+| La redistribución de equipos ha funcionado bien | Han habido cambios en la distribución de los equipos G1 y G3 pero se han realizado de manera rápida y sin estorbar al desarrollo |
+| Versión estable | No se han detectado errores graves en el despliegue |
+
+### 5.2.2 Aspectos a mejorar
+
+| Aspectos negativos | Descripción |
+| --- | --- |
+| Tensión en las comunicaciones | Debido al estrés del proyecto, se han detectado pequeñas tensiones en las comunicaciones entre miembros |
+| Hay que reducir costes | El coste del proyecto se encuentra por encima del ideal y es necesario tomar medidas |
+
+### 5.2.3 Acciones correctivas
+
+| Acciones correctivas | Descripción |
+| --- | --- |
+| Se reducirá alcance en tareas con menor prioridad | Se va a intentar recortar alcance para ahorrar recursos y estabilizar el coste del proyecto |
+| Rotaciones para ir a clase | Se ha propuesto rotar miembros del equipo para que no estén presentes todos en aquellas sesiones de clase no obligatorias para que el tiempo que queda se pueda dedicar a otro tipo de tareas |
+
+## 6.1 Conclusiones Sprint 3
+
+Tras este sprint, el equipo considera que es necesario recortar el alcance en marketing para poder reducir el coste actual del proyecto. El tiempo invertido no se ha desaprovechado pues se han mejorado muchas partes de la aplicación y además, se han completado todas las funcionalidades previstas. El objetivo del equipo ahora es mejorar los aspectos más negativos de la aplicación y actuar de manera inteligente en el marketing para evitar consumir más recursos de los necesarios.
