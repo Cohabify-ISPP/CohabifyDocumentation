@@ -9,7 +9,7 @@ Guía de Revision
 <table>
     <tbody>
         <tr>
-            <td rowspan=2> </p> Morato Navarro, Juan Carlos (editor)<p></p></p> Morato Navarro, Olegario (revisor)<p></p>
+            <td rowspan=2> <p> Morato Navarro, Juan Carlos (editor)</p><p>Morato Navarro, Olegario (revisor)</p><p>Barrera García, Ismael (revisor)</p>
             </td>
         </tr>
     </tbody>
