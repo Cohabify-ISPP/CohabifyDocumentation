@@ -44,6 +44,7 @@ AutoDefensa
 - [Autodefensa S1](#autodefensa-s1)
 - [Autodefensa S2](#autodefensa-s2)
 - [Autodefensa S3](#autodefensa-s3)
+- [Docs](#docs)
 
 ## Autodefensa S1
 
@@ -112,40 +113,40 @@ A continuación se muestra una tabla con el listado de Failure Conditions, un po
 A continuación se muestra una tabla con el listado de Failure Conditions, un porcentaje que representa el nivel al que hemos seguido la condición indicada (100% Significará que no hemos inclumplido la condición, a medida que disminuya el porcentaje indicará que la failure condition se ha incumplido en mayor o menor medida, siendo 0% un fallo total al cumplir la misma).
 
 
-| Failure Condition | Porcentaje de completado | Razonamiento en caso de no estar completado al 100% |
+| Failure Condition | Porcentaje de completado | Razonamiento |
 | --- | --- | --- |
-|(I-1) Not being at both, the beginning and the end of an evaluation class; with the appropriate justification | 100% | - |
-|(I-2) Failure to respond to random feedback questions regarding a task that is part of his/her responsibility| 100% | - |
-|(I-3) Not including (and performing) an issue in your working planning for watching each theory pill shared inthe EV content. Such an issue must also be tracked with Clockify, and the name must be“watch_theory_pill_X” where X is the name of the theory pill name| 100% | - |
-| (T-1) Failure to give notice (at the beginning of an evaluation class) that a member is absent. | 100% | - |
-| (T-2) Taking longer than the stipulated time for the presentation (even if it is only a few seconds). | 100% | - |
-| (T-3) Finishing the presentation before the last minute. | 100% | - |
-| (T-4) Use a different presentation file than the one included in the deliverable. | 100% | - |
-| (T-5) Not respecting or not reacting to the feedback given in class without an explicit justification explainedin the presentation. | 100% | - |
-| (T-6) Failure to explicitly include any of the expected aspects in the presentation document as they wereexplained in the previous class discussion. | 100% | - |
-| (T-7) Including a document in the repository as part of a deliverable without an appropriate cover page that,at least, should include: | 100% | - |
-|&nbsp; &nbsp; • EV Group number. |&nbsp; &nbsp; &nbsp; ✔️ |
-|&nbsp; &nbsp; • Group name. |&nbsp; &nbsp; &nbsp; ✔️ |
-|&nbsp; &nbsp; • Name of the deliverable (e.g. Devising a Project, Sprint 1, Sprint 2, etc). |&nbsp; &nbsp; &nbsp; ✔️ |
-|&nbsp; &nbsp; • A descriptive title of the document (e.g. “Presentation” or “Reviewer’s Guide”). |&nbsp; &nbsp; &nbsp; ✔️ |
-|&nbsp; &nbsp; • Name(s) and surname(s) of the team members contributing to the document, indicating the typeof contribution made. Only the names of those who have contributed should be entered, with aclear indication of the type of contribution (writing, revision, etc.) which must match thecorresponding clockify entry. |&nbsp; &nbsp; &nbsp; ✔️ |
-| (T-8) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows:| 100% | - |
-|&nbsp; &nbsp; • FC terms review. (referring terms of current document) |&nbsp; &nbsp; &nbsp; ✔️ |
-|&nbsp; &nbsp; • Expected aspects review. (referring to T-6 aspects) |&nbsp; &nbsp; &nbsp; ✔️ |
-| (T-9) Failure to make a correct delivery considering the following instructions concerning the Gitub repository: | 100% | - |
-|&nbsp; &nbsp; • Provide the GitHub repository URL.1 See the “Justification Guidelines for Evaluation Days” (JGED) document in the EV. |&nbsp; &nbsp; &nbsp; ✔️ |
-|&nbsp; &nbsp; • Failure to make a mistake in the format or file name in any of the files that conform to the deliverableto be included in a [docs](#docs) folder of the GitHub repository: |&nbsp; &nbsp; &nbsp; ✔️ |
-|&nbsp; &nbsp; • Include a proper Tag for the delivered version of the code and documentation (e.g. 0.1 for #DPdeliverable, 1.0 for #S1 deliverable, ...). |&nbsp; &nbsp; &nbsp; ✔️ |
-|&nbsp; &nbsp; • Perform a GitHub release linking the proper tag, which must include a zip file with all repositorycontent. |&nbsp; &nbsp; &nbsp; ✔️ |
-|(T-10) Not following the instructions of the software reviewer's guidelines; or incurring in any of the failureconditions presented in those guidelines. | 100% | - |
-|(T-11) Not including in the docs repository folder the pilot users performance evaluation, evaluatingreviewer ISPP group as pilot user (PilotUsersPerformanceEvaluation.md) following the pilot usersperformance evaluation template provided in EV. Each and every group must be pilot user. (e.g. Group 1must include a PilotUsersPerformanceEvaluation.md evaluating the performance of Group 7 as pilot users). | 100% | - |
-|(T-12) Not including in the docs repository folder all information received from pilot users (reviewer ISPPgroup) (InformationProvidedByPilotUsers.md) considering the MinimumInformationFromPilot-Users_Gathered-ByForm document. (e.g. Group 1 must include a MinimumInformationFromPilotUsers-_GatheredByForm.md with the information obtained from Group 7 as pilot users) | 100% | - |
-|(T-13) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows: | 100% | - |
-|&nbsp; &nbsp; • Deployed Software review |&nbsp; &nbsp; &nbsp;✔️ |
-|(T-14) Having text in the slides that is not readable from the back of the class. | 100% | - |
-|(T-16) Software Demo not showing realistic data or information. | 100% | - |
+|(I-1) Not being at both, the beginning and the end of an evaluation class; with the appropriate justification | - | Se comprobará el día de evaluación. |
+|(I-2) Failure to respond to random feedback questions regarding a task that is part of his/her responsibility| - | Se comprobará el día de evaluación. |
+|(I-3) Not including (and performing) an issue in your working planning for watching each theory pill shared inthe EV content. Such an issue must also be tracked with Clockify, and the name must be“watch_theory_pill_X” where X is the name of the theory pill name| 100% | Todos los miembros del equipo han visto las píldoras teóricas y tienen la tarea indicada en clockify. |
+| (T-1) Failure to give notice (at the beginning of an evaluation class) that a member is absent. | - | Se comprobará el día de evaluación. |
+| (T-2) Taking longer than the stipulated time for the presentation (even if it is only a few seconds). | - | Se comprobará el día de evaluación |
+| (T-3) Finishing the presentation before the last minute. | - | Se comprobará el día de evaluación. |
+| (T-4) Use a different presentation file than the one included in the deliverable. | - | Se comprobará el día de evaluación. |
+| (T-5) Not respecting or not reacting to the feedback given in class without an explicit justification explainedin the presentation. | - | Se comprobará el día de evaluación. |
+| (T-6) Failure to explicitly include any of the expected aspects in the presentation document as they wereexplained in the previous class discussion. | 100% | Tras la realización de la presentación se han realizado x pruebas con varios compañeros que aprueban que el contenido sea el esperado y evitar errores en el documento. |
+| (T-7) Including a document in the repository as part of a deliverable without an appropriate cover page that,at least, should include: | 100% | Todos los documentos entregados siguen una plantilla clara de la organización creada con el fin de que se cumpla este requisito. Por tanto todos los documentos han sido revisados y contienen exactamente lo especificado en la failure condition. |
+  • EV Group number. | ✔️ |
+  • Group name. | ✔️ |
+  • Name of the deliverable (e.g. Devising a Project, Sprint 1, Sprint 2, etc). | ✔️ |
+  • A descriptive title of the document (e.g. “Presentation” or “Reviewer’s Guide”). | ✔️ |
+  • Name(s) and surname(s) of the team members contributing to the document, indicating the typeof contribution made. Only the names of those who have contributed should be entered, with aclear indication of the type of contribution (writing, revision, etc.) which must match thecorresponding clockify entry. | ✔️ |
+| (T-8) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows:| 100% | Se ha revisado que se incluyan las tareas y que se hayan realizado al igual que se refleje en clockify. |
+  • FC terms review. (referring terms of current document) | ✔️ |
+  • Expected aspects review. (referring to T-6 aspects) | ✔️ |
+| (T-9) Failure to make a correct delivery considering the following instructions concerning the Gitub repository: | 100% | Se ha reflejado el enlace al repositorio y se ha revisado que se cumpla con los documentos requeridos además de que su nombre sea correcto. |
+  • Provide the GitHub repository URL.1 See the “Justification Guidelines for Evaluation Days” (JGED) document in the EV. | ✔️ |
+  • Failure to make a mistake in the format or file name in any of the files that conform to the deliverableto be included in a [docs](#docs) folder of the GitHub repository: | ✔️ |
+  • Include a proper Tag for the delivered version of the code and documentation (e.g. 0.1 for #DPdeliverable, 1.0 for #S1 deliverable, ...). | ✔️ |
+  • Perform a GitHub release linking the proper tag, which must include a zip file with all repositorycontent. | ✔️ |
+| (T-10) Not following the instructions of the software reviewer's guidelines; or incurring in any of the failureconditions presented in those guidelines. | 100% | Se han seguido las instrucciones que se especifican en el documento indicado. |
+| (T-11) Not including in the docs repository folder the pilot users performance evaluation, evaluatingreviewer ISPP group as pilot user (PilotUsersPerformanceEvaluation.md) following the pilot usersperformance evaluation template provided in EV. Each and every group must be pilot user. (e.g. Group 1must include a PilotUsersPerformanceEvaluation.md evaluating the performance of Group 7 as pilot users). | 100% | El documento está incluido. |
+| (T-12) Not including in the docs repository folder all information received from pilot users (reviewer ISPPgroup) (InformationProvidedByPilotUsers.md) considering the MinimumInformationFromPilot-Users_Gathered-ByForm document. (e.g. Group 1 must include a MinimumInformationFromPilotUsers-_GatheredByForm.md with the information obtained from Group 7 as pilot users) | 100% | Se incluye el documento y se sigue la guía como se indica. |
+| (T-14) Not including the following issues in your working planning representing a review performed by anymember of the group. All of them must be tracked with Clockify and the name must be as follows: | 100% | Se incluye la tarea y ha sido realizada y se refleja en clockify |
+• Deployed Software review | ✔️ |
+| (T-15) Having text in the slides that is not readable from the back of the class. | 100% | - |
+| (T-16) Software Demo not showing realistic data or information. | 100% | Se han modificado datos que podían llevar a fallar esta condición y se ha verificado que la cumpla con certeza. |
 
-# Docs
+## Docs
 1. Presentation (presentacion.md)
 2. Report of contributions to the common KB (report.md), including at least:o The specific content that the team has contributed, which should include, at least, thespecific feedback received and the annotations on the general feedback.o The consolidation actions that have been carried out. If none have been carried out,specify "No consolidation actions have been carried out".
 3. Report of user pilots (at least considering status, plan, feedback management, etc.) (pilots.md)
