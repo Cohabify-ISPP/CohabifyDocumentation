@@ -510,6 +510,18 @@ En este apartado se recogerá feedback aportado a todos los grupos o informació
 + Justificar el recorte en el alcance.
 + Mejorar elevator pitch.
 
+### Semana 8: 02/04
+
++ Incluir datos reales reales en demos.
++ No confundir terminos (Beneficios =! ingresos).
++ Añadir alucinaciones al uso de la IA.
++ Hacer zoom en las partes que se vea poco.
++ Seguir el orden que indiquen los profesores.
++ Bajar el ritmo de la presentación en partes como los diagramas.
++ Cambiar colores y escala de gráfica coste vs beneficio para que se vea mejor.
++ Poner reloj del equipo en la retrospectiva.
++ Añadir mediciones a las soluciones en la tabla de problemas.
+
 ## 4.3 Acciones de respuesta ante el feedback
 
 Todo el feedback anotado se ha tenido en cuenta y se ha revisado usando una checklist con el objetivo de mejorar y no repetir los mismos errores. En los próximos entregables se marcarán las evidencias de estas correcciones para que quede constancia de nuestra respuesta al feedback.
