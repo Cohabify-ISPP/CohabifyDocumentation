@@ -595,6 +595,16 @@ Dado que esta semana nuestro grupo no estaba encargado de aportar el feedback ge
 + Usuarios piloto bien: identificación de usuarios piloto bien y cantidad, fechas de inicio-fin de prueba (falta cuándo se analiza y aplica el feedback), calificación (falta prioridad del feedback).
 + En planificación ha faltado cómo vamos a gestionar el final del S3 - WPL (Tareas faltantes, replanificar si hiciera falta).
 
+### Semana 10: 23/04 (Evaluación)
+
++ La historia de la demo debería ser general y orientada a un usuario nuevo. Orientarla a toda la funcionalidad y no solo al S3.
++ Cambiar elevator pitch. Incluir roles e historia.
++ Evitar poner tanto texto para que no parezca que se leen diapositivas en vez de presentarlas.
++ Para cada problema o mejora hay que tener claro acciones concretas, medida para evaluar sí está funcionando, un umbral y un tiempo objetivo.
++ En la pirámide de UX, desarrollar los comentarios de los usuarios piloto para justificar.
++ Hacer que la demo esté hilada con una historia, es más interesante.
++ 2000 y pico euros de beneficio - ¿Tiene en cuenta el personal de mantenimiento? ¿De cuánto es ese personal de mantenimiento?. Revisar.
+
 ## 5.3 Acciones de respuesta ante el feedback
 
 Todo el feedback anotado se ha tenido en cuenta y se ha revisado usando una checklist con el objetivo de mejorar y no repetir los mismos errores. En los próximos entregables se marcarán las evidencias de estas correcciones para que quede constancia de nuestra respuesta al feedback.
