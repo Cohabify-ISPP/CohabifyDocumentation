@@ -10,7 +10,10 @@ Plan de Marketing
     <tbody>
         <tr>
             <td rowspan=2>Márquez Sierra, María (editor)<p></p>
-            Urquijo Martínez, Álvaro (revisor)
+                Urquijo Martínez, Álvaro (revisor)<p></p>
+                Arriaza Arriaza, Daniel (editor)<p></p>
+                Calero López, Marina (editor)<p></p>
+                González Castillero, Rafael (editor)<p></p>
             </td>
         </tr>
     </tbody>
@@ -21,7 +24,7 @@ Plan de Marketing
     <th>Grupo</th>
     <th>4</th>
     <th>Entregable</th>
-    <th>S3</th>
+    <th>PPL</th>
   </tr>
   <tr>
     <td>Repositorio</td>
@@ -33,12 +36,11 @@ Plan de Marketing
 | Versión | Cambios | Autores |
 | --- | --- | --- |
 | V1.0 | Creación del documento | María Márquez Sierra |
+| V2.0 | Añadido plan de redes | Daniel Arriaza Arriaza |
 
 
 ### Tabla de contenidos
 - [Plan de Marketing](#plan-de-marketing)
-    - [Versión Cambios Autores](#versión-cambios-autores)
-    - [Tabla de contenidos](#tabla-de-contenidos)
     - [Resumen ejecutivo](#resumen-ejecutivo)
     - [Misión](#misión)
     - [Análisis de Mercado (DAFO)](#análisis-de-mercado-dafo)
@@ -49,6 +51,7 @@ Plan de Marketing
         - [Pricing de Cohabify](#pricing-de-cohabify)
     - [Estrategia de Crecimiento](#estrategia-de-crecimiento)
     - [Canales de Marketing](#canales-de-marketing)
+    - [Plan de Redes Sociales](#plan-de-redes-sociales)
 
 ## Resumen Ejecutivo:
 Cohabify es una aplicación de software revolucionaria que facilita el proceso de encontrar compañeros de piso compatibles basados en preferencias personales, hobbies e intereses. Nuestra plataforma tiene como objetivo simplificar la búsqueda de alojamiento compartido conectando a individuos con estilos de vida y valores similares. A través de Cohabify, los usuarios pueden crear anuncios, navegar perfiles y conectarse con posibles compañeros de piso, fomentando un sentido de comunidad y conveniencia en el mercado de viviendas.
@@ -149,3 +152,32 @@ Ambos planes, Básico y Explorador, están limitados a una única publicación p
 ## Canales de Marketing:
 - **Marketing Digital:** Utilizar publicidad en redes sociales, optimización de motores de búsqueda (SEO) y marketing de contenidos para llegar y captar a audiencias objetivo en línea.
 - **Asociaciones:** Colaborar con universidades, agencias inmobiliarias y organizaciones comunitarias para promocionar Cohabify y llegar a usuarios potenciales a través de canales y eventos fuera de línea.
+
+## Plan de Redes Sociales
+Se van a utilizar tres redes sociales, Instagram, Tik Tok y Twitter. Cada una con un enfoque y tipo de publicación diferente. El objetivo de Instagram será dar una imagen más seria de la marca, publicando los anuncios realizados anteriormente por el grupo y pequeños vídeos para darnos a conocer y fidelizar clientes. Asimismo, para Twitter y Tik Tok, debido a la naturaleza de estas redes y centrándonos en el público joven para ganar atracción hemos decidido publicar contenido más desenfadado, alternando publicaciones más serias con memes.
+
+
+### Instagram
+Esta red social va a ser la principal para nuestra web ya que es una de las redes sociales más utilizadas y en la que la mayoría de los miembros tanto de nuestro grupo como de los del resto la utilizan más, permitiéndonos tener un buen número de seguidores desde el principio. Instagram será la red social más seria ya que queremos darnos a conocer en esta y queremos llegar a todo ese público que sube a sus historias textos como: “Se alquila habitación de piso en tal sitio” o “Busco piso por tal zona”. 
+Instagram se ha creado como una red social de empresa ya que nos gustaría saber las estadísticas de cómo vamos creciendo poco a poco.
+
+### Twitter
+Para Twitter, la idea es realizar entre una y tres publicaciones al día, alternando algunas publicaciones serias con publicaciones de humor para intentar llegar a un público joven, en concreto a estudiantes que necesiten compañeros o una vivienda, ya que es parte de nuestro mercado objetivo. La intención con las publicaciones de humor es intentar que sean originales y permitan que el público se sienta identificado, mientras que las publicaciones serias que se publiquen estarán relacionadas con publicaciones realizadas en Instagram. 
+
+Se ha decidido dar este enfoque a la cuenta de Twitter debido a que es una red en la que normalmente se utiliza de forma humorística y utilizando cuentas como la de KFC como referencia.
+
+Esta sería la red en la que menos impacto esperamos tener, debido a que Instagram tiene el punto fuerte de ser una red social en la que es fácil conseguir seguidores y TikTok una red social en la que es muy fácil volverse viral, y que en Twitter es más difícil conseguir seguidores. 
+
+### TikTok
+La audiencia objetivo en TikTok como se ha comentado antes son personas jóvenes, principalmente estudiantes, ya que se pretende subir humor viral, sketches representando situaciones graciosas entre compañeros de piso con las que se puedan sentir identificados y videos en la universidad realizando interacciones con otros estudiantes que quieran participar. 
+
+En ésta red social la publicidad será más sutil, siendo lo principal el llegar a un gran número de personas sin necesidad de subir contenido sumamente publicitario (estrategia que se usa en TikTok por varias empresas de gran tamaño como MediaMarkt, Real Betis Balompié, KFC…) Intercalando videos más centrados en publicitar la aplicación con la frecuencia que se comentará a continuación.
+
+Se pretende subir entre 3-7 videos semanales para mantener cierto grado de compromiso en la red social, con lo que los usuarios viendo la actividad constante se sentirán más seguros sobre Cohabify pudiendo llegar a interesarse por nuestro servicio.
+
+Se subirá al menos 1 video de carácter formal semanal con la finalidad de informar a aquellos usuarios que hayamos atraído con los otros vídeos a nuestra cuenta, ya que ellos son los posibles clientes.
+
+Se subirán al menos 2 vídeos de carácter informal con la finalidad de viralizarlo y llegar al máximo número de personas posible, sin necesidad de presentarle el servicio o la plataforma de forma directa.
+
+Actualmente no conocemos qué contenido funciona mejor en esta plataforma por lo que se probará con varios modelos de vídeo como hemos comentado. En caso de ser evidente la superioridad en captación de audiencia de algún modelo, se apostará por él mayormente.
+
