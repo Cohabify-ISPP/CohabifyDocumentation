@@ -37,7 +37,7 @@ Plan de Marketing
 | --- | --- | --- |
 | V1.0 | Creación del documento | María Márquez Sierra |
 | V2.0 | Añadido plan de redes | Daniel Arriaza Arriaza |
-
+| V3.0 | Modificando plan de redes | Marina Calero López |
 
 ### Tabla de contenidos
 - [Plan de Marketing](#plan-de-marketing)
@@ -158,7 +158,7 @@ Se van a utilizar tres redes sociales, Instagram, Tik Tok y Twitter. Cada una co
 
 
 ### Instagram
-Esta red social va a ser la principal para nuestra web ya que es una de las redes sociales más utilizadas y en la que la mayoría de los miembros tanto de nuestro grupo como de los del resto la utilizan más, permitiéndonos tener un buen número de seguidores desde el principio. Instagram será la red social más seria ya que queremos darnos a conocer en esta y queremos llegar a todo ese público que sube a sus historias textos como: “Se alquila habitación de piso en tal sitio” o “Busco piso por tal zona”. 
+Esta red social va a ser la principal para nuestra web ya que es una de las redes sociales más utilizadas y en la que la mayoría de los miembros tanto de nuestro grupo como de los del resto la utilizan más, permitiéndonos tener un buen número de seguidores desde el principio. Instagram será la red social más seria ya que queremos darnos a conocer en esta y queremos llegar a todo ese público que sube a sus historias textos como: “Se alquila habitación de piso en tal sitio” o “Busco piso por tal zona”. Asimismo  como subir contenido como los anuncios que realizamos como reels explicando quiénes somos y qué es lo que estamos creando. 
 Instagram se ha creado como una red social de empresa ya que nos gustaría saber las estadísticas de cómo vamos creciendo poco a poco.
 
 ### Twitter
