@@ -20,7 +20,7 @@ TCO y Pricing
     <th>Grupo</th>
     <th>4</th>
     <th>Entregable</th>
-    <th>S3</th>
+    <th>PPL</th>
   </tr>
   <tr>
     <td>Repositorio</td>
