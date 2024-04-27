@@ -41,12 +41,13 @@ TCO y Pricing
 | V3.1 | Corregir errores de transcripción a markdown | Rafael González Castillero |
 | V3.2 | Modificar formulas en latex y añadir gastos de nuevos perfiles actualizando costes y beneficios | Rafael González Castillero |
 | V4.0| Añadir costes de marketing y SEO en desarrollo y operación (CAPEX y OPEX), actualizar estimación de usuarios debido al plan de marketing, añadir costes de mantenimiento, y recalcular recursos necesarios en costes de operación. Actualizar estimaciones de rendimiento y recortar/aumentar costes en estimaciones realistas y pesimistas actualizando los beneficios en los 3 casos que se describen | Rafael González Castillero |
+| V4.1 | Corregir erratas | Daniel Arriaza Arriaza |
 
 
 ### Tabla de contenidos
 - [TCO y Pricing](#tco-y-pricing)
       - [Versión Cambios Autores](#versión-cambios-autores)
-      - [Tabla de contenidos](#tabla-de-contenidos)
+      - [Tabla de contenidos](#tabla-de-versiones)
       - [Resumen ejecutivo](#resumen-ejecutivo)
       - [Introducción](#introducción)
 - [1. Total Cost of Ownership (TCO)](#1-total-cost-of-ownership-tco)
@@ -81,7 +82,7 @@ TCO y Pricing
       - [1.2.2.9 Mantenimiento de la aplicación](#1229-mantenimiento-de-la-aplicación)
       - [1.2.2.10 Marketing y SEO](#12210-marketing-y-seo)
       - [1.2.2.11 Tabla de costes de operación](#12211-tabla-de-costes-de-operación)
-- [2. Pricing de Cohabify](#2-pricing-de-cohabify-1)
+- [2. Pricing de Cohabify](#2-pricing-de-cohabify)
   - [2.1 Estimación de usuarios](#21-estimación-de-usuarios)
   - [2.2 Pricing de Cohabify](#22-pricing-de-cohabify)
     - [2.2.1 Promoción de publicaciones - 3€](#221-promoción-de-publicaciones---3)
@@ -91,7 +92,7 @@ TCO y Pricing
       - [2.2.4.1 Ingresos Mensuales](#2241-ingresos-mensuales)
       - [2.2.4.2 Beneficio Mensual](#2242-beneficio-mensual)
       - [2.2.4.3 Recuperación de la Inversión](#2243-recuperación-de-la-inversión)
-- [3. Desvíos del número de usuarios estimados.](#3-desvíos-del-número-de-usuarios-estimados-1)
+- [3. Desvíos del número de usuarios estimados.](#3-desvíos-del-número-de-usuarios-estimados)
   - [3.1 Disminución de usuarios](#31-disminución-de-usuarios)
     - [3.1.1 Cálculo de ingreso pesimista](#311-cálculo-de-ingreso-pesimista)
     - [3.1.2 Reducción de costes de operación](#312-reducción-de-costes-de-operación)
@@ -186,7 +187,7 @@ Podemos calcular el gasto mensual total y el total en los 4 meses de desarrollo 
 | GitHub              | ≈50€     | ≈200€  |
 | Google App Engine   | ≈34€     | ≈136€  |
 | Marketing           |  750€  | 3.000€ |
-| **Suma**            | **≈84€** | **≈3.336€** |
+| **Suma**            | **834€** | **≈3.336€** |
 
 #### 1.1.3 Gastos totales desarrollo
 La inversión total necesaria para el proyecto durante el proceso de desarrollo se puede por tanto calcular de la siguiente forma:
@@ -304,7 +305,7 @@ Para el marketing se invertirá un total de 750€ mensuales en anuncios en rede
 Anteriormente se estimó una media de 20.600 usuarios únicos mensuales, incluyendo tanto a los registrados como los no registrados. De este total, proyectamos que el 7.3% (equivalente a 1.500 usuarios aproximadamente) optará por utilizar alguno de nuestros servicios de pago. Dentro de este grupo de usuarios, la distribución se desglosa de la siguiente manera:
 
 - 300 usuarios serán propietarios de viviendas que optarán por adquirir las ventajas de propietario de Cohabify. Del total, 75 tendrán más de una vivienda registrada.
-- Otros 500 usuarios optarán por nuestro plan de pago para usuarios normales.
+- Otros 500 usuarios optarán por nuestro plan de pago para usuarios exploradores.
 - Finalmente, se promocionarán 700 publicaciones, proporcionando visibilidad adicional a los anuncios de los usuarios.
 
 Estas cifras representan nuestras expectativas actuales y pueden variar en función de las tendencias del mercado y el comportamiento del usuario.
