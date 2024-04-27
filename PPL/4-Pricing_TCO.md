@@ -171,10 +171,10 @@ Para el plan de marketing que se realizará anterior al lanzamiento de la aplica
 | Servicio            | Proveedor  | Total   |
 |---------------------|--------------|-------|
 | SEO                 | seotech.es   |450€   |
-| Instagram adds    | instagram.com | 750€ |
-| Google adds        | google.com    | 1.000€ |
-| Tiktok adds        | tiktok.com    | 500€  |
-| Twitter adds       | twitter.com   | 300€  |
+| Instagram ads    | instagram.com | 750€ |
+| Google ads        | google.com    | 1.000€ |
+| Tiktok ads        | tiktok.com    | 500€  |
+| Twitter ads       | twitter.com   | 300€  |
 | **Suma**           |              | **3.000€** |
 
 
