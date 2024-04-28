@@ -14,6 +14,7 @@ Plan de Marketing
                 Arriaza Arriaza, Daniel (editor)<p></p>
                 Calero López, Marina (editor)<p></p>
                 González Castillero, Rafael (editor)<p></p>
+                Romero González, Juan (editor)<p></p>
             </td>
         </tr>
     </tbody>
@@ -38,6 +39,7 @@ Plan de Marketing
 | V1.0 | Creación del documento | María Márquez Sierra |
 | V2.0 | Añadido plan de redes | Daniel Arriaza Arriaza |
 | V3.0 | Modificando plan de redes | Marina Calero López |
+| V4.0 | Actualizado plan de marketing | Juan Romero González |
 
 ### Tabla de contenidos
 - [Plan de Marketing](#plan-de-marketing)
@@ -148,10 +150,16 @@ Ambos planes, Básico y Explorador, están limitados a una única publicación p
 - **Penetración de Mercado:** Enfoque en expandir la base de usuarios en áreas metropolitanas clave a través de campañas de marketing dirigidas y asociaciones con comunidades locales.
 - **Desarrollo de Producto:** Mejora continua de la plataforma basada en la retroalimentación de los usuarios piloto, agregando nuevas características y funcionalidades para mejorar la experiencia del usuario y diferenciarse de la competencia.
 - **Expansión Internacional:** Explorar oportunidades de expansión global en mercados con alta demanda de alojamiento compartido y un demográfico joven y tecnológicamente hábil.
+- **Publicidad:** Uso de publicidad física, mediante la creación de panfletos publicitarios y pegatinas de tres tipos: con el logotipo de Cohabify, con código qr y con un mensaje. Uso de publicidad digital a través de anuncios con Google Ads, redes sociales como tik tok, instagram y twitter, mejora en el posicionamiento SEO, y anuncios a través del correo electrónico.
+- **Atracción de nuevos usuarios:** Con el objetivo de atraer nuevos usuarios y que puedan probar nuestros servicios en calidad de usuario premium, se utilizarán promociones consistentes en ofertar el plan de explorador gratuitamente a los nuevos usuarios que se registren. Además, se implementará un sistema de invitaciones, de modo que los usuarios podrán invitar a amigos y ambos recibir códigos gratuitos para promocionar sus publicaciones hasta un máximo de 10 invitaciones.
+- **Promociones:** Con el objetivo de aumentar el número de usuarios que actualizan a un plan premium, se ofrecerán descuentos en las temporadas de mayor auge de búsqueda de pisos. Desde junio hasta septiembre de ofrecerán descuentos del 10-20% en todos los planes, para así atacar al mercado de los pisos de estudiantes. Estas promociones serán anunciadas a través de las distintas redes sociales de Cohabify.
+
 
 ## Canales de Marketing:
 - **Marketing Digital:** Utilizar publicidad en redes sociales, optimización de motores de búsqueda (SEO) y marketing de contenidos para llegar y captar a audiencias objetivo en línea.
 - **Asociaciones:** Colaborar con universidades, agencias inmobiliarias y organizaciones comunitarias para promocionar Cohabify y llegar a usuarios potenciales a través de canales y eventos fuera de línea.
+- **Posicionamiento en buscadores (SEO):** Para ganar visibilidad, se invertirá en optimizar los motores de búsqueda para que Cohabify esté mejor posicionado en los resultados de búsqueda.
+- **Marketing Tradicional:** Se hará uso del marketing tradicional (medio físico), a través de panfletos publicitarios y pegatinas con información de los servicios que ofrece Cohabify.
 
 ## Plan de Redes Sociales
 Se van a utilizar tres redes sociales, Instagram, Tik Tok y Twitter. Cada una con un enfoque y tipo de publicación diferente. El objetivo de Instagram será dar una imagen más seria de la marca, publicando los anuncios realizados anteriormente por el grupo y pequeños vídeos para darnos a conocer y fidelizar clientes. Asimismo, para Twitter y Tik Tok, debido a la naturaleza de estas redes y centrándonos en el público joven para ganar atracción hemos decidido publicar contenido más desenfadado, alternando publicaciones más serias con memes.
