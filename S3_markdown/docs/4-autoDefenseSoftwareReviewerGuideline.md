@@ -21,6 +21,10 @@ AutoDefensa Software Reviewer Guideline
             </td>
         </tr>
         <tr>
+            <td rowspan=2><p>Urquijo Martínez, Álvaro (editor)</p> 
+            </td>
+        </tr>
+        <tr>
             <td rowspan=2><p>Morato Navarro, Olegario (revisor)</p> 
             </td>
         </tr>
@@ -53,6 +57,43 @@ AutoDefensa Software Reviewer Guideline
 - [Autodefensa S3](#autodefensa-s3)
 
 ## Autodefensa S2
+A continuación se muestra una tabla con el listado de Failure Conditions encontradas en el documento de Software Reviewer Guidelines, un porcentaje que representa el nivel al que hemos seguido la condición indicada (100% significará que no hemos incumplido la condición, a medida que disminuya el porcentaje indicará que la failure condition se ha empezado a cumplir y por tanto, hay cierto nivel de fallo).
+
+
+| Failure Condition | Porcentaje de completado | Razonamiento |
+| --- | --- | --- |
+|(RG-13) A legal interaction with your system results in an HTTP error perceived by user. | 90% | Se ha probado el sistema por nuestra parte y usuarios pilotos, pero no podemos garantizar con el nivel de pruebas realizadas que ciertas interacciones no resulten en lo esperado dando errores percibidos por el usuario. |
+|(RG-14) A legal interaction with your system results in a panic (crash/...) perceived by user. | 95% | Es poco probable que el sistema deje de responder debido a fallos en el código. |
+|(RG-15) A legal interaction with your system doesn’t have the expected behavior | 50% | Una interacción normal de un usuario no debería resultar en comportamientos inesperados, sin embargo, hemos sido capaces de localizar en varias zonas de la aplicación con ayuda de usuarios pilotos problemas como mensajes de error vacíos o el chat, que en el despliegue no funciona correctamente, los mensajes tardan en reflejarse o se pierden. Ponemos 50% porque no son problemas complejos de solucionar y para la siguiente entrega se pulirán estos y otros aspectos. |
+| (RG-16) Submitting a form with wrong data is not detected (form validation) | 95% | Todos los formularios tienen validaciones tanto en frontend como en backend. |
+| (RG-17) An actor can list, edit, or delete data that belongs to another actor. | 100% | La seguridad del Sistema es un punto clave y somos conscientes de ello, en nuestra aplicación no se han encontrado errores de seguridad del estilo. |
+| (RG-18) The system is not deployed to the cloud, or it is not available any time during the subject(until July) | 100% | Los despliegues se han llevado a cabo los días especificados sin falta. |
+| (RG-19) The system deployment is modified /updated after the delivery deadline. | 100% | No se modifica el despliegue tras la fecha de entrega del entregable. |
+
+La siguiente tabla contiene un análisis sobre los comentarios recibidos por los usuarios piloto. Para cada comentario, se va a evaluar si es una Failure Condition y en qué grado se cumpliría, similar a la tabla anterior. Además se proporcionará una explicación.
+
+| Mensaje | ¿Es Failure Condition? | Porcentaje de completado | Razonamiento |
+| --- | --- | --- | --- |
+| (C-1) Al hacer un nuevo registro manualmente, da un error pero solo se visualiza el recuadro rojo, no aparece ningún texto que te informe del tipo de error (faltaba por subir la imagen). | Sí | 20% | En este despliegue se ha comprobado que algunos campos no expresan el error cometido y simplemente indican que existe un error, se corregirá con brevedad. |
+| (C-2) Con el usuario y contraseña que ofrecían no he podido iniciar sesión | No | - | No hemos podido recrear este supuesto fallo así que quizás ha sido un fallo puntual con la sincronización de la Base de Datos. No podemos interpretarlo como error. |
+| (C-3) No se puede editar un anuncio de compañero.| Si | 100% | El error existía, pero cuando se ha revisado este comentario y se ha comprobado en la aplicación, estaba ya arreglado. |
+| (C-4) Puedo comentar en cualquier vivienda. Puedo comentar en cualquier compañero.| No | 100% | Consideramos que esto no es ningún error, ya que no hay nada que evite que una persona pueda comentar otras publicaciones. | 
+| (C-5) La ubicación de la vivienda y la superficie solo se puede añadir al editar.  | No | 100% | La ubicación y superficie se añaden con el numero del catastro, así que en cualquier caso es un error de interfaz al no entenderse. |
+| (C-6) Al buscar casas, el dueño de la misma no se puede ver. Solo si invitas inquilinos  | No | - | Al recrear el error se ha podido hacer sin problemas. |
+| (C-7) Botón de "ver planes" en la parte inferior de la pantalla no hace nada | No | - | Al recrear el error se ha podido hacer sin problemas. |
+| (C-8) El mapa no funciona. | No | 100% | La funcionalidad de los mapas es algo que se implementará en futuras versiones asi que no consideramos esto como una failure condition. |
+| (C-9) Los chats no funcionan. | No | 100% | Mismo razonamiento que (C-8) |
+| (C-10) Si cambio de plan a explorador sale un icono al lado del inicio de sesión, solo sale con explorador. | No | 80% | Lo que dice el comentario es cierto, no hemos asignado ningún icono al plan propietario o Básico. Es un fallo de diseño, pero se corregirá. |
+| (C-11) El botón para iniciar sesión con Google redirige al registro en bucle, da igual si ya habías rellenado el registro. Este problema impide efectivamente que los usuarios puedan acceder a su cuenta a través de Google.  | Sí | 20% | Es cierto que se han tenido ciertos errores con el inicio social, pero es un problema que se arreglará rapidamente en una nueva versión. |
+| (C-12) Los filtros de búsqueda no funcionan. Al entrar en buscar viviendas, si filtras por cualquier campo, y luego cambias el filtro a uno menor (por ejemplo max inquilinos), sale lo mismo y no se actualiza. Además si le das a borrar el filtro de la fecha, se recarga la página y no tiene nada, como si fuese un bug.También pasa con el filtro de búsqueda para viviendas, si bajas un filtro una vez puesto, o lo subes, sigue sin actualizarse.   | Si | 80% | El error que se comenta aquí es cierto, si un filtro se cambia a uno menor da error, este fallo se corregirá con rapidez pero existe.  |
+| (C-13) Crear anuncio de vivienda: Me deja crearlo sin calle ni teléfono por alguna razón | No | - | Al intentar recrear este error han salido los mensajes de fallo correspondientes por lo que no podemos confirmar que el error sea real. |
+| (C-14) El html de listado de usuarios muestra las etiquetas parcialmente. | Sí | 100% | Este es un error que se ha comprobado que sucede cuando el tamaño de pantalla varía, en una versión posterior se cambiará para que las etiquetas se adapten al tamaño de pantalla. |
+| (C-15) Al registrar usuario solo acepta como carácter especial los que se especifican entre paréntesis, ni signo de cerrar interrogación, ni guiones, etc. | No | 20% | Este fallo sucede, pero en la validation solo se comprueban los carácteres marcados, por lo que no es un error en sí, podria considerarse un error de diseño al no poder elegir más carácteres.  |
+| (C-16) Al registrar usuario si copio y pego la contraseña me dice que no coinciden, pero si la escribo a mano no da problema. | No | - | Al intentar recrear el error se ha podido copiar y pegar sin problemas, consideramos que el error habrá sido un fallo puntual. |
+| (C-17) Como usuario básico no me deja publicar vivienda | No | 100% | Un usuario básico no tiene permitido publicar vivienda, solo anuncio de compañero, por lo que esto no es un error. |
+| (C-18) No deja seleccionar ubicación en la creación/edición de anuncio de compañero | No | - | Al intentar recrear el error se ha podido indicar la ubicación en ambos casos por lo que consideramos que no es un error. |
+| (C-19) Cuando selecciono ver publicado en "anuncios de compañero" me lleva a la pantalla de crear/Editar y no a la lista de anuncios de compañero. | Si | 50% | Esto sucede y es debido a que "Ver publidado" redirige al anuncio que haya publicado el usuario, por lo que es un fallo pero no de programación, en todo caso sería un fallo de diseño ya que los botones no son intuitivos. |
+| (C-20) Cuando he intentado acceder a la lista de viviendas (de nuevo, desde la vista de usuario) me ha salido un mensaje de error que no me permite acceder a la vista de viviendas. Intento meter directamente la URL y sigue sin mostrarse nada.| No | - | Al intentar recrear este error, se ha podido acceder correctamente a la lista de viviendas tanto con url como en el botón. |
 
 
 ## Autodefensa S3
