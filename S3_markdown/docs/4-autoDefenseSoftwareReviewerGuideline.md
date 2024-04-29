@@ -49,6 +49,7 @@ AutoDefensa Software Reviewer Guideline
 | --- | --- | --- |
 | V0.1 | Redacción de las FC de Reviewer Guidelines del S3 | Rafael González Castillero |
 | V1.0 | Creación del documento en md | Miguel Ángel Roldán García y María Márquez Sierra |
+| V2.0 | Añadida autodefensa S2 | Álvaro Urquijo Martínez |
 
 
 ## Tabla de contenidos
