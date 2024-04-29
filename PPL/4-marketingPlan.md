@@ -166,7 +166,7 @@ Se van a utilizar tres redes sociales, Instagram, Tik Tok y Twitter. Cada una co
 
 
 ### Instagram
-Esta red social va a ser la principal para nuestra web ya que es una de las redes sociales más utilizadas y en la que la mayoría de los miembros tanto de nuestro grupo como de los del resto la utilizan más, permitiéndonos tener un buen número de seguidores desde el principio. Instagram será la red social más seria ya que queremos darnos a conocer en esta y queremos llegar a todo ese público que sube a sus historias textos como: “Se alquila habitación de piso en tal sitio” o “Busco piso por tal zona”. Asimismo  como subir contenido como los anuncios que realizamos como reels explicando quiénes somos y qué es lo que estamos creando. 
+Esta red social va a ser la principal para nuestra web ya que es una de las redes sociales más utilizadas y en la que la mayoría de los miembros tanto de nuestro grupo como de los del resto la utilizan más, permitiéndonos tener un buen número de seguidores desde el principio. Instagram será la red social más seria ya que queremos darnos a conocer en esta y queremos llegar a todo ese público que sube a sus historias textos como: “Se alquila habitación de piso en tal sitio” o “Busco piso por tal zona”. Asimismo  como subir contenido como los anuncios que realizamos como reels explicando quiénes somos y qué es lo que estamos creando. En las historias siempre se intentará tener al menos una publicación cada día. Para las publicaciones en Instagram, los anuncios se subirán con una diferencia de 2 días máximo.
 Instagram se ha creado como una red social de empresa ya que nos gustaría saber las estadísticas de cómo vamos creciendo poco a poco.
 
 ### Twitter
