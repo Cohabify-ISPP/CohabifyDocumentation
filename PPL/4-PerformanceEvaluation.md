@@ -83,6 +83,7 @@ V1.0 | Creación del documento | -
 V2.0 | Añadidas notas de S1 y contribuciones | G4
 V3.0 | Añadidas notas de S2 y contribuciones | G4
 V4.0 | Añadidas notas de S3 y contribuciones | G4
+V5.0 | Añadidas notas de PPL y contribuciones | G4
 
 ## Tabla de contenidos
 - [Evaluación de rendimiento individual](#evaluación-de-rendimiento-individual)
@@ -346,10 +347,8 @@ Durante el sprint 3 me he encargado de crear el plan de pruebas. Además he impl
 ### Roldán García, Miguel Ángel
 En el Sprint 3, ha realizado tareas de programación como la verificación del correo electrónico, la implementación del chat de usuarios y arreglado tests unitarios que fallaban. También ha realizado el despliegue del S3 y el documento de software guidelines. Además ha realizado tareas de coordinación. Finalmente, ha hecho pilotaje del grupo 10 de ISPP - Cocemfe.
 
-
 ### Romero González, Juan
 Durante el Sprint 3, las principales contribuciones han sido: la mejora y constante actualización de la gráfica Burn-Down; la redacción del documento de retrospectiva; la actualización del estado del CA para comprobar su correcto cumplimiento por parte de todos los miembros del grupo; la creación de un calendario con la disponibilidad de todos los integrantes del grupo para tener a disposición los horarios que cada miembro tiene disponibles; la actualización de datos de prueba, tanto correcciones y mejoras generales como aumento de número de tags; la creación y ejecución de pruebas de rendimiento utilizando JMeter para comprobar cómo responde la aplicación a múltiples peticiones simultáneas con distinto números de usuarios concurrentes durante un determinado tiempo; la actualización del documento de Time-Effort; y también la participación como usuario piloto de la aplicación del grupo 10 de ISPP.
-
 
 ### Urquijo Martínez, Álvaro
 En el sprint 3, ha realizado, con respecto a código, testing de Valoraciones de usuario, tanto en la parte de servicio como en el controlador, también ha creado la vista de confirmación de borrado de cuenta. Con respecto a documentación ha modificado varios documentos como el Customer Agreement, carpetas de anuncios y demos, report, así como añadir la entrada semanal a la BGC, también se ha encargado de redactar la autodefensa del Sprint 3.
@@ -361,7 +360,10 @@ En el sprint 3, ha realizado, con respecto a código, testing de Valoraciones de
 - Galeano de Paz, Guillermo
 - Gonzalez Castillero, Rafael
 - Márquez Sierra, María
-- Márquez Soldán, María
+
+### Márquez Soldán, María
+Durante el PPL, las contribuciones han sido las indicadas a continuación. En cuanto a marketing, la redacción del guión de anuncio de inversores. En cuanto a desarrollo, el arreglo de incidencias / implementación de feedback. Esto es: la visibilidad de contraseñas, arreglar los pisos en común, la adición de chats privados con dueños, la incidencia existente al editar la contraseña de usuario, la adición de restricciones de chats según el pricing y fixes/refactorización varias. Por último, se ha realizado el pilotaje del grupo 10 de ISPP COCEMFE. 
+
 - Morato Navarro, Juan Carlos
 - Morato Navarro, Olegario
 - Robles Russo, Eduardo
