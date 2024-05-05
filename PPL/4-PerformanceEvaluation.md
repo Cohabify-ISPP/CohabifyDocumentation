@@ -160,22 +160,22 @@ En el presente documento se recoge la contribución individual de cada miembro d
 
 ### Puntuaciones
 
-Estudiante | #DP | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Peso
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Arriaza Arriaza, Daniel | 10 | 10 | 10 | 10 | - | - | - | -
-Barrera García, Ismael | 10 | 10 | 10 | 10 | - | - | - | -
-Calero López, Marina | 10 | 10 | 10 | 10 | - | - | - | -
-Galeano de Paz, Guillermo | 10 | 6 | 9 | 10 | - | - | - | -
-Gonzalez Castillero, Rafael | 10 | 10 | * | 10 | - | - | - | -
-Márquez Sierra, María | 10 | 10 | 10 | 10 | - | - | - | -
-Márquez Soldán, María | 10 | 10 | 10 | 10 | - | - | - | -
-Morato Navarro, Juan Carlos | 10 | 10 | 10 | 10 | - | - | - | -
-Morato Navarro, Olegario | 10 | 10 | 10 | 10 | - | - | - | -
-Robles Russo, Eduardo | 10 | 10 | 10 | 10 | - | - | - | -
-Roldán García, Miguel Ángel | 10 | 10 | 10 | 10 | - | - | - | -
-Romero González, Juan | 10 | 8 | 10 | 10 | - | - | - | -
-Urquijo Martínez, Álvaro | 10 | 9 | 10 | 10 | - | - | - | -
-Total | 130 | 123 | 119 | 130 | - | - | - | -
+Estudiante                  | #DP | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Peso
+---                         | --- | --- | --- | --- | --- | --- | --- | ---
+Arriaza Arriaza, Daniel     | 10  | 10  | 10  | 10  | 10  | -   | -   | -
+Barrera García, Ismael      | 10  | 10  | 10  | 10  | 10  | -   | -   | -
+Calero López, Marina        | 10  | 10  | 10  | 10  | 10  | -   | -   | -
+Galeano de Paz, Guillermo   | 10  | 6   | 9   | 10  | 10  | -   | -   | -
+Gonzalez Castillero, Rafael | 10  | 10  | *   | 10  | 10  | -   | -   | -
+Márquez Sierra, María       | 10  | 10  | 10  | 10  | 10  | -   | -   | -
+Márquez Soldán, María       | 10  | 10  | 10  | 10  | 10  | -   | -   | -
+Morato Navarro, Juan Carlos | 10  | 10  | 10  | 10  | 10  | -   | -   | -
+Morato Navarro, Olegario    | 10  | 10  | 10  | 10  | 10  | -   | -   | -
+Robles Russo, Eduardo       | 10  | 10  | 10  | 10  | 10  | -   | -   | -
+Roldán García, Miguel Ángel | 10  | 10  | 10  | 10  | 10  | -   | -   | -
+Romero González, Juan       | 10  | 8   | 10  | 10  | 10  | -   | -   | -
+Urquijo Martínez, Álvaro    | 10  | 9   | 10  | 10  | 10  | -   | -   | -
+Total                       | 130 | 123 | 119 | 130 | 130 | -   | -   | -
 
 *Este miembro no ha sido evaluado en este sprint por su ausencia debido a motivos médicos.
 
@@ -326,7 +326,6 @@ La contribución en este sprint en cuanto a la parte del código ha mejorado los
 A lo largo del S3, primero implementó la conexión con la API de sms de twilio aunque al final se decidiera no incluirla. Después implementó la promoción de anuncios, seguido de crear el modelo de datos de chat y mensajes y las operaciones CRUD hasta nivel de servicio. Y por último, ha añadido los mapas de google maps a todas las vistas en las que era apropiada.
 
 ### Gonzalez Castillero, Rafael
-
 En el sprint 3 ha estado encargado de crear el documento de Service Level Agreement, modificar el documento de TCO y Pricing respecto a adición de roles y servicio de atención al cliente, actualizar configuración de SonarCloud, crear y editar el workflow de github para que funcione correctamente, revisar cumplimiento de Failure Condition y condiciones de fallo en el Reviewers Guideline e irformar de los cambios necesarios respecto a esto, probar y verificar el funcionamiento de las distintas partes de la aplicación desplegada y por último verificar que la presentación cumple con los requisitos especificados en el orden debido, aportando feedback para mejorarla. Finalmente, ha realizado el pilotaje del grupo 10 de ISPP (Cocemfe).
 
 ### Márquez Sierra, María
@@ -355,14 +354,17 @@ En el sprint 3, ha realizado, con respecto a código, testing de Valoraciones de
 
 ## 2.5 Preparing Project Launch (#PPL)
 - Arriaza Arriaza, Daniel
-- Barrera García, Ismael
+
+### Barrera García, Ismael
+Durante el PPL, respecto al marketing, se ha redactado el guión de anuncio de inversores. En cuanto a desarrollo, ha solucionado incidencias y ha implementado el feedback de los usuarios pilotos y profesores: ha añadido la visibilidad de contraseñas, los chats privados con dueños y las restricciones de chats según el pricing, y ha arreglado los pisos en común, la incidencia existente al editar la contraseña de usuario, y otros fixes y refactorizaciones. Además, se ha grabado una parte de una de las demos. Por último, se ha realizado el pilotaje del grupo 10 de ISPP, COCEMFE.
+
 - Calero López, Marina
 - Galeano de Paz, Guillermo
 - Gonzalez Castillero, Rafael
 - Márquez Sierra, María
 
 ### Márquez Soldán, María
-Durante el PPL, las contribuciones han sido las indicadas a continuación. En cuanto a marketing, la redacción del guión de anuncio de inversores. En cuanto a desarrollo, el arreglo de incidencias / implementación de feedback. Esto es: la visibilidad de contraseñas, arreglar los pisos en común, la adición de chats privados con dueños, la incidencia existente al editar la contraseña de usuario, la adición de restricciones de chats según el pricing y fixes/refactorización varias. Por último, se ha realizado el pilotaje del grupo 10 de ISPP COCEMFE. 
+Durante el PPL, las contribuciones han sido las indicadas a continuación. En cuanto a marketing, la redacción del guión de anuncio de inversores. En cuanto a desarrollo, el arreglo de incidencias / implementación de feedback. Esto es: la visibilidad de contraseñas, arreglar los pisos en común, la adición de chats privados con dueños, la incidencia existente al editar la contraseña de usuario, la adición de restricciones de chats según el pricing y fixes/refactorización varias. Además, se ha grabado una parte de una de las demos. Por último, se ha realizado el pilotaje del grupo 10 de ISPP COCEMFE. 
 
 - Morato Navarro, Juan Carlos
 - Morato Navarro, Olegario
