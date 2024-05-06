@@ -1,6 +1,6 @@
 ![US Logo](images/logo_us.png)
 
-AutoDefensa Software Reviewer Guideline
+AutoDefensa Software Reviewer Guidelines
 ---
 
 
@@ -25,7 +25,7 @@ AutoDefensa Software Reviewer Guideline
             </td>
         </tr>
         <tr>
-            <td rowspan=2><p>Morato Navarro, Olegario (revisor)</p> 
+            <td rowspan=2><p>Barrera García, Ismael (revisor)</p> 
             </td>
         </tr>
     </tbody>
