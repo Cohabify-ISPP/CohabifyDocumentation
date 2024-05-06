@@ -40,7 +40,7 @@ Presentación de evaluación
 ## Tabla de contenidos
 - [Presentación S2](#presentación-s2)
 - [Presentación S3](#presentación-s3)
-- [Presentación PPL](#presentación-ppl)
+- [Presentaciones PPL](#presentación-ppl)
 
 ### Presentación S2
 
