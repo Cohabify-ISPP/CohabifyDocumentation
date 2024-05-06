@@ -1,6 +1,6 @@
 ![US Logo](images/logo_us.png)
 
-Presentación de evaluación S2
+Presentación de evaluación
 
 
 ![Cohabify](images/Cohabify.png)
