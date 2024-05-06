@@ -397,7 +397,8 @@ Durante el sprint PPL, sus contribuciones han sido: grabar anuncios y contenido 
 ### Robles Russo, Eduardo
 Durante el PPL, mis contribuciones han sido:  He actualizado la landing page con las changelogs y con las fotografias de algunos de nosotros cambiando estilo y he puesto los logos de las distintas paginas como tiktok, instagram y twitter. He actuado como usuario piloto para el grupo 10 de ISPP. He participado en uno de los anuncios como guardaspaldas. Tambien he revisado la pull request Añadir anuncios en pantalla de inicio /343.
 
-- Roldán García, Miguel Ángel
+### Roldán García, Miguel Ángel
+En el PPL, ha realizado tareas de programación como la recuperación de contraseña y arreglo de errores varios. También ha realizado el despliegue del PPL y numerosas revisiones de tareas completadas, así como tareas de coordinación. Finalmente, ha hecho pilotaje del grupo 10 de ISPP - Cocemfe.
 
 ### Romero González, Juan
 Durante el PPL, las principales contribuciones han sido: la mejora y actualización del plan de Marketing; la migración de los archivos de markdown a la carpeta de PPL y la actualización de los mismos para que concuerden con el entregable; la actualización del documento de Time-Effort; y también la participación como usuario piloto de la aplicación del grupo 10 de ISPP.
