@@ -377,7 +377,10 @@ Durante el PPL, respecto al marketing, se ha redactado el guión de anuncio de i
 La contribución en este sprint en cuanto a la parte del código ha mejorado la pantalla de inicio y el formulario de publicación de vivienda. Por otro lado ha hecho la realización de anuncios junto a sus compañeros. En cuanto al marketing Ha sido la community manager de Instagram, encargada de crear la cuenta, gestionarla subiendo al menos una historia al día, así como subir publicaciones de los anuncios realizados, de que es Cohabify y los planes de precio; a parte, junto a otros compañeros, se han encargado del merchandising, diseñando los panfletos y las pegatinas. También ha sido la encargada de realizar la actualización del rendimiento del equipo asi como realizar y presentar la presentación junto a su compañero Daniel. Así mismo revisó la tarea 333 Añadir paginación a listados. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
 
 - Galeano de Paz, Guillermo
-- Gonzalez Castillero, Rafael
+- 
+### Gonzalez Castillero, Rafael
+En este sprint se ha encargado principalmente de la creación y gestión del contenido en redes sociales, especialmente de TikTok, aportando ideas y participando en los planes de marketing, modificando por tanto este documento. Además, ha sido el encargado de modificar completamente el TCO tras la aparición de los planes de marketing, reestimando un mayor número de usuarios y gastos en consecuencia y actualizando todas las tablas y datos presentes en el documento. Por este último cambio, ha sido necesario que revise y aporte ideas en la presentación en cuanto a los costes, y actualice la gráfica de rendimiento del servicio (costes vs beneficios) creando también una gráfica con los valores acumulados. Finalmente, se ha implicado en el desarrollo del guión y el vídeo para el anuncio de inversores, aportando las ideas principales a la hora de la propuesta monetaria.
+
 - Márquez Sierra, María
 
 ### Márquez Soldán, María
