@@ -377,14 +377,16 @@ Durante el PPL, respecto al marketing, se ha redactado el guión de anuncio de i
 La contribución en este sprint en cuanto a la parte del código ha mejorado la pantalla de inicio y el formulario de publicación de vivienda. Por otro lado ha hecho la realización de anuncios junto a sus compañeros. En cuanto al marketing Ha sido la community manager de Instagram, encargada de crear la cuenta, gestionarla subiendo al menos una historia al día, así como subir publicaciones de los anuncios realizados, de que es Cohabify y los planes de precio; a parte, junto a otros compañeros, se han encargado del merchandising, diseñando los panfletos y las pegatinas. También ha sido la encargada de realizar la actualización del rendimiento del equipo asi como realizar y presentar la presentación junto a su compañero Daniel. Así mismo revisó la tarea 333 Añadir paginación a listados. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
 
 - Galeano de Paz, Guillermo
-- 
+
+
 ### Gonzalez Castillero, Rafael
 En este sprint se ha encargado principalmente de la creación y gestión del contenido en redes sociales, especialmente de TikTok, aportando ideas y participando en los planes de marketing, modificando por tanto este documento. Además, ha sido el encargado de modificar completamente el TCO tras la aparición de los planes de marketing, reestimando un mayor número de usuarios y gastos en consecuencia y actualizando todas las tablas y datos presentes en el documento. Por este último cambio, ha sido necesario que revise y aporte ideas en la presentación en cuanto a los costes, y actualice la gráfica de rendimiento del servicio (costes vs beneficios) creando también una gráfica con los valores acumulados. Finalmente, se ha implicado en el desarrollo del guión y el vídeo para el anuncio de inversores, aportando las ideas principales a la hora de la propuesta monetaria.
 
-- Márquez Sierra, María
+### Márquez Sierra, María
+Durante el PPL, se han llevado a cabo diversas contribuciones en áreas clave: en marketing, se completó la redacción del plan de marketing; en desarrollo, se logró la optimización SEO de la aplicación y se añadió una nueva funcionalidad para eliminar chats. Además, se elaboró una de las presentaciones requeridas durante el PPL y se realizó el pilotaje para el grupo 10 de ISPP COCEMFE. Finalmente, se realizó la autodefensa de este entregable.
 
 ### Márquez Soldán, María
-Durante el PPL, las contribuciones han sido las indicadas a continuación. En cuanto a marketing, la redacción del guión de anuncio de inversores. En cuanto a desarrollo, el arreglo de incidencias / implementación de feedback. Esto es: la visibilidad de contraseñas, arreglar los pisos en común, la adición de chats privados con dueños, la incidencia existente al editar la contraseña de usuario, la adición de restricciones de chats según el pricing y fixes/refactorización varias. Además, se ha grabado una parte de una de las demos. Por último, se ha realizado el pilotaje del grupo 10 de ISPP COCEMFE. 
+Durante el PPL, las contribuciones han sido las indicadas a continuación. En cuanto a marketing, la redacción del guión de anuncio de inversores. En cuanto a desarrollo, el arreglo de incidencias / implementación de feedback. Esto es: la visibilidad de contraseñas, arreglar los pisos en común, la adición de chats privados con dueños, la incidencia existente al editar la contraseña de usuario, la adición de restricciones de chats según el pricing y fixes/refactorización varias. Además, se ha grabado una parte de una de las demos y se han revisado varias issues (/337, /327, /340, /329 y /125 (esta última en documentación)). Por último, se ha realizado el pilotaje del grupo 10 de ISPP COCEMFE. 
 
 ### Morato Navarro, Juan Carlos
 Durante el PPL, mis contribuciones han sido:  Grabar para los anuncios normales y de inversores, editar y grabar la demo de la aplicación, actuar como GM del grupo 2. Crear plantillas para posts como los planes de precio en instagram. He actuado como usuario piloto para el grupo 10 de ISPP. He diseñado las camisetas para el equipo, creado las imágenes para las pegatinas y panfletos y he ayudado a crear contenido  con doblajes de voz para tik tok y publicaciones informativas en instagram. También he animado el logo de la aplicación para el final de los anuncios. 
@@ -396,7 +398,10 @@ Durante el sprint PPL, sus contribuciones han sido: grabar anuncios y contenido 
 Durante el PPL, mis contribuciones han sido:  He actualizado la landing page con las changelogs y con las fotografias de algunos de nosotros cambiando estilo y he puesto los logos de las distintas paginas como tiktok, instagram y twitter. He actuado como usuario piloto para el grupo 10 de ISPP. He participado en uno de los anuncios como guardaspaldas. Tambien he revisado la pull request Añadir anuncios en pantalla de inicio /343.
 
 - Roldán García, Miguel Ángel
-- Romero González, Juan
+
+### Romero González, Juan
+Durante el PPL, las principales contribuciones han sido: la mejora y actualización del plan de Marketing; la migración de los archivos de markdown a la carpeta de PPL y la actualización de los mismos para que concuerden con el entregable; la actualización del documento de Time-Effort; y también la participación como usuario piloto de la aplicación del grupo 10 de ISPP.
+
 - Urquijo Martínez, Álvaro
 
 ## 2.6 World Project Launch (#WPL)
