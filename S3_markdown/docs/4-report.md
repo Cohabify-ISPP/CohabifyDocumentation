@@ -21,7 +21,7 @@ Report
     <th>Grupo</th>
     <th>4</th>
     <th>Entregable</th>
-    <th>S3</th>
+    <th>PPL</th>
   </tr>
   <tr>
     <td>Repositorio</td>
@@ -42,6 +42,7 @@ Report
 | V2.0 | Completada información del Sprint 1 | Juan Carlos Morato, Eduardo Robles, Ismael Barrera |
 | V3.0 | Actualización con información de Sprint 2 | Álvaro Urquijo Martínez |
 | V4.0 | Actualización con información de Sprint 3 | Álvaro Urquijo Martínez |
+| V5.0 | Actualización con información de PPL | Álvaro Urquijo Martínez |
 
 
 ## Tabla de Contenidos
@@ -115,6 +116,20 @@ Report
         - [Uso de la IA](#538-uso-de-la-ia)
         - [Usuarios piloto](#539-usuarios-piloto)
         - [Feedback específico de grupo](#5310-feedback-específico-de-grupo)
+- [PPL](#6-ppl)
+    - [Feedback general](#61-feedback-general)
+    - [Feedback recibido por nuestro grupo](#62-feedback-recibido-por-nuestro-grupo)
+    - [Acciones de respuesta ante el feedback](#63-acciones-de-respuesta-ante-el-feedback)
+        - [Análisis de competidores](#631-análisis-de-competidores)
+        - [Análisis de costes](#632-análisis-de-costes)
+        - [Análisis de riesgo](#633-análisis-de-riesgo)
+        - [Documentación](#634-documentación)
+        - [Inicio efectivo](#635-inicio-efectivo)
+        - [Modelos de negocio](#636-modelos-de-negocio)
+        - [Roles](#637-roles)
+        - [Uso de la IA](#638-uso-de-la-ia)
+        - [Usuarios piloto](#639-usuarios-piloto)
+        - [Feedback específico de grupo](#6310-feedback-específico-de-grupo)
 
 
 
@@ -595,6 +610,16 @@ Dado que esta semana nuestro grupo no estaba encargado de aportar el feedback ge
 + Usuarios piloto bien: identificación de usuarios piloto bien y cantidad, fechas de inicio-fin de prueba (falta cuándo se analiza y aplica el feedback), calificación (falta prioridad del feedback).
 + En planificación ha faltado cómo vamos a gestionar el final del S3 - WPL (Tareas faltantes, replanificar si hiciera falta).
 
+### Semana 10: 23/04 (Evaluación)
+
++ La historia de la demo debería ser general y orientada a un usuario nuevo. Orientarla a toda la funcionalidad y no solo al S3.
++ Cambiar elevator pitch. Incluir roles e historia.
++ Evitar poner tanto texto para que no parezca que se leen diapositivas en vez de presentarlas.
++ Para cada problema o mejora hay que tener claro acciones concretas, medida para evaluar sí está funcionando, un umbral y un tiempo objetivo.
++ En la pirámide de UX, desarrollar los comentarios de los usuarios piloto para justificar.
++ Hacer que la demo esté hilada con una historia, es más interesante.
++ 2000 y pico euros de beneficio - ¿Tiene en cuenta el personal de mantenimiento? ¿De cuánto es ese personal de mantenimiento?. Revisar.
+
 ## 5.3 Acciones de respuesta ante el feedback
 
 Todo el feedback anotado se ha tenido en cuenta y se ha revisado usando una checklist con el objetivo de mejorar y no repetir los mismos errores. En los próximos entregables se marcarán las evidencias de estas correcciones para que quede constancia de nuestra respuesta al feedback.
@@ -636,5 +661,67 @@ No procede.
 Se modificó la fecha de despligue a una semana antes del despliegue (en lugar de cuatro dias antes).
 
 ### 5.3.10 Feedback específico de grupo
+
+El feedback dado a nuestro grupo en específico se ha implementado en su totalidad dentro de las capacidades del grupo.
+
+# 6. PPL
+## 6.1 Feedback general
+
+Dado que esta semana nuestro grupo no estaba encargado de aportar el feedback general a la DB, procedemos a dejar este apartado intencionadamente en blanco.
+
+## 6.2 Feedback recibido por nuestro grupo
+
+### Semana 11: 30/04
+
++ Centrarnos más en propietarios que en inquilinos.
++ Revisar modelo de negocio de propietarios.
++ La demo es una que alguien ve por primera vez y que muestra sólo lo más importantes.
++ Orientar la presentación al usuario y al mismo tiempo al inversor.
++ Evitar usar demasiados tecnicismos.
++ Responder a preguntas ¿por qué voy a invertir, cuánto y cuándo vas a ganar.
++ Agrupar y resumir más los costes.
+
+
+## 6.3 Acciones de respuesta ante el feedback
+
+Todo el feedback anotado se ha tenido en cuenta y se ha revisado usando una checklist con el objetivo de mejorar y no repetir los mismos errores. En los próximos entregables se marcarán las evidencias de estas correcciones para que quede constancia de nuestra respuesta al feedback.
+
+### 6.3.1 Análisis de competidores
+
+No procede.
+
+### 6.3.2 Análisis de costes
+
+No procede.
+
+### 6.3.3 Análisis de riesgos
+
+No procede.
+
+### 6.3.4 Documentación
+
+No procede.
+
+### 6.3.5 Inicio efectivo
+
+No procede.
+
+### 6.3.6 Modelos de negocio
+
+No procede.
+
+### 6.3.7 Roles
+
+No procede.
+
+### 6.3.8 Uso de la IA
+
+No procede.
+
+### 6.3.9 Usuarios piloto
+
+No procede.
+
+### 6.3.10 Feedback específico de grupo
 
 El feedback dado a nuestro grupo en específico se ha implementado en su totalidad dentro de las capacidades del grupo.
