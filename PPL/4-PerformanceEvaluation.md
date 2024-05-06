@@ -403,7 +403,8 @@ En el PPL, ha realizado tareas de programación como la recuperación de contras
 ### Romero González, Juan
 Durante el PPL, las principales contribuciones han sido: la mejora y actualización del plan de Marketing; la migración de los archivos de markdown a la carpeta de PPL y la actualización de los mismos para que concuerden con el entregable; la actualización del documento de Time-Effort; y también la participación como usuario piloto de la aplicación del grupo 10 de ISPP.
 
-- Urquijo Martínez, Álvaro
+### Urquijo Martínez, Álvaro
+En el PPL, la contribucion con respecto a código ha sido arreglar los filtros, pasandolos de frontend a backend. Además de eso, ha realizado pilotaje al grupo 10 (Cocemfe) y ha actualizado los documentos de Report y BGC, además del AutoDefenseSoftwareReviewerGuidelines tanto del S2 como del PPL.
 
 ## 2.6 World Project Launch (#WPL)
 - Arriaza Arriaza, Daniel
