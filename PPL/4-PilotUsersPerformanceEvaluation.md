@@ -60,7 +60,7 @@ En el siguiente documento se recoge una figura a modo de formulario con motivo d
 <tr><td><b>Cantidad de feedback recibido</b></td><td>10</td><td>10</td><td>7</td><td>10</td><td></td></tr>
 <tr><td><b>Comunicación</b></td><td>10</td><td>10</td><td>8</td><td>9</td><td></td></tr>
 <tr><td><b>Respeto</b></td><td>10</td><td>9</td><td>9</td><td>10</td><td></td></tr>
-<tr><td rowspan="2"><b>Nota Media</b></td><td rowspan="2">9.2</td><td rowspan="2">9.6</td><td rowspan="2">7.4</td><td rowspan="2"></td>9.4<td rowspan="2"></td></tr>
+<tr><td rowspan="2"><b>Nota Media</b></td><td rowspan="2">9.2</td><td rowspan="2">9.6</td><td rowspan="2">7.4</td><td rowspan="2">9.4</td><td rowspan="2"></td></tr>
 <tr></tr>
 </table>
 
