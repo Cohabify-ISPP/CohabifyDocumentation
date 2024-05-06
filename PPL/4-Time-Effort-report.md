@@ -9,6 +9,8 @@ Documento de esfuerzo temporal
     <tbody>
         <tr>
             <td rowspan=2><p>Márquez Sierra, María(editor)</p><p>Roldán García, Miguel Angel (editor)</p>
+                <p>Romero González, Juan (editor)</p>
+                <p>Barrera García, Ismael (revisor)</p>
             </td>
         </tr>
     </tbody>
@@ -31,10 +33,12 @@ Documento de esfuerzo temporal
 | Versión | Cambios | Autores |
 | --- | --- | --- |
 | V1.0 | Creación del documento | Miguel Ángel Roldán García |
+| V2.0 | Añadido PPL | Juan Romero González |
 
 ## Tabla de contenidos
 - [Time effort S2](#time-effort-s2)
 - [Time effort S3](#time-effort-s3)
+- [Time effort PPL](#time-effort-ppl)
 
 ### Time effort S2
 
