@@ -8,7 +8,9 @@ Información proporcionada por los usuarios piloto
 <table>
     <tbody>
         <tr>
-            <td rowspan=2><p>Olegario Morato Navarro (editor)</p> 
+            <td rowspan=2>
+                <p>Olegario Morato Navarro (editor)</p>
+                <p>María Márquez Soldán (revisora)</p>
             </td>
         </tr>
     </tbody>
@@ -78,4 +80,4 @@ Los comentarios de los usuarios piloto en el sondeo realizado en el S3 podrán e
 
 ## 1. Respuestas de usuarios piloto en PPL
 
-Los comentarios de los usuarios piloto en el sondeo realizado en el PPL podrán encontrarse [aquí](https://docs.google.com/spreadsheets/d/1Ansl108oJKcVhstcyYrPSaZzW7z1EGQO/edit?usp=drive_link&ouid=108296931947102541526&rtpof=true&sd=true).
+Los comentarios de los usuarios piloto en el sondeo realizado en el PPL podrán encontrarse [aquí](https://docs.google.com/spreadsheets/d/1cmro_xB-TRe7yXdB3UcP1307vvwNv_U8/edit?usp=sharing&ouid=108655059683716839594&rtpof=true&sd=true).
