@@ -8,7 +8,7 @@ Información proporcionada por los usuarios piloto
 <table>
     <tbody>
         <tr>
-            <td rowspan=2><p>Márquez Soldán, María (editor)</p><p>Barrera García, Ismael (editor)</p> 
+            <td rowspan=2><p>Olegario Morato Navarro (editor)</p> 
             </td>
         </tr>
     </tbody>
@@ -32,6 +32,8 @@ Información proporcionada por los usuarios piloto
 | --- | --- | --- |
 | V1.0 | Creación del documento | María Márquez Soldán |
 | V2.0 | Añadido S3 | Ismael Barrera García |
+| v3.0 | Añadido PPL | Olegario Morato Navarro |
+
 
 
 ## Tabla de contenidos
@@ -73,3 +75,7 @@ En este documento se recogerá toda la información proporcionada por los usuari
 ## 1. Respuestas de usuarios piloto en S3
 
 Los comentarios de los usuarios piloto en el sondeo realizado en el S3 podrán encontrarse [aquí](https://docs.google.com/spreadsheets/d/1z1EZIHl7eJzWmwBBX_ScUNQZg-XcckfW/edit?usp=sharing&ouid=108655059683716839594&rtpof=true&sd=true).
+
+## 1. Respuestas de usuarios piloto en PPL
+
+Los comentarios de los usuarios piloto en el sondeo realizado en el PPL podrán encontrarse [aquí](https://docs.google.com/spreadsheets/d/1Ansl108oJKcVhstcyYrPSaZzW7z1EGQO/edit?usp=drive_link&ouid=108296931947102541526&rtpof=true&sd=true).
