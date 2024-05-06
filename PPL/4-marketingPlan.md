@@ -130,7 +130,7 @@ A continuación se aporta una tabla que incluye un ejemplo de cada perfil al que
 | **Edad**          | 23 años                               | 20 años                                | 29 años                              |
 | **Sexo**          | Femenino                              | Masculino                              | Femenino                             |
 | **Orientación Sexual** | Heterosexual                     | Heterosexual                           | Bisexual                             |
-| **Lugar de Residencia** | Madrid, España                 | Ciudad de México, México               | Nómada (actualmente en Bali, Indonesia) |
+| **Lugar de Residencia** | Madrid, España                 | Cuenca, España               | Nómada (actualmente en Bali, Indonesia) |
 | **Estado Civil** | Soltera                               | Soltero                                | En una relación                      |
 | **Estado Laboral**| Empleada como analista financiero    | Estudiante de Ingeniería               | Freelancer en diseño gráfico         |
 | **Gustos o Intereses** | Networking, fitness, tecnología | Videojuegos, cine, deportes            | Fotografía, viajes, yoga             |
