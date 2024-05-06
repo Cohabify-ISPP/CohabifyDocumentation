@@ -35,10 +35,12 @@ Presentación de evaluación
 | V1.0 | Creación del documento | Guillermo Galeano de Paz |
 | V2.0 | Añadida presentación del S2 | Guillermo Galeano de Paz |
 | V3.0 | Añadida presentación del S3 | Olegario Morato Navarro |
+| V4.0 | Añadida presentación del PPL | Ismael Barrera García |
 
 ## Tabla de contenidos
 - [Presentación S2](#presentación-s2)
 - [Presentación S3](#presentación-s3)
+- - [Presentación PPL](#presentación-ppl)
 
 ### Presentación S2
 
@@ -118,4 +120,8 @@ Presentación de evaluación
 ### Presentación S3
 
 La presentación en formato PDF puede ser encontrada [aquí](https://github.com/Cohabify/CohabifyDocumentation/blob/PPL/PPL/4-presentacion-S3.pdf).
+
+### Presentación PPL
+
+La presentación en formato PDF puede ser encontrada [aquí](https://github.com/Cohabify/CohabifyDocumentation/blob/PPL/PPL/4-presentacion-PPL.pdf).
 
