@@ -21,7 +21,7 @@ AutoDefensa
             </td>
         </tr>
                 <tr>
-            <td rowspan=2><p>Olegario Morato Navarro (revisor)</p> 
+            <td rowspan=2><p>María Márquez Soldán (revisora)</p> 
             </td>
         </tr>
     </tbody>
