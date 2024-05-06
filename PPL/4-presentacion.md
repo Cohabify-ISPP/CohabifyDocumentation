@@ -117,5 +117,5 @@ Presentación de evaluación
 
 ### Presentación S3
 
-La presentación en formato PDF puede ser encontrada [aquí](https://github.com/Cohabify/CohabifyDocumentation/blob/S3/S3_markdown/docs/4-presentaci%C3%B3n.pdf).
+La presentación en formato PDF puede ser encontrada [aquí](https://github.com/Cohabify/CohabifyDocumentation/blob/PPL/PPL/4-presentacion-S3.pdf).
 
