@@ -685,3 +685,8 @@ Documento de esfuerzo temporal
 ### Time effort S3
 
 El documento del Time Effort del S3 puede encontrarse [aquí](https://github.com/Cohabify/CohabifyDocumentation/blob/PPL/PPL/4-Time-Effort-report-S3.pdf).
+
+
+### Time effort PPL
+
+El documento del Time Effort del PPL puede encontrarse [aquí](https://github.com/Cohabify/CohabifyDocumentation/blob/PPL/PPL/4-Time-Effort-report-PPL.pdf).
