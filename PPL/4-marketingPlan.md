@@ -10,7 +10,7 @@ Plan de Marketing
     <tbody>
         <tr>
             <td rowspan=2>Márquez Sierra, María (editor)<p></p>
-                Urquijo Martínez, Álvaro (revisor)<p></p>
+                Urquijo Martínez, Álvaro (editor)<p></p>
                 Arriaza Arriaza, Daniel (editor)<p></p>
                 Calero López, Marina (editor)<p></p>
                 González Castillero, Rafael (editor)<p></p>
@@ -121,6 +121,21 @@ Cohabify enfrenta competencia tanto de plataformas inmobiliarias tradicionales c
   1. **Joven Profesional:** Una recién graduada que comienza su carrera en una nueva ciudad. Valora la conveniencia, la asequibilidad y las conexiones sociales.
   2. **Estudiante:** Un estudiante universitario buscando compañeros de piso compatibles para compartir gastos y crear un entorno de convivencia de apoyo.
   3. **Nómada Digital:** Un freelancer o trabajador remoto buscando arreglos de vivienda flexibles y oportunidades para conocer personas afines durante sus viajes.
+ 
+A continuación se aporta una tabla que incluye un ejemplo de cada perfil al que intentamos alcanzar con nuestro marketing:
+
+| Categoría         | Joven Profesional                     | Estudiante                             | Nómada Digital                       |
+|-------------------|---------------------------------------|----------------------------------------|--------------------------------------|
+| **Nombre**        | Laura Martínez                        | Juan Gómez                             | Sofia Rangel                         |
+| **Edad**          | 23 años                               | 20 años                                | 29 años                              |
+| **Sexo**          | Femenino                              | Masculino                              | Femenino                             |
+| **Orientación Sexual** | Heterosexual                     | Heterosexual                           | Bisexual                             |
+| **Lugar de Residencia** | Madrid, España                 | Ciudad de México, México               | Nómada (actualmente en Bali, Indonesia) |
+| **Estado Civil** | Soltera                               | Soltero                                | En una relación                      |
+| **Estado Laboral**| Empleada como analista financiero    | Estudiante de Ingeniería               | Freelancer en diseño gráfico         |
+| **Gustos o Intereses** | Networking, fitness, tecnología | Videojuegos, cine, deportes            | Fotografía, viajes, yoga             |
+| **Datos Demográficos Relevantes** | Busca conveniencia y asequibilidad en alojamiento; valora las conexiones sociales. | Necesita compartir gastos; busca un ambiente de apoyo y amistoso. | Requiere flexibilidad en el alojamiento; desea conocer personas con intereses similares durante sus viajes. |
+
 
 ## Objetivos de Marketing y KPIs:
 - **Objetivo 1:** Aumentar la adquisición de usuarios en un 30% dentro de los primeros seis meses.
