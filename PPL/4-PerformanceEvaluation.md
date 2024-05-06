@@ -150,6 +150,7 @@ V5.0 | Añadidas notas de PPL y contribuciones | G4
   - [Romero González, Juan](#romero-gonzález-juan-3)
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-3)
 - [2.5 Preparing Project Launch (#PPL)](#25-preparing-project-launch-ppl)
+  - [Calero López, Marina](#calero-lópez-marina-ppl)
 - [2.6 World Project Launch (#WPL)](#26-world-project-launch-wpl)
 
 
@@ -358,7 +359,9 @@ En el sprint 3, ha realizado, con respecto a código, testing de Valoraciones de
 ### Barrera García, Ismael
 Durante el PPL, respecto al marketing, se ha redactado el guión de anuncio de inversores. En cuanto a desarrollo, ha solucionado incidencias y ha implementado el feedback de los usuarios pilotos y profesores: ha añadido la visibilidad de contraseñas, los chats privados con dueños y las restricciones de chats según el pricing, y ha arreglado los pisos en común, la incidencia existente al editar la contraseña de usuario, y otros fixes y refactorizaciones. Además, se ha grabado una parte de una de las demos. Por último, se ha realizado el pilotaje del grupo 10 de ISPP, COCEMFE.
 
-- Calero López, Marina
+### Calero López, Marina
+La contribución en este sprint en cuanto a la parte del código ha mejorado la pantalla de inicio y el formulario de publicación de vivienda. Por otro lado ha hecho la realización de anuncios junto a sus compañeros. En cuanto al marketing a sido la community manager de Instagram, encargada de crear la cuenta, gestinarla subiendo al menos una historia al día, así como subir publicaciones de los anuncios realizados, de que es Cohabify y los planes de precio; a parte, junto a otros compañeros, se han encargado del merchandising, diseñando los panfletos y las pegatinas. También ha sido la encargada de realizar la actualización del rendimiento del equipo asi como realizar y presentar la presentación junto a su compañero Daniel. Así mismo revisó la tarea 333 Añadir paginación a listados. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
+
 - Galeano de Paz, Guillermo
 - Gonzalez Castillero, Rafael
 - Márquez Sierra, María
