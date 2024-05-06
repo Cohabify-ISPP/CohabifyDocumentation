@@ -40,7 +40,7 @@ Presentación de evaluación
 ## Tabla de contenidos
 - [Presentación S2](#presentación-s2)
 - [Presentación S3](#presentación-s3)
-- - [Presentación PPL](#presentación-ppl)
+- [Presentación PPL](#presentación-ppl)
 
 ### Presentación S2
 
@@ -123,5 +123,7 @@ La presentación en formato PDF puede ser encontrada [aquí](https://github.com/
 
 ### Presentación PPL
 
-La presentación en formato PDF puede ser encontrada [aquí](https://github.com/Cohabify/CohabifyDocumentation/blob/PPL/PPL/4-presentacion-PPL.pdf).
+Las presentaciones en formato PDF pueden ser encontradas aquí: 
+[Presentación del producto](https://github.com/Cohabify/CohabifyDocumentation/blob/PPL/PPL/4-presentacion_PPL.pdf)
+[Marketing](https://github.com/Cohabify/CohabifyDocumentation/blob/PPL/PPL/4-presentacion_marketing_PPL.pdf).
 
