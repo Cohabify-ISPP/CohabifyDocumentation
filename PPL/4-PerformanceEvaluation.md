@@ -390,7 +390,7 @@ Durante el PPL, mis contribuciones han sido:  Grabar para los anuncios normales 
 Durante el sprint PPL, sus contribuciones han sido: grabar anuncios y contenido para redes sociales, así como editarlos, además de grabar y editar las demos de la aplicación. También ha colaborado en el guion de la segunda versión del anuncio de inversores. Ha colaborado con otros compañeros para preparar y organizar el merchandising como camisetas, pegatinas y panfletos. Ha ejercido como GM en el subgrupo 3 para gestionar el reparto de tareas. Además, ha recogido el feedback de los usuarios pilotos y ha evaluado el pilotaje del grupo de 10 de ISPP. Por último, ha ejercido como usuario piloto del grupo 10 de ISPP COCEMFE. 
 
 ### Robles Russo, Eduardo
-Durante el PPL, mis contribuciones han sido:  He actualizado la landing page con las changelogs y con las fotografias de algunos de nosotros cambiando estilo y he puesto los logos de las distintas paginas como tiktok, instagram y twitter. He actuado como usuario piloto para el grupo 10 de ISPP. He participado en uno de los anuncios como guardaspaldas.
+Durante el PPL, mis contribuciones han sido:  He actualizado la landing page con las changelogs y con las fotografias de algunos de nosotros cambiando estilo y he puesto los logos de las distintas paginas como tiktok, instagram y twitter. He actuado como usuario piloto para el grupo 10 de ISPP. He participado en uno de los anuncios como guardaspaldas. Tambien he revisado la pull request Añadir anuncios en pantalla de inicio /343.
 
 - Roldán García, Miguel Ángel
 - Romero González, Juan
