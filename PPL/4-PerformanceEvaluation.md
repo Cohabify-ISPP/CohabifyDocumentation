@@ -33,7 +33,7 @@ Evaluación de rendimiento individual
             </td>
             </tr>
         <tr>
-            <td rowspan=2><p> Márquez Soldán, María (editor)</p>
+            <td rowspan=2><p> Márquez Soldán, María (editor/revisor)</p>
             </td>
             </tr>
         <tr>
@@ -41,7 +41,7 @@ Evaluación de rendimiento individual
             </td>
             </tr>
         <tr>
-            <td rowspan=2><p> Morato Navarro, Olegario (editor/revisor)</p>
+            <td rowspan=2><p> Morato Navarro, Olegario (editor)</p>
             </td>
             </tr>
         <tr>
@@ -386,7 +386,7 @@ En este sprint se ha encargado principalmente de la creación y gestión del con
 Durante el PPL, se han llevado a cabo diversas contribuciones en áreas clave: en marketing, se completó la redacción del plan de marketing; en desarrollo, se logró la optimización SEO de la aplicación y se añadió una nueva funcionalidad para eliminar chats. Además, se elaboró una de las presentaciones requeridas durante el PPL y se realizó el pilotaje para el grupo 10 de ISPP COCEMFE. Finalmente, se realizó la autodefensa de este entregable.
 
 ### Márquez Soldán, María
-Durante el PPL, las contribuciones han sido las indicadas a continuación. En cuanto a marketing, la redacción del guión de anuncio de inversores. En cuanto a desarrollo, el arreglo de incidencias / implementación de feedback. Esto es: la visibilidad de contraseñas, arreglar los pisos en común, la adición de chats privados con dueños, la incidencia existente al editar la contraseña de usuario, la adición de restricciones de chats según el pricing y fixes/refactorización varias. Además, se ha grabado una parte de una de las demos y se han revisado varias issues (/337, /327, /340, /329 y /125 (esta última en documentación)). Por último, se ha realizado el pilotaje del grupo 10 de ISPP COCEMFE. 
+Durante el PPL, las contribuciones han sido las indicadas a continuación. En cuanto a marketing, la redacción del guión de anuncio de inversores. En cuanto a desarrollo, el arreglo de incidencias / implementación de feedback. Esto es: la visibilidad de contraseñas, arreglar los pisos en común, la adición de chats privados con dueños, la incidencia existente al editar la contraseña de usuario, la adición de restricciones de chats según el pricing y fixes/refactorización varias. Además, se ha grabado una parte de una de las demos y se han revisado varias issues (En desarrollo: /337, /327, /340, /329 y en documentación: /125, /124, /127, /117 y /122). Por último, se ha realizado el pilotaje del grupo 10 de ISPP COCEMFE. 
 
 ### Morato Navarro, Juan Carlos
 Durante el PPL, mis contribuciones han sido:  Grabar para los anuncios normales y de inversores, editar y grabar la demo de la aplicación, actuar como GM del grupo 2. Crear plantillas para posts como los planes de precio en instagram. He actuado como usuario piloto para el grupo 10 de ISPP. He diseñado las camisetas para el equipo, creado las imágenes para las pegatinas y panfletos y he ayudado a crear contenido  con doblajes de voz para tik tok y publicaciones informativas en instagram. También he animado el logo de la aplicación para el final de los anuncios. 
