@@ -43,6 +43,7 @@ Report
 | V3.0 | Actualización con información de Sprint 2 | Álvaro Urquijo Martínez |
 | V4.0 | Actualización con información de Sprint 3 | Álvaro Urquijo Martínez |
 | V5.0 | Actualización con información de PPL | Álvaro Urquijo Martínez |
+| V6.0 | Actualización con información de WPL | Álvaro Urquijo Martínez |
 
 
 ## Tabla de Contenidos
@@ -130,6 +131,20 @@ Report
         - [Uso de la IA](#638-uso-de-la-ia)
         - [Usuarios piloto](#639-usuarios-piloto)
         - [Feedback específico de grupo](#6310-feedback-específico-de-grupo)
+- [WPL](#7-wpl)
+    - [Feedback general](#71-feedback-general)
+    - [Feedback recibido por nuestro grupo](#72-feedback-recibido-por-nuestro-grupo)
+    - [Acciones de respuesta ante el feedback](#73-acciones-de-respuesta-ante-el-feedback)
+        - [Análisis de competidores](#731-análisis-de-competidores)
+        - [Análisis de costes](#732-análisis-de-costes)
+        - [Análisis de riesgo](#733-análisis-de-riesgo)
+        - [Documentación](#734-documentación)
+        - [Inicio efectivo](#735-inicio-efectivo)
+        - [Modelos de negocio](#736-modelos-de-negocio)
+        - [Roles](#737-roles)
+        - [Uso de la IA](#738-uso-de-la-ia)
+        - [Usuarios piloto](#739-usuarios-piloto)
+        - [Feedback específico de grupo](#7310-feedback-específico-de-grupo)
 
 
 
@@ -723,5 +738,70 @@ No procede.
 No procede.
 
 ### 6.3.10 Feedback específico de grupo
+
+El feedback dado a nuestro grupo en específico se ha implementado en su totalidad dentro de las capacidades del grupo.
+
+# 7. WPL
+## 7.1 Feedback general
+
+Dado que esta semana nuestro grupo no estaba encargado de aportar el feedback general a la DB, procedemos a dejar este apartado intencionadamente en blanco.
+
+## 7.2 Feedback recibido por nuestro grupo
+
+### Semana 12: 07/05
+
++ Mejorar la fluidez del inicio y de la transicion entre diapositivas.
++ Demo: sobra edición, imágenes de los perfiles distorsionadas, chat poco responsivo.
++ No decir roles, hay que transmitir que es un equipo multidisciplinar.
++ No detallar tanto los costes.
++ Reducir las formulas, explicar en que nos basamos y numeros finales en el anuncio de inversores.
++ Eliminar parte de la aplicación en inversores y posiblemente las gráficas.
++ No llamar Twitter a X.
++ Poner temporalidad en el plan de precios.
++ Poner en el orden optimista-realista-pesimista. Poner los valores encima de cada estimación.
++ Comentar quizás sólo el caso realista en el anuncio.
++ Si en el vídeo se han puesto cosas, no hace falta que se ponga en las transparencias.
+
+## 7.3 Acciones de respuesta ante el feedback
+
+Todo el feedback anotado se ha tenido en cuenta y se ha revisado usando una checklist con el objetivo de mejorar y no repetir los mismos errores. En los próximos entregables se marcarán las evidencias de estas correcciones para que quede constancia de nuestra respuesta al feedback.
+
+### 7.3.1 Análisis de competidores
+
+No procede.
+
+### 7.3.2 Análisis de costes
+
+No procede.
+
+### 7.3.3 Análisis de riesgos
+
+No procede.
+
+### 7.3.4 Documentación
+
+No procede.
+
+### 7.3.5 Inicio efectivo
+
+No procede.
+
+### 7.3.6 Modelos de negocio
+
+No procede.
+
+### 7.3.7 Roles
+
+No procede.
+
+### 7.3.8 Uso de la IA
+
+No procede.
+
+### 7.3.9 Usuarios piloto
+
+No procede.
+
+### 7.3.10 Feedback específico de grupo
 
 El feedback dado a nuestro grupo en específico se ha implementado en su totalidad dentro de las capacidades del grupo.
