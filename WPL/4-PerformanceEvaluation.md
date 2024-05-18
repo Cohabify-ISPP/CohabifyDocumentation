@@ -164,6 +164,19 @@ V5.0 | Añadidas notas de PPL y contribuciones | G4
   - [Romero González, Juan](#romero-gonzález-juan-4)
   - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-4)
 - [2.6 World Project Launch (#WPL)](#26-world-project-launch-wpl)
+  - [Arriaza Arriaza, Daniel](#arriaza-arriaza-daniel-5)
+  - [Barrera García, Ismael](#barrera-garcía-ismael-5)
+  - [Calero López, Marina](#calero-lópez-marina-5)
+  - [Galeano de Paz, Guillermo](#galeano-de-paz-guillermo-5)
+  - [Gonzalez Castillero, Rafael](#gonzalez-castillero-rafael-5)
+  - [Márquez Sierra, María](#márquez-sierra-maría-5)
+  - [Márquez Soldán, María](#márquez-soldán-maría-5)
+  - [Morato Navarro, Juan Carlos](#morato-navarro-juan-carlos-5)
+  - [Morato Navarro, Olegario](#morato-navarro-olegario-5)
+  - [Robles Russo, Eduardo](#robles-russo-eduardo-5)
+  - [Roldán García, Miguel Ángel](#roldán-garcía-miguel-ángel-5)
+  - [Romero González, Juan](#romero-gonzález-juan-5)
+  - [Urquijo Martínez, Álvaro](#urquijo-martínez-álvaro-5)
 
 
 ## Resumen ejecutivo
@@ -409,7 +422,10 @@ En el PPL, la contribucion con respecto a código ha sido arreglar los filtros, 
 ## 2.6 World Project Launch (#WPL)
 - Arriaza Arriaza, Daniel
 - Barrera García, Ismael
-- Calero López, Marina
+
+### Calero López, Marina
+La contribución en este sprint en cuanto a la parte del código he ocultado los botones de los chat para cunado un usuario no estuviera registrado y he mejorado algún mensaje de error. En cuanto al marketing Ha sido la community manager de Instagram, encargada de seguir subiendo contendio a dicha cuenta.También ha sido la encargada de realizar la actualización del rendimiento del equipo asi como realizar y presentar la presentación así como de realizarla. Así mismo terminó de revisar la tarea 333 Añadir paginación a listados. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
+
 - Galeano de Paz, Guillermo
 - Gonzalez Castillero, Rafael
 - Márquez Sierra, María
