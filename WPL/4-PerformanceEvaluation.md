@@ -188,21 +188,21 @@ En el presente documento se recoge la contribución individual de cada miembro d
 ### Puntuaciones
 
 Estudiante                  | #DP | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Peso
----                         | --- | --- | --- | --- | --- | --- | --- | ---
-Arriaza Arriaza, Daniel     | 10  | 10  | 10  | 10  | 10  | -   | -   | -
-Barrera García, Ismael      | 10  | 10  | 10  | 10  | 10  | -   | -   | -
-Calero López, Marina        | 10  | 10  | 10  | 10  | 10  | -   | -   | -
-Galeano de Paz, Guillermo   | 10  | 6   | 9   | 10  | 10  | -   | -   | -
-Gonzalez Castillero, Rafael | 10  | 10  | *   | 10  | 10  | -   | -   | -
-Márquez Sierra, María       | 10  | 10  | 10  | 10  | 10  | -   | -   | -
-Márquez Soldán, María       | 10  | 10  | 10  | 10  | 10  | -   | -   | -
-Morato Navarro, Juan Carlos | 10  | 10  | 10  | 10  | 10  | -   | -   | -
-Morato Navarro, Olegario    | 10  | 10  | 10  | 10  | 10  | -   | -   | -
-Robles Russo, Eduardo       | 10  | 10  | 10  | 10  | 10  | -   | -   | -
-Roldán García, Miguel Ángel | 10  | 10  | 10  | 10  | 10  | -   | -   | -
-Romero González, Juan       | 10  | 8   | 10  | 10  | 10  | -   | -   | -
-Urquijo Martínez, Álvaro    | 10  | 9   | 10  | 10  | 10  | -   | -   | -
-Total                       | 130 | 123 | 119 | 130 | 130 | -   | -   | -
+---                         | --- | --- | --- | --- | ---  | ---  | ---   | ---
+Arriaza Arriaza, Daniel     | 10  | 10  | 10  | 10  | 10   | 10   | 60    | 1
+Barrera García, Ismael      | 10  | 10  | 10  | 10  | 10   | 10   | 60    | 1
+Calero López, Marina        | 10  | 10  | 10  | 10  | 10   | 10   | 60    | 1
+Galeano de Paz, Guillermo   | 10  | 6   | 9   | 10  | 10   | 10   | 55    | 0.92
+Gonzalez Castillero, Rafael | 10  | 10  | *   | 10  | 10   | 10   | 50    | 1
+Márquez Sierra, María       | 10  | 10  | 10  | 10  | 10   | 10   | 60    | 1
+Márquez Soldán, María       | 10  | 10  | 10  | 10  | 10   | 10   | 60    | 1
+Morato Navarro, Juan Carlos | 10  | 10  | 10  | 10  | 10   | 10   | 60    | 1
+Morato Navarro, Olegario    | 10  | 10  | 10  | 10  | 10   | 10   | 60    | 1
+Robles Russo, Eduardo       | 10  | 10  | 10  | 10  | 10   | 10   | 60    | 1
+Roldán García, Miguel Ángel | 10  | 10  | 10  | 10  | 10   | 10   | 60    | 1
+Romero González, Juan       | 10  | 8   | 10  | 10  | 10   | 10   | 58    | 0.97
+Urquijo Martínez, Álvaro    | 10  | 9   | 10  | 10  | 10   | 10   | 59    | 0.98
+Total                       | 130 | 123 | 119 | 130 | 130  | 130  |    | 
 
 *Este miembro no ha sido evaluado en este sprint por su ausencia debido a motivos médicos.
 
