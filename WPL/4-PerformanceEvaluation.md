@@ -434,7 +434,7 @@ La contribución en este sprint en cuanto a la parte del código he ocultado los
 - Márquez Sierra, María
 
 ##  Márquez Soldán, María
-La contribución en este Sprint en cuanto a desarrollo ha sido el arreglo de chats, concretamente las dimensiones de imágenes en chat y otros arreglos visuales como la apariencia de los chats cuando hay más de 2 usuarios. En cuanto a documentación, contribuyó a las diapositivas de la sesión de retrospectiva introduciendo las contribuciones del G1. También ha revisado la issue /360 (desarrollo).
+La contribución en este Sprint en cuanto a desarrollo ha sido el arreglo de chats, concretamente las dimensiones de imágenes en chat y otros arreglos visuales como la apariencia de los chats cuando hay más de 2 usuarios. En cuanto a documentación, contribuyó a las diapositivas de la sesión de retrospectiva introduciendo las contribuciones del G1. También ha revisado la issue /360 (desarrollo). Por último, se ha realizado el pilotaje del grupo 10 de ISPP COCEMFE. 
 
 - Morato Navarro, Juan Carlos
 - Morato Navarro, Olegario
