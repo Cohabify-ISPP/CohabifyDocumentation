@@ -81,3 +81,7 @@ Los comentarios de los usuarios piloto en el sondeo realizado en el S3 podrán e
 ## 1. Respuestas de usuarios piloto en PPL
 
 Los comentarios de los usuarios piloto en el sondeo realizado en el PPL podrán encontrarse [aquí](https://docs.google.com/spreadsheets/d/1cmro_xB-TRe7yXdB3UcP1307vvwNv_U8/edit?usp=sharing&ouid=108655059683716839594&rtpof=true&sd=true).
+
+## 1. Respuestas de usuarios piloto en WPL
+
+Los comentarios de los usuarios piloto en el sondeo realizado en el WPL podrán encontrarse [aquí](https://docs.google.com/spreadsheets/d/1KjzEioyz4sIq7iDIuyXhPeEAZHrhXzUI/edit?usp=drive_link&ouid=108296931947102541526&rtpof=true&sd=true).
