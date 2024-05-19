@@ -439,6 +439,8 @@ La contribución en este Sprint en cuanto a desarrollo ha sido el arreglo de cha
 - Morato Navarro, Juan Carlos
 - Morato Navarro, Olegario
 - Robles Russo, Eduardo
-- Roldán García, Miguel Ángel
+## Roldán García, Miguel Ángel
+En el WPL, ha implementado la verificación de correo al editarlo en el perfil de usuario. También ha realizado el despliegue del WPL y tareas de coordinación.
+
 - Romero González, Juan
 - Urquijo Martínez, Álvaro
