@@ -35,6 +35,7 @@ Información proporcionada por los usuarios piloto
 | V1.0 | Creación del documento | María Márquez Soldán |
 | V2.0 | Añadido S3 | Ismael Barrera García |
 | v3.0 | Añadido PPL | Olegario Morato Navarro |
+| v4.0 | Añadido WPL | Olegario Morato Navarro |
 
 
 
