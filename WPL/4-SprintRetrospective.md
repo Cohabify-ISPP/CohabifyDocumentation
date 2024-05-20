@@ -38,51 +38,53 @@ Sprint Retrospective
 | V1.2 | Correcciones menores y revisión del documento | María Márquez Soldán |
 
 ## Tabla de contenidos
-- [Sprint Retrospective](#sprint-retrospective)
-  - [Versión Cambios Autores](#versión-cambios-autores)
-- [Tabla de contenidos](#tabla-de-contenidos)
 - [Resumen ejecutivo](#resumen-ejecutivo)
-- [1. Retrospectiva Sprint 1](#1-retrospectiva)
-  - [1.1 Semana 1](#11-semana-1)
-  - [1.1.1 Aspectos positivos](#111-aspectos-positivos)
-  - [1.1.2 Aspectos a mejorar](#112-aspectos-a-mejorar)
-  - [1.1.3 Acciones correctivas](#113-acciones-correctivas)
-  - [1.2 Semana 2](#12-semana-2)
-  - [1.2.1 Aspectos positivos](#121-aspectos-positivos)
-  - [1.2.2 Aspectos a mejorar](#122-aspectos-a-mejorar)
-  - [1.2.3 Acciones correctivas](#123-acciones-correctivas)
-- [2.1 Conclusiones Sprint 1](#21-conclusiones-sprint-1)
-- [3. Retrospectiva Sprint 2](#3-retrospectiva)
-  - [3.1 Semana 1](#31-semana-1)
-  - [3.1.1 Aspectos positivos](#311-aspectos-positivos)
-  - [3.1.2 Aspectos a mejorar](#312-aspectos-a-mejorar)
-  - [3.1.3 Acciones correctivas](#313-acciones-correctivas)
-  - [3.2 Semana 2](#32-semana-2)
-  - [3.2.1 Aspectos positivos](#321-aspectos-positivos)
-  - [3.2.2 Aspectos a mejorar](#322-aspectos-a-mejorar)
-  - [3.2.3 Acciones correctivas](#323-acciones-correctivas)
-- [4.1 Conclusiones Sprint 2](#41-conclusiones-sprint-1)
-- [5. Retrospectiva Sprint 3](#5-retrospectiva)
-  - [5.1 Semana 1](#51-semana-1)
-  - [5.1.1 Aspectos positivos](#511-aspectos-positivos)
-  - [5.1.2 Aspectos a mejorar](#512-aspectos-a-mejorar)
-  - [5.1.3 Acciones correctivas](#513-acciones-correctivas)
-  - [5.2 Semana 1](#52-semana-2)
-  - [5.2.1 Aspectos positivos](#521-aspectos-positivos)
-  - [5.2.2 Aspectos a mejorar](#522-aspectos-a-mejorar)
-  - [5.2.3 Acciones correctivas](#523-acciones-correctivas)
-- [6.1 Conclusiones Sprint 3](#61-conclusiones-sprint-3)
+- [1. Sprint 1](#1-sprint-1)
+    - [1.1 Retrospectiva](#11-retrospectiva)
+      - [1.1.1 Semana 1](#111-semana-1)
+      - [1.1.1.1 Aspectos positivos](#1111-aspectos-positivos)
+      - [1.1.1.2 Aspectos a mejorar](#1112-aspectos-a-mejorar)
+      - [1.1.1.3 Acciones correctivas](#1113-acciones-correctivas)
+      - [1.1.2.Semana 2](#112-semana-2)
+      - [1.1.2.1 Aspectos positivos](#1121-aspectos-positivos)
+      - [1.1.2.2 Aspectos a mejorar](#1122-aspectos-a-mejorar)
+      - [1.1.2.3 Acciones correctivas](#1123-acciones-correctivas)
+    - [1.2 Conclusiones](#12-conclusiones)
+- [2. Sprint 2](#2-sprint-2)
+    - [2.1. Retrospectiva](#21-retrospectiva)
+      - [2.1.1 Semana 1](#211-semana-1)
+      - [2.1.1.1 Aspectos positivos](#2111-aspectos-positivos)
+      - [2.1.1.2 Aspectos a mejorar](#2112-aspectos-a-mejorar)
+      - [2.1.1.3 Acciones correctivas](#2113-acciones-correctivas)
+      - [2.1.2 Semana 2](#212-semana-2)
+      - [2.1.2.1 Aspectos positivos](#2121-aspectos-positivos)
+      - [2.1.2.2 Aspectos a mejorar](#2122-aspectos-a-mejorar)
+      - [2.1.2.3 Acciones correctivas](#2123-acciones-correctivas)
+    - [2.2 Conclusiones](#22-conclusiones)
+- [3. Sprint 3](#3-sprint-3)
+    - [3.1. Retrospectiva](#31-retrospectiva)
+      - [3.1.1 Semana 1](#311-semana-1)
+      - [3.1.1.1 Aspectos positivos](#3111-aspectos-positivos)
+      - [3.1.1.2 Aspectos a mejorar](#3112-aspectos-a-mejorar)
+      - [3.1.1.3 Acciones correctivas](#3113-acciones-correctivas)
+      - [3.1.2 Semana 1](#312-semana-2)
+      - [3.1.2.1 Aspectos positivos](#3121-aspectos-positivos)
+      - [3.1.2.2 Aspectos a mejorar](#3122-aspectos-a-mejorar)
+      - [3.1.2.3 Acciones correctivas](#3123-acciones-correctivas)
+    - [3.2 Conclusiones](#32-conclusiones)
 
 
 ## Resumen ejecutivo
 En el presente documento, se reunirán todos los aspectos tratados durante las diferentes reuniones de retrospectiva realizadas a lo largo de los sprints. El objetivo de la retrospectiva es tratar de resumir cómo se ha trabajado, qué se ha hecho bien, qué se ha hecho mal, y cómo mejorar aquello que se ha hecho mal. Se separará el análisis de los sprints en cada semana de los mismos.
 
-## 1. Retrospectiva Sprint 1
+## 1. Sprint 1
 
-### 1.1 Semana 1
+### 1.1. Retrospectiva
+
+#### 1.1.1. Semana 1
 Durante la primera semana se establecieron tareas relacionadas con la preparación del entorno y modelo de datos de la aplicación de Cohabify. Además, se aprovechó para incluir tareas sencillas que permitieran al equipo adaptarse a las tecnologías que se usarían durante el resto del desarrollo. A continuación, se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la primera sesión de retrospectiva a mitad del Sprint 1.
 
-### 1.1.1 Aspectos positivos
+##### 1.1.1.1. Aspectos positivos
 
 | Aspectos positivos | Descripción |
 | --- | --- |
@@ -91,7 +93,7 @@ Durante la primera semana se establecieron tareas relacionadas con la preparaci�
 | Ha sido muy útil la extensión Live Share de Visual Studio | El equipo destaca la utilidad de Live Share para aplicar Pair Programming. |
 | Las revisiones de tareas han sido rápidas | Las tareas no han estado más de un día en estado de revisión. |
 
-### 1.1.2 Aspectos a mejorar
+##### 1.1.1.2. Aspectos a mejorar
 
 | Aspectos negativos | Descripción |
 | --- | --- |
@@ -103,7 +105,7 @@ Durante la primera semana se establecieron tareas relacionadas con la preparaci�
 | Carga de trabajo igualitaria | La carga de trabajo estuvo descompensada entre algunos miembros del equipo. |
 | Backlog Incompleto | El Product Backlog no se revisó correctamente y posteriormente se han detectado grandes problemas referentes a la cobertura de las funcionalidades definidas para la aplicación. |
 
-### 1.1.3 Acciones correctivas
+##### 1.1.1.3. Acciones correctivas
 
 | Acciones correctivas | Descripción |
 | --- | --- |
@@ -113,12 +115,12 @@ Durante la primera semana se establecieron tareas relacionadas con la preparaci�
 | Utilizar el calendario Niko Niko | Para poder saber en todo momento el estado de los miembros del equipo. |
 | Implementar correctamente la política de gestión de issues | Para llevar un control del estado de las tareas de una manera más adecuada. |
 
-### 1.2 Semana 2
+#### 1.1.2. Semana 2
 Durante la segunda semana se implementó prácticamente el core de la aplicación por completo, completando el Sprint Backlog en su totalidad. Aunque la comunicación ha mejorado, siguen existiendo problemas con uno de los Group Manager y su ausencia. Esto ha desencadenado en la dimisión como Group Manager del miembro para dejar a un candidato con más disponibilidad, algo importante para gestionar al equipo.
 
 A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la última sesión de retrospectiva del Sprint 1.
 
-### 1.2.1 Aspectos positivos
+##### 1.1.2.1. Aspectos positivos
 
 | Aspectos positivos | Descripción |
 | --- | --- |
@@ -128,7 +130,7 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | Repartir responsabilidades de forma fija al principio de semana | Esto ayuda a la organización del equipo, ya que se sabe en todo momento qué persona es responsable de cada tarea. |
 | Pair programming efectivo | Gracias al pair programming, el equipo puede aprender de los demás compañeros mientras se trabaja en las tareas. |
 
-### 1.2.2 Aspectos a mejorar
+##### 1.1.2.2. Aspectos a mejorar
 
 | Aspectos negativos | Descripción |
 | --- | --- |
@@ -143,7 +145,7 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | No asignar backend y frontend a la misma persona | Esto ha causado conflictos al unir ambas tareas en el desarrollo |
 | Priorizar lo funcional | No parar el flujo de trabajo tratando de mejorar el aspecto de la aplicación y enfocarse primero en obtener la funcionalidad |
 
-### 1.2.3 Acciones correctivas
+##### 1.1.2.3. Acciones correctivas
 
 | Acciones correctivas | Descripción |
 | --- | --- |
@@ -156,17 +158,19 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | Cambiar la fecha del sprint de lunes a domingo | Esta acción permitirá entregar con un día de antelación y facilitará el trabajo a los miembros encargados de realizar las presentaciones del martes. |
 | Seguir las pautas del team practices | El equipo se compromete a seguir las Team Practices para obtener buenas métricas en Governify. |
 
-## 2.1 Conclusiones Sprint 1
+### 1.2. Conclusiones
 Tras este primer sprint, el equipo puede concluir que se han aprendido valiosas lecciones que se pondrán en práctica de cara al segundo sprint. Aunque el trabajo en líneas generales haya ido bien, se espera que, mediante las medidas acordadas, la eficiencia y calidad del trabajo obtenido del sprint 2 aumente con respecto a este sprint.
 
-## 3. Retrospectiva Sprint 2
+## 2. Sprint 2
 
-### 3.1 Semana 1
+### 2.1. Retrospectiva
+
+#### 2.1.1. Semana 1
 Durante la primera semana se establecieron tareas relacionadas con la refactorización del código generado en el Sprint 1, así como con la finalización de tareas y funcionalidades pendientes del Sprint 1. El sprint de la semana 1 ha sido ejecutado de forma satisfactoria ya que se han acabado todas las tareas de la semana, en el tiempo esperado al tener una buena estimación y carga de trabajo equitativa.
 
 A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la última sesión de retrospectiva del Sprint 1.
 
-### 3.1.1 Aspectos positivos
+##### 2.1.1.1. Aspectos positivos
 
 | Aspectos positivos | Descripción |
 | --- | --- |
@@ -177,7 +181,7 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | La cantidad de tareas para este sprint ha sido adecuada | Todos los miembros tenían un número correcto de tareas. |
 | Se han estimado las tareas correctamente | Las estimaciones de las tareas se han ajustado a la realidad. |
 
-### 3.1.2 Aspectos a mejorar
+##### 2.1.1.2. Aspectos a mejorar
 
 | Aspectos negativos | Descripción |
 | --- | --- |
@@ -185,17 +189,17 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | Dashboard de dueños | Los dueños no tenían forma de ver sus anuncios de pisos |
 | Las métricas solo tienen en cuenta tareas de programación y de documentación | Es necesario tener en cuenta en las métricas las tareas administrativas y/o de ayuda. |
 
-### 3.1.3 Acciones correctivas
+##### 2.1.1.3. Acciones correctivas
 
 | Acciones correctivas | Descripción |
 | --- | --- |
 | Perfeccionar las métricas para tener en cuenta a los Group Manager | Cambiar las métricas para añadir aquellos aspectos de los que se encarguen los Group Manager. |
 
-### 3.2 Semana 2
+#### 2.1.2. Semana 2
 
 A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la segunda sesión de retrospectiva del Sprint 2.
 
-### 3.2.1 Aspectos positivos
+##### 2.1.2.1. Aspectos positivos
 
 | Aspectos positivos | Descripción |
 | --- | --- |
@@ -204,7 +208,7 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | Replanificación efectiva para llegar a las 10 horas de la semana | Al haber pocas tareas esta semana, hay tareas de la semana 3 que se han movido a esta de forma satisfactoria |
 | Se ha podido empezar testing | El testing se ha empezado en la semana 2 en lugar de la semana 3 al tener pocas tareas para esta semana |
 
-### 3.2.2 Aspectos a mejorar
+##### 2.1.2.2. Aspectos a mejorar
 
 | Aspectos negativos | Descripción |
 | --- | --- |
@@ -215,7 +219,7 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | Algunas descripciones de issues eran poco precisas | Al haber poco detalle en algunas tareas, la realización de estas ha sido un poco más complicado de lo esperado al no haber claridad en lo que había que hacer |
 | Se está usando poco el tablero de documentación | Se está descuidando el tablero de documentación y se debe de tener más actualizado |
 
-### 3.2.3 Acciones correctivas
+##### 2.1.2.3. Acciones correctivas
 
 | Acciones correctivas | Descripción |
 | --- | --- |
@@ -223,18 +227,18 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | Detallar mejor las descripciones de las tareas | Con el objetivo de tener las tareas más claras y poder llevarlas a cabo de forma más eficiente |
 | Realizar revisiones para asegurar que todas las tareas están en el tablero | Llevar a cabo revisiones del tablero para comprobar que todas las tareas se muestran correctamente y se pueda ver quien está asignado a esa tarea |
 
-### 3.3 Semana 3
+#### 2.1.3. Semana 3
 
 A continuación se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la última sesión de retrospectiva del Sprint 2.
 
-### 3.3.1 Aspectos positivos
+##### 2.1.3.1. Aspectos positivos
 
 | Aspectos positivos | Descripción |
 | --- | --- |
 | Que se estimen todas las tareas incluidas las de documentación | Al tener todas las tareas estimadas se han podido repartir con tiempo y de forma equitativa |
 | Que se revisen y se cierren las tareas en el tablero kanban | Al llevar un control del estado de las tareas en el tablero, se han evitado problemas encontrados en anteriores semanas, como la duplicación de tareas |
 
-### 3.3.2 Aspectos a mejorar
+##### 2.1.3.2. Aspectos a mejorar
 
 | Aspectos negativos | Descripción |
 | --- | --- |
@@ -248,7 +252,7 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | Intentar no romper la funcionalidad del resto de miembros del grupo | Tener cuidado con que partes del código se modifican y ser consciente de si afecta a la funcionalidad implementada por otro miembro del equipo |
 | No alarmarse los últimos días, arreglar lo que se pueda | Al aproximarse los días de despliegue no entrar en pánico e intentar solucionar bien los problemas que sean posibles |
 
-### 3.3.3 Acciones correctivas
+##### 2.1.3.3. Acciones correctivas
 
 | Acciones correctivas | Descripción |
 | --- | --- |
@@ -257,16 +261,18 @@ A continuación se muestran de forma resumida los aspectos positivos, a mejorar 
 | Comprobar el estado de develop periódicamente, puede hacerse bien el merge, pero no funcionar | Comprobar que develop está en el estado esperado de forma recurrente puede ayudar a identificar problemas con antelación |
 | Mirar bien las failure conditions de forma periódica, antes de la reunión de planificación | Tener en cuenta posibles cambios en las failure conditions de cara a la reunión de planificación para el reparto y estimación de tareas |
 
-## 4.1 Conclusiones Sprint 2
+### 2.2. Conclusiones
 Tras este segundo sprint, el equipo puede concluir que se han aprendido valiosas lecciones que se pondrán en práctica de cara al tercer sprint. Aunque el trabajo en líneas generales haya ido bien, el equipo espera que, de ahora en adelante se arregluen las incidencias con cierto margen de cara al sprint, y llevar un mejor ritmo de trabajo para no tener trabajo acumulado al final de cada semana del sprint, así mismo, el equipo quiere seguir trabajando en llevar a cabo una correcta estimación de las tareas para un posterior reparto equitativo de las mismas.
 
-## 5. Retrospectiva Sprint 3
+## 3. Sprint 3
 
-### 5.1 Semana 1
+### 3.1. Retrospectiva
+
+#### 3.1.1. Semana 1
 Durante la primera semana del Sprint 3, el foco principal ha sido la corrección de incidencias y mejoras generales de la aplicación, a partir del feedback de los usuarios piloto. Además, se ha implementado la pasarela de pago.
 A continuación, se muestran de forma resumida los aspectos positivos, a mejorar y acciones correctivas tomadas durante la primera sesión de retrospectiva del Sprint 3.
 
-### 5.1.1 Aspectos positivos
+##### 3.1.1.1. Aspectos positivos
 
 | Aspectos positivos | Descripción |
 | --- | --- |
@@ -277,21 +283,21 @@ A continuación, se muestran de forma resumida los aspectos positivos, a mejorar
 | Se han solucionado casi todas las incidencias y cambios sugeridos por los usuarios piloto | Se han implementado mejoras como aumentar el número de tags, mejoras en el formulario de registro, y mejoras visuales generales |
 | Se ha podido implementar la pasarela de pago para cambiar de plan | La pasarela de pago se ha incorporado satisfactoriamente |
 
-### 5.1.2 Aspectos a mejorar
+##### 3.1.1.2. Aspectos a mejorar
 
 | Aspectos negativos | Descripción |
 | --- | --- |
 | Pull Requests sin revisar demasiado tiempo | Algunas pull requests han tardado en cerrarse un poco debido a no revisarse rápidamente |
 | Muchas pull requests en revisión acumuladas| Al tener una gran carga de trabajo esta semana, casi todas las tareas se han hecho el fin de semana y, por lo tanto, se han acumulado muchas pull requests sin cerrar |
 
-### 5.1.3 Acciones correctivas
+##### 3.1.1.3. Acciones correctivas
 
 Durante esta sesión de retrospectiva no se han propuesto acciones de mejora.
 
-### 5.1 Semana 2
+#### 3.1.2. Semana 2
 Durante la segunda semana del Sprint 3, el foco principal ha sido realizar testing para cubrir el plan de pruebas, completar funcionalidades como el mapa o la pasarela de pago. Además, se ha continuado generando contenido para el marketing.
 
-### 5.2.1 Aspectos positivos
+##### 3.1.2.1. Aspectos positivos
 
 | Aspectos positivos | Descripción |
 | --- | --- |
@@ -301,20 +307,20 @@ Durante la segunda semana del Sprint 3, el foco principal ha sido realizar testi
 | La redistribución de equipos ha funcionado bien | Han habido cambios en la distribución de los equipos G1 y G3 pero se han realizado de manera rápida y sin estorbar al desarrollo |
 | Versión estable | No se han detectado errores graves en el despliegue |
 
-### 5.2.2 Aspectos a mejorar
+##### 3.1.2.2. Aspectos a mejorar
 
 | Aspectos negativos | Descripción |
 | --- | --- |
 | Tensión en las comunicaciones | Debido al estrés del proyecto, se han detectado pequeñas tensiones en las comunicaciones entre miembros |
 | Hay que reducir costes | El coste del proyecto se encuentra por encima del ideal y es necesario tomar medidas |
 
-### 5.2.3 Acciones correctivas
+##### 3.1.2.3. Acciones correctivas
 
 | Acciones correctivas | Descripción |
 | --- | --- |
 | Se reducirá alcance en tareas con menor prioridad | Se va a intentar recortar alcance para ahorrar recursos y estabilizar el coste del proyecto |
 | Rotaciones para ir a clase | Se ha propuesto rotar miembros del equipo para que no estén presentes todos en aquellas sesiones de clase no obligatorias para que el tiempo que queda se pueda dedicar a otro tipo de tareas |
 
-## 6.1 Conclusiones Sprint 3
+### 3.2. Conclusiones
 
 Tras este sprint, el equipo considera que es necesario recortar el alcance en marketing para poder reducir el coste actual del proyecto. El tiempo invertido no se ha desaprovechado pues se han mejorado muchas partes de la aplicación y además, se han completado todas las funcionalidades previstas. El objetivo del equipo ahora es mejorar los aspectos más negativos de la aplicación y actuar de manera inteligente en el marketing para evitar consumir más recursos de los necesarios.
