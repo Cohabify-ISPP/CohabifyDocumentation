@@ -9,8 +9,8 @@ Sprint Retrospective
 <table>
     <tbody>
         <tr>
-            <td rowspan=2>Morato Navarro, Juan Carlos (editor) <p></p> Morato Navarro, Olegario (editor) <p></p> Romero González, Juan (editor) 
-                <p></p> María Márquez Soldán (editora/revisora)
+            <td rowspan=2> <p>Morato Navarro, Juan Carlos (editor)</p>  <p>Morato Navarro, Olegario (editor)</p>
+                <p> Romero González, Juan (editor) </p> <p>María Márquez Soldán (editora/revisora)</p> <p>Ismael Barrera García (revisor)</p>
             </td>
         </tr>
     </tbody>
@@ -36,6 +36,7 @@ Sprint Retrospective
 | V1.0 | Creación del documento y contenido | Juan Romero González |
 | V1.1 | Modificación completa de la estructura y contenido | Olegario Morato Navarro / Juan Carlos Morato Navarro |
 | V1.2 | Correcciones menores y revisión del documento | María Márquez Soldán |
+| V1.2 | Correcciones de tabla de contenidos | Ismael Barrera García |
 
 ## Tabla de contenidos
 - [Resumen ejecutivo](#resumen-ejecutivo)
