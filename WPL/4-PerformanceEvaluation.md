@@ -425,7 +425,7 @@ En el PPL, la contribucion con respecto a código ha sido arreglar los filtros, 
 Durante el WPL se ha encargado de arreglar varios errores del registro y de ocultar los botones de los chat para los usuarios no registrados junto a su compañera Marina. Asimismo, ha sido el community manager de Twitter, subiendo contenido a dicha cuenta. También revisó la tarea 353 (Ver planes sin registrarse). Finalmente, hizo la presentación final para el WPL y realizó el pilotaje del grupo 10 (Cocemfe).
 
 ### Barrera García, Ismael
-Durante el WPL, respecto al desarrollo se ha realizado el arreglo de las imágenes de la pantalla de chats y otros aspectos visuales. En cuanto a documentación, se han realizado las diapositivas de la sesión de retrospectiva referentes a las contribuciones del G1.
+Durante el WPL, respecto al desarrollo se ha realizado el arreglo de las imágenes de la pantalla de chats y otros aspectos visuales. En cuanto a documentación, se han realizado las diapositivas de la sesión de retrospectiva referentes a las contribuciones del G1. Además, se ha realizado el pilotaje del G10.
 
 ### Calero López, Marina
 La contribución en este sprint en cuanto a la parte del código he ocultado los botones de los chat para cunado un usuario no estuviera registrado y he mejorado algún mensaje de error. En cuanto al marketing Ha sido la community manager de Instagram, encargada de seguir subiendo contendio a dicha cuenta.También ha sido la encargada de realizar la actualización del rendimiento del equipo asi como realizar y presentar la presentación así como de realizarla. Así mismo terminó de revisar la tarea 333 Añadir paginación a listados. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
