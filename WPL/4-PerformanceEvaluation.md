@@ -421,6 +421,7 @@ Durante el PPL, las principales contribuciones han sido: la mejora y actualizaci
 En el PPL, la contribucion con respecto a código ha sido arreglar los filtros, pasandolos de frontend a backend. Además de eso, ha realizado pilotaje al grupo 10 (Cocemfe) y ha actualizado los documentos de Report y BGC, además del AutoDefenseSoftwareReviewerGuidelines tanto del S2 como del PPL.
 
 ## 2.6 World Project Launch (#WPL)
+
 ### Arriaza Arriaza, Daniel
 Durante el WPL se ha encargado de arreglar varios errores del registro y de ocultar los botones de los chat para los usuarios no registrados junto a su compañera Marina. Asimismo, ha sido el community manager de Twitter, subiendo contenido a dicha cuenta. También revisó la tarea 353 (Ver planes sin registrarse). Finalmente, hizo la presentación final para el WPL y realizó el pilotaje del grupo 10 (Cocemfe).
 
@@ -435,7 +436,8 @@ La contribución en este sprint en cuanto a la parte del código he ocultado los
 ### Gonzalez Castillero, Rafael
 Ha hecho accesible a la visualización de planes de precios a los usuarios no registrados, mostrando la opción en la navbar. Encargado de gestionar la comunidad en tiktok y realizar y publicar los vídeos según el plan acordado. Se ha encargado de revisar la presentación, dando feedback de mejora según lo que se espera para el WPL. Finalmente ha realizado el pilotaje al grupo 10 de ISPP (Cocemfe).
 
-- Márquez Sierra, María
+### Márquez Sierra, María
+En este sprint, ha realizado la presentaación para la retrospectiva con los profesores, además de la autodefensa del Software Reviewer Guidelines. 
 
 ### Márquez Soldán, María
 La contribución en este Sprint en cuanto a desarrollo ha sido el arreglo de chats, concretamente las dimensiones de imágenes en chat y otros arreglos visuales como la apariencia de los chats cuando hay más de 2 usuarios. En cuanto a documentación, contribuyó a las diapositivas de la sesión de retrospectiva introduciendo las contribuciones del G1. También ha revisado la issue /360 (desarrollo). Por último, se ha realizado el pilotaje del grupo 10 de ISPP COCEMFE. 
@@ -453,4 +455,4 @@ En el WPL, ha implementado la verificación de correo al editarlo en el perfil d
 En el WPL, las principales aportaciones han sido: limitar el presupuesto de los anuncios de usuario, tanto en frontend como en Backend para que esté entro 0-50000; actualizar los documentos al entregable WPL, actualizar la presentación para la sesión de retrospectiva con todas las aportaciones de los integrantes del G3; elaborar la autodefensa del WPL; revisar el despliegue; revisar issues; enviar el correo a los usuarios piloto; y hacer de usuario piloto para el grupo 10.
 
 ### Urquijo Martínez, Álvaro
-En este sprint, ha contribuido al Marketing creando anuncios para las redes sociales, también ha creado la presentación para la clase de retrospectiva, además de las tareas habituales de cubrir el report y la BGC semanales.
+En este sprint, ha contribuido al marketing creando anuncios para las redes sociales, también ha creado la presentación para la clase de retrospectiva, además de las tareas habituales de cubrir el report y la BGC semanales.
