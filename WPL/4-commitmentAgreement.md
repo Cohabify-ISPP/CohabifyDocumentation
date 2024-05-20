@@ -29,6 +29,11 @@ Compromiso de participación
   </tr>
 </table>
 
+## Tabla de versiones
+| Versión | Cambios | Autores |
+| --- | --- | --- |
+| V1.0 | Creación del documento | Álvaro Urquijo Martínez|
+
 ## Compromiso de Participación en la Asignatura ISPP (Ingeniería del Software y Práctica Profesional) - Curso 2023-24
 
 Fecha: 04/03/2024
