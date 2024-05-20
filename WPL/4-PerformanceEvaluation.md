@@ -441,7 +441,10 @@ Ha hecho accesible a la visualización de planes de precios a los usuarios no re
 La contribución en este Sprint en cuanto a desarrollo ha sido el arreglo de chats, concretamente las dimensiones de imágenes en chat y otros arreglos visuales como la apariencia de los chats cuando hay más de 2 usuarios. En cuanto a documentación, contribuyó a las diapositivas de la sesión de retrospectiva introduciendo las contribuciones del G1. También ha revisado la issue /360 (desarrollo). Por último, se ha realizado el pilotaje del grupo 10 de ISPP COCEMFE. 
 
 - Morato Navarro, Juan Carlos
-- Morato Navarro, Olegario
+  
+### Morato Navarro, Olegario
+  Las contribuciones en este Sprint han sido principalmente, retocar anuncios y demos para el WPL, ejercer de GM del grupo 3 y hacer de usuario piloto para el grupo 10 de ISPP Cocemfe.
+  
 - Robles Russo, Eduardo
 ### Roldán García, Miguel Ángel
 En el WPL, ha implementado la verificación de correo al editarlo en el perfil de usuario. También ha realizado el despliegue del WPL y tareas de coordinación.
