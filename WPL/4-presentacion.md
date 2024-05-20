@@ -129,3 +129,7 @@ Las presentaciones en formato PDF pueden ser encontradas aquí:
 <br>
 [Marketing](https://github.com/Cohabify/CohabifyDocumentation/blob/PPL/PPL/4-presentacion_marketing_PPL.pdf)
 
+### Presentación PPL
+
+La presentación en formato PDF puede ser encontrada [aquí](https://github.com/Cohabify/CohabifyDocumentation/blob/PPL/PPL/4-presentacion_WPL.pdf).
+
