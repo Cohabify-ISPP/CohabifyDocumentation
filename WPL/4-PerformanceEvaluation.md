@@ -430,16 +430,19 @@ Durante el WPL, respecto al desarrollo se ha realizado el arreglo de las imágen
 La contribución en este sprint en cuanto a la parte del código he ocultado los botones de los chat para cunado un usuario no estuviera registrado y he mejorado algún mensaje de error. En cuanto al marketing Ha sido la community manager de Instagram, encargada de seguir subiendo contendio a dicha cuenta.También ha sido la encargada de realizar la actualización del rendimiento del equipo asi como realizar y presentar la presentación así como de realizarla. Así mismo terminó de revisar la tarea 333 Añadir paginación a listados. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
 
 - Galeano de Paz, Guillermo
-- Gonzalez Castillero, Rafael
+
+### Gonzalez Castillero, Rafael
+Ha hecho accesible a la visualización de planes de precios a los usuarios no registrados, mostrando la opción en la navbar. Encargado de gestionar la comunidad en tiktok y realizar y publicar los vídeos según el plan acordado. Se ha encargado de revisar la presentación, dando feedback de mejora según lo que se espera para el WPL. Finalmente ha realizado el pilotaje al grupo 10 de ISPP (Cocemfe).
+
 - Márquez Sierra, María
 
-##  Márquez Soldán, María
+### Márquez Soldán, María
 La contribución en este Sprint en cuanto a desarrollo ha sido el arreglo de chats, concretamente las dimensiones de imágenes en chat y otros arreglos visuales como la apariencia de los chats cuando hay más de 2 usuarios. En cuanto a documentación, contribuyó a las diapositivas de la sesión de retrospectiva introduciendo las contribuciones del G1. También ha revisado la issue /360 (desarrollo). Por último, se ha realizado el pilotaje del grupo 10 de ISPP COCEMFE. 
 
 - Morato Navarro, Juan Carlos
 - Morato Navarro, Olegario
 - Robles Russo, Eduardo
-## Roldán García, Miguel Ángel
+### Roldán García, Miguel Ángel
 En el WPL, ha implementado la verificación de correo al editarlo en el perfil de usuario. También ha realizado el despliegue del WPL y tareas de coordinación.
 
 - Romero González, Juan
