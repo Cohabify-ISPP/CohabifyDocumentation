@@ -449,6 +449,8 @@ La contribución en este Sprint en cuanto a desarrollo ha sido el arreglo de cha
 ### Roldán García, Miguel Ángel
 En el WPL, ha implementado la verificación de correo al editarlo en el perfil de usuario. También ha realizado el despliegue del WPL y tareas de coordinación.
 
-- Romero González, Juan
+### Romero González, Juan
+En el WPL, las principales aportaciones han sido: limitar el presupuesto de los anuncios de usuario, tanto en frontend como en Backend para que esté entro 0-50000; actualizar los documentos al entregable WPL, actualizar la presentación para la sesión de retrospectiva con todas las aportaciones de los integrantes del G3; elaborar la autodefensa del WPL; revisar el despliegue; revisar issues; enviar el correo a los usuarios piloto; y hacer de usuario piloto para el grupo 10.
+
 ## Urquijo Martínez, Álvaro
 En este sprint, ha contribuido al Marketing creando anuncios para las redes sociales, también ha creado la presentación para la clase de retrospectiva, además de las tareas habituales de cubrir el report y la BGC semanales.
