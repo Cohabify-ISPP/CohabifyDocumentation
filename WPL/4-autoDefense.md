@@ -9,13 +9,17 @@ AutoDefensa
 <table>
     <tbody>
         <tr>
-            <td rowspan=2><p>Álvaro Urquijo Martínez (editor)</p> 
+            <td rowspan=2><p>Álvaro Urquijo Martínez (editor), (revisor)</p> 
             </td>
         </tr>
         <tr>
           <td rowspan=2><p>Ismael Barrera García (editor)</p> 
             </td>
         </tr>
+	<tr>
+          <td rowspan=2><p>Juan Romero González (editor)</p> 
+            </td>
+        </tr>    
 	<tr>
           <td rowspan=2><p>María Márquez Sierra (editora)</p> 
             </td>
