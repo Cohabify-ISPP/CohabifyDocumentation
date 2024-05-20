@@ -34,11 +34,13 @@ Documento de esfuerzo temporal
 | --- | --- | --- |
 | V1.0 | Creación del documento | Miguel Ángel Roldán García |
 | V2.0 | Añadido PPL | Juan Romero González |
+| V3.0 | Añadido WPL | Juan Romero González |
 
 ## Tabla de contenidos
 - [Time effort S2](#time-effort-s2)
 - [Time effort S3](#time-effort-s3)
 - [Time effort PPL](#time-effort-ppl)
+- [Time effort WPL](#time-effort-wpl)
 
 ### Time effort S2
 
