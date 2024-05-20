@@ -443,4 +443,5 @@ La contribución en este Sprint en cuanto a desarrollo ha sido el arreglo de cha
 En el WPL, ha implementado la verificación de correo al editarlo en el perfil de usuario. También ha realizado el despliegue del WPL y tareas de coordinación.
 
 - Romero González, Juan
-- Urquijo Martínez, Álvaro
+## Urquijo Martínez, Álvaro
+En este sprint, ha contribuido al Marketing creando anuncios para las redes sociales, también ha creado la presentación para la clase de retrospectiva, además de las tareas habituales de cubrir el report y la BGC semanales.
