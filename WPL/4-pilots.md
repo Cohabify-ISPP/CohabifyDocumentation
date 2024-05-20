@@ -34,7 +34,7 @@ Lista y gestión de usuarios pilotos
 | V1.0 | Creación del documento | - |
 | V1.1 | Añadido versionado | Rafael González Castillero |
 | V1.2 | Añadido gestión de grupos en 2.3 Comunicación | Olegario Morato Navarro |
-| V1.3 | Añadida planificación de usuarios pilotos 2.6 Planificación de usuarios pilotos | Olegario Morato Navarro / Juan Carlos Morato Navarro |
+| V1.3 | Añadida planificación de usuarios pilotos en 2.6 Planificación de usuarios pilotos | Olegario Morato Navarro / Juan Carlos Morato Navarro |
 
 
 # Tabla de contenidos
