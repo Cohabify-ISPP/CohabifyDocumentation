@@ -36,12 +36,14 @@ Presentación de evaluación
 | V2.0 | Añadida presentación del S2 | Guillermo Galeano de Paz |
 | V3.0 | Añadida presentación del S3 | Olegario Morato Navarro |
 | V4.0 | Añadida presentación del PPL | Ismael Barrera García |
+| V5.0 | Añadida presentación del WPL | Ismael Barrera García |
 
 ## Tabla de contenidos
 - [Presentación S2](#presentación-s2)
 - [Presentación S3](#presentación-s3)
 - [Presentaciones PPL](#presentación-ppl)
-
+- [Presentación WPL](#presentación-wpl)
+  
 ### Presentación S2
 
 ![diapo1](images/PresentationS2/diapo1.png)
@@ -129,7 +131,7 @@ Las presentaciones en formato PDF pueden ser encontradas aquí:
 <br>
 [Marketing](https://github.com/Cohabify/CohabifyDocumentation/blob/PPL/PPL/4-presentacion_marketing_PPL.pdf)
 
-### Presentación PPL
+### Presentación WPL
 
 La presentación en formato PDF puede ser encontrada [aquí](https://github.com/Cohabify/CohabifyDocumentation/blob/WPL/WPL/4-presentacion_WPL.pdf).
 
