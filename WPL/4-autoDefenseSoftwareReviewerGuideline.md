@@ -51,6 +51,7 @@ AutoDefensa Software Reviewer Guidelines
 | V1.0 | Creación del documento en md | Miguel Ángel Roldán García y María Márquez Sierra |
 | V2.0 | Añadida autodefensa S2 | Álvaro Urquijo Martínez |
 | V3.0 | Añadido Autodefensa PPL | Álvaro Urquijo Martínez |
+| V4.0 | Añadido Autodefensa WPL | María Márquez Sierra |
 
 
 ## Tabla de contenidos
@@ -58,6 +59,7 @@ AutoDefensa Software Reviewer Guidelines
 - [Autodefensa s2](#autodefensa-s2)
 - [Autodefensa S3](#autodefensa-s3)
 - [Autodefensa PPL](#autodefensa-ppl)
+- [Autodefensa WPL](#autodefensa-wpl)
 
 ## Autodefensa S2
 A continuación se muestra una tabla con el listado de Failure Conditions encontradas en el documento de Software Reviewer Guidelines, un porcentaje que representa el nivel al que hemos seguido la condición indicada (100% significará que no hemos incumplido la condición, a medida que disminuya el porcentaje indicará que la failure condition se ha empezado a cumplir y por tanto, hay cierto nivel de fallo).
@@ -171,3 +173,48 @@ La siguiente tabla contiene un análisis sobre los comentarios recibidos por los
 | (C-12) El filtro de precios de viviendas funciona al reves de como debería. | Sí | 50% | Es un error que se arreglará en breve. |
 | (C-13) En la creacion de anuncio de vivienda, cuando se rellena el catastro, se rellenan direccion y superficie automáticamente, esto está bien, pero si quito el catástro, ahora no puedo borrar la direccion ni superficie. Ponte, que me equivocado, ahora tengo que refrescar y rellenar todo de nuevo. | No | - | Se puede introducir otra vez el catastro y buscando de nuevo se sobreescribirá. |
 | (C-14) Si introduzco un catastro inventado, me deja darle a publicar sin ubicacion ni superficie. | Sí | 20% | Es un error de validación importante que no debería ocurrir. |
+
+## Autodefensa WPL
+A continuación se muestra una tabla con el listado de Failure Conditions encontradas en el documento de Software Reviewer Guidelines, un porcentaje que representa el nivel al que hemos seguido la condición indicada (100% significará que no hemos incumplido la condición, a medida que disminuya el porcentaje indicará que la failure condition se ha empezado a cumplir y por tanto, hay cierto nivel de fallo).
+
+
+| Failure Condition | Porcentaje de completado | Razonamiento |
+| --- | --- | --- |
+|(RG-13) A legal interaction with your system results in an HTTP error perceived by user. | 90% | Se ha probado el sistema por nuestra parte y usuarios pilotos, pero no podemos garantizar con el nivel de pruebas realizadas que ciertas interacciones no resulten en lo esperado dando errores percibidos por el usuario. |
+|(RG-14) A legal interaction with your system results in a panic (crash/...) perceived by user. | 95% | Es poco probable que el sistema deje de responder debido a fallos en el código. |
+|(RG-15) A legal interaction with your system doesn’t have the expected behavior | 100% | Todas las interacciones que el usuario pueda realizar se han comprobado y funcionan correctamente. |
+| (RG-16) Submitting a form with wrong data is not detected (form validation) | 95% | Todos los formularios tienen validaciones tanto en frontend como en backend. |
+| (RG-17) An actor can list, edit, or delete data that belongs to another actor. | 100% | La seguridad del Sistema es un punto clave y somos conscientes de ello, en nuestra aplicación no se han encontrado errores de seguridad del estilo. |
+| (RG-18) The system is not deployed to the cloud, or it is not available any time during the subject(until July) | 90% | El despliegue ha sido realizado un día después del que se tenía planeado en un principio. |
+| (RG-19) The system deployment is modified /updated after the delivery deadline. | 100% | No se modifica el despliegue tras la fecha de entrega del entregable. |
+
+La siguiente tabla contiene un análisis sobre los comentarios recibidos por los usuarios piloto. Para cada comentario, se va a evaluar si es una Failure Condition y en qué grado se cumpliría, similar a la tabla anterior. Además se proporcionará una explicación.
+
+| Mensaje | ¿Es Failure Condition? | Porcentaje de completado | Razonamiento |
+| --- | --- | --- | --- |
+| (C-1) Poner una descripción muy larga a la hora de editar mi perfil por segunda vez. | No | 100% | La descripción del usuario carecía de un límite de longitud en frontend. Ya ha sido arreglado. |
+| (C-2) Escribir muy rápido y/o enviar muchos chats a la vez sin recargar la pagina. | No | 80% | El error se refiere a que si se envían muchos mensajes en un chat de forma rápida, algunos de estos no se envían. La razón en sí no es el que haga de forma rápida, sino las limitaciones generales que hemos encontrado con appengine para los websockets del chat, que provocan que se pierdan la mayoría de mensajes.  |
+| (C-3) En el registro te permite +14 caracteres y peta todo después. | Si | 25% | En el registro se permite un nombre de usuario de longitud 50, sin embargo, al editar el perfil el máximo es 14. Esto provoca que si se tiene un nombre de más de 14 caracteres no se pueda editar el perfil por fallo en esa validación, hasta cambiar el nombre a uno con 14 caracteres o menos. |
+| (C-4) Se descuadra la lista de viviendas cuando pones nombre muy largo | Sí | 25% | El límite de longitud que poseen los nombres de viviendas (100 caracteres) es demasiado alto y provoca que se muestre de forma incorrecta la vivienda creada en el listado. | 
+| (C-5) Si buscas con la lupa de viviendas la paginación desaparece y claramente lo que haya en otras paginas, no existe. | Si | 50% | La paginación se ha introducido como característica en un punto tardío del desarrollo, lo que ha provocado que no se haya integrado con el resto de la aplicación, como pueden ser los filtros. Además, no ha integrado con la barra de búsqueda, que sólo filtra en las viviendas de la página que esté en ese momento seleccionada, causando, además, que el menú de paginación desaparezca, dejando al usuario sin poder ver más viviendas que las que tenía la página antes de filtrar. |
+| (C-6) El registro no funciona bien del todo. El botón de registrarse no mostraba respuesta alguna, al clicar varias veces finalmente ha enviado un mensaje. | No | - | Probablemente el usuario pensara que no funciona puesto que el servidor tarda unos segundos en responder. |
+| (C-7) Al activar el correo dice que redireccionará, pero no lo ha hecho.  | No | - | Esto se debe a que finalmente se proporcionó un botón para que el propio usuario acceda ahí, por lo que sería necesario corregir el mensaje. |
+| (C-8) Al registrarme de nuevo y pulsar dos veces seguidas del botón de registro, me ha dicho (con algo de retardo) primero que está bien y me manda el correo y justo después otro aviso diciendo que ya existen esos datos (supongo que ha hecho la petición dos veces) | No | - | Véase (C-6) |
+| (C-9) La edición de usuario no me permite guardar los cambios, parece no funcionar el botón de guardar cambios. | No | - | No se ha logrado replicar el error. |
+| (C-10) El chat no se actualiza automáticamente, para que aparezcan mis mensajes tengo que recargar la página. | Sí | 50% |  Es un error conocido que es culpa de la conexión entre el backend en AppEngine y el frontend en Render. En local el chat funciona, pero en la versión desplegada, cada mensaje tarda en llegar una cantidad aparentemente aleatoria de tiempo. No hemos detectado patrón alguno pero sí que el problema está en la latencia al recibir los nuevos mensajes.  | 
+| (C-11) Respecto al chat, me he coordinado con un compañero para probarlo y al responderle no ha mandado mis mensajes, al recargar un rato después, mis mensajes han desaparecido. | Sí | 50% | Véase (C-10) |
+| (C-12) En las viviendas (búsqueda de viviendas) me ha dicho que no es capaz de acceder a los recursos (es posible que sea del despliegue). | No | - | Al intentar recrear este error, se ha podido acceder correctamente a la lista de viviendas tanto con url como en el botón.  |
+| (C-13) La imagen del usuario puede ser un gif. | No | - | Es algo que está contemplado como parte de la aplicación. |
+| (C-14) El chat funciona, pero tiene muchisima latencia. Con websockets iria mejor. | Sí | 50% | El chat ya está implementado con WebSockets. Véase (C-10) |
+| (C-15) Si el nombre de la vivienda es demasiado grande el html saca el texto del recuadro. | Sí | 25% | Es un error visual que debería arreglarse con brevedad para mejorar la apariencia de la aplicación. |
+| (C-16) He probado a meter spam (enlaces) en el chat, no sale nada. No se si es que lo tenéis controlado o si se ha congelado el chat. | Sí | 50% | No está contemplado. Véase (C-10) |
+| (C-17) He intentado mandar un mensaje por el chat y no me ha dejado, he recargado y ha ido correctamente. | Sí | 50% | Véase (C-10) |
+| (C-18) Al darle hacia atrás y volver al listado de anuncios de mis viviendas ha salido: "Error: No se han podido cargar las viviendas". Ni recargando la página me permite ver mis anuncios. | No | - | Al intentar recrear este error, se ha podido acceder correctamente a la lista de viviendas creadas tanto con url como en el botón. Puede ser problema del despliegue. |
+| (C-19) El botón de borrar perfil no funciona. | No | - | El borrado de perfil no está contemplado, pero por GDPR se planteará como adición futura. |
+| (C-20) Al editar un anuncio de vivienda y cambiar la ubicacion, esta no se edita. | No | - | No se ha logrado recrear, puede ser error del despliegue. |
+| (C-21) El chat no funciona, no se pueden enviar mensajes. | Sí | 50% | Véase (C-10) |
+| (C-22) Para editar el perfil es necesario cambiar la contraseña, no tiene sentido. | No | - | No se ha logrado recrear, se puede editar el perfil sin necesidad de cambiar la contraseña. |
+| (C-23) En el panel de Planes, los botones de seleccionar un plan cuando se está deslogado pone "Inicie sesión para contratar un plan" pero no funcionan los botones. | Sí | 20% | Es un error visual que debería arreglarse con brevedad para mejorar la apariencia de la aplicación. |
+| (C-24) Al intentar iniciar sesión con google, he seleccionado mi correo y he puesto como usuario "antonio" y en el último paso me ha dicho que ese nombre de usuario ya estaba pillado. He vuelto atrás para cambiarlo, pero ahora me dice que ya hay una cuenta con mi correo, pero no se ha llegado a crear la cuenta. | No | 50% | Véase (C-6) |
+| (C-25) Cuando hay una vivienda promocionada, los detalles como las habitaciones, baños, etc se salen del marco. | Sí | 25% | Es un error visual que debería arreglarse con brevedad para mejorar la apariencia de la aplicación. |
+| (C-26) El registro con Google no me funcionó. | No | 100% | Se ha comprobado que el registro con google funciona de forma correcta. Probablemente el usuario pensara que no funciona puesto que el servidor tarda unos segundos en responder. |
