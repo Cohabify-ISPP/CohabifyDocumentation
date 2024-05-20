@@ -447,7 +447,9 @@ La contribución en este Sprint en cuanto a desarrollo ha sido el arreglo de cha
 ### Morato Navarro, Olegario
   Las contribuciones en este Sprint han sido principalmente, retocar anuncios y demos para el WPL, ejercer de GM del grupo 3 y hacer de usuario piloto para el grupo 10 de ISPP Cocemfe.
   
-- Robles Russo, Eduardo
+### Robles Russo, Eduardo
+En las contribuciones de este sprint han sido actualizar el changelog con la nueva version del wpl y los links en la landing page. Tambien he hecho de usuarios piloto para el grupo 10 de ISPP Cocemfe.
+
 ### Roldán García, Miguel Ángel
 En el WPL, ha implementado la verificación de correo al editarlo en el perfil de usuario. También ha realizado el despliegue del WPL y tareas de coordinación.
 
