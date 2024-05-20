@@ -431,7 +431,8 @@ Durante el WPL, respecto al desarrollo se ha realizado el arreglo de las imágen
 ### Calero López, Marina
 La contribución en este sprint en cuanto a la parte del código he ocultado los botones de los chat para cunado un usuario no estuviera registrado y he mejorado algún mensaje de error. En cuanto al marketing Ha sido la community manager de Instagram, encargada de seguir subiendo contendio a dicha cuenta.También ha sido la encargada de realizar la actualización del rendimiento del equipo asi como realizar y presentar la presentación así como de realizarla. Así mismo terminó de revisar la tarea 333 Añadir paginación a listados. Y por último hizo el pilotaje del grupo 10 (Cocemfe).
 
-- Galeano de Paz, Guillermo
+### Galeano de Paz, Guillermo
+Este sprint ha hecho: arreglar la paginación para que funcione con los filtros, arreglar y crear datos iniciales, corregir problemas con el campo superficie en dos formularios, revisado el cumplimiento de las failure conditions y revisado las pull requests 365. 366 y 367.
 
 ### Gonzalez Castillero, Rafael
 Ha hecho accesible a la visualización de planes de precios a los usuarios no registrados, mostrando la opción en la navbar. Encargado de gestionar la comunidad en tiktok y realizar y publicar los vídeos según el plan acordado. Se ha encargado de revisar la presentación, dando feedback de mejora según lo que se espera para el WPL. Finalmente ha realizado el pilotaje al grupo 10 de ISPP (Cocemfe).
