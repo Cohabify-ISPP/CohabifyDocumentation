@@ -421,7 +421,8 @@ Durante el PPL, las principales contribuciones han sido: la mejora y actualizaci
 En el PPL, la contribucion con respecto a código ha sido arreglar los filtros, pasandolos de frontend a backend. Además de eso, ha realizado pilotaje al grupo 10 (Cocemfe) y ha actualizado los documentos de Report y BGC, además del AutoDefenseSoftwareReviewerGuidelines tanto del S2 como del PPL.
 
 ## 2.6 World Project Launch (#WPL)
-- Arriaza Arriaza, Daniel
+### Arriaza Arriaza, Daniel
+Durante el WPL se ha encargado de arreglar varios errores del registro y de ocultar los botones de los chat para los usuarios no registrados junto a su compañera Marina. Asimismo, ha sido el community manager de Twitter, subiendo contenido a dicha cuenta. También revisó la tarea 353 (Ver planes sin registrarse). Finalmente, hizo la presentación final para el WPL y realizó el pilotaje del grupo 10 (Cocemfe).
 
 ### Barrera García, Ismael
 Durante el WPL, respecto al desarrollo se ha realizado el arreglo de las imágenes de la pantalla de chats y otros aspectos visuales. En cuanto a documentación, se han realizado las diapositivas de la sesión de retrospectiva referentes a las contribuciones del G1.
