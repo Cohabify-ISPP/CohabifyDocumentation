@@ -131,5 +131,5 @@ Las presentaciones en formato PDF pueden ser encontradas aquí:
 
 ### Presentación PPL
 
-La presentación en formato PDF puede ser encontrada [aquí](https://github.com/Cohabify/CohabifyDocumentation/blob/PPL/PPL/4-presentacion_WPL.pdf).
+La presentación en formato PDF puede ser encontrada [aquí](https://github.com/Cohabify/CohabifyDocumentation/blob/WPL/WPL/4-presentacion_WPL.pdf).
 
